@@ -1,0 +1,168 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelector\/InputfieldSelector.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselector--inputfieldselector-module",
+    "translations": {
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Alan Ekle"
+        },
+        "d81f0f02cd6a877358cde8fbdbad89a5": {
+            "text": "d-m-Y"
+        },
+        "dab4b1ae6ff4f4a6b0ae4a2ce2601794": {
+            "text": "dd-mm-YY"
+        },
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "E\u015fittir"
+        },
+        "fb83c9b66919b4a757a43a807b6af2cf": {
+            "text": "E\u015fit De\u011fil"
+        },
+        "7288454fa442d48bc741c5cbadc2621b": {
+            "text": "B\u00fcy\u00fckt\u00fcr"
+        },
+        "45ed1ce04bcf6003d4702422e1221c85": {
+            "text": "K\u00fc\u00e7\u00fckt\u00fcr"
+        },
+        "948f7ffb9d1e26622df83711e20e2fb2": {
+            "text": "B\u00fcy\u00fckt\u00fcr yada E\u015fittir"
+        },
+        "189ce8ec24447eef9869d18043c9e303": {
+            "text": "K\u00fc\u00e7\u00fckt\u00fcr yada E\u015fittir"
+        },
+        "7842f2dabc6c53dca4319818c88ebeb9": {
+            "text": "Yaz\u0131 \u0130\u00e7eriyor"
+        },
+        "8354008c16032b35e36589957a3bd65f": {
+            "text": "\u0130fade \u0130\u00e7eriyor"
+        },
+        "7df149c48f0508977c06be79341a40ed": {
+            "text": "\u0130fade \u0130\u00e7eriyor"
+        },
+        "062e49c0f9af31da4f7314124191d9ef": {
+            "text": "\u0130le Ba\u015fl\u0131yor"
+        },
+        "3ad33d3cec01f7125e3cd0575cada7ef": {
+            "text": "\u0130le Bitiyor"
+        },
+        "1bb628612045d3d012de22cb249f83fc": {
+            "text": "G\u00f6re Artan"
+        },
+        "8ff3555e6aae7a100304c7b522bc350a": {
+            "text": "G\u00f6re Azalan"
+        },
+        "9f9913233699a4b67524eaac55a5f973": {
+            "text": "Var"
+        },
+        "aaa93244710b294d585b015dbb9b0317": {
+            "text": "Yok"
+        },
+        "a61bbf7ad0ed153cb6c84fe3c8a9f2bb": {
+            "text": "E\u015fle\u015fmeler"
+        },
+        "9c52ccb297567646df342a0413de3b02": {
+            "text": "E\u015fle\u015fmiyor"
+        },
+        "78c143802119a85c9774c0459240085d": {
+            "text": "Bo\u015f"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "Bo\u015f De\u011fil"
+        },
+        "66f6181bcb4cff4cd38fbc804a036db6": {
+            "text": "\u015fablon"
+        },
+        "d5d3db1765287eef77d7927cc956f50a": {
+            "text": "ba\u015fl\u0131k"
+        },
+        "b068931cc450442b63f5b3d276ea4297": {
+            "text": "ad"
+        },
+        "9acb44549b41563697bb490144ec6258": {
+            "text": "durum"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Gizli"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Yay\u0131nlanmam\u0131\u015f"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Kilitli"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "\u00c7\u00f6p"
+        },
+        "74ac6212232fa39e9dd75792f11e0b7e": {
+            "text": "son d\u00fczenleme tarihi"
+        },
+        "073a538b7c11fa1daeee78bccc09037d": {
+            "text": "son d\u00fczenleyen kullan\u0131c\u0131"
+        },
+        "04bc21c2a8622f27a748600d90461f93": {
+            "text": "olu\u015fturma tarihi"
+        },
+        "9a222eed91638be52a4d60f95d217836": {
+            "text": "olu\u015fturan kullan\u0131c\u0131"
+        },
+        "42c949394d485dded4deb38dae564492": {
+            "text": "alt sayfa say\u0131s\u0131"
+        },
+        "e2942a04780e223b215eb8b663cf5353": {
+            "text": "say\u0131"
+        },
+        "d0e45878043844ffc41aac437e86b602": {
+            "text": "ebeveyn"
+        },
+        "9e8872b73631e81c14729d40396e3765": {
+            "text": "ebeveyn..."
+        },
+        "d94c9c824878e0b9d9af473c028d4217": {
+            "text": "ebeveyn\/ata var"
+        },
+        "cadc8c8db42409733582cb3e2298ef87": {
+            "text": "s\u0131ralama"
+        },
+        "aa9f73eea60a006820d0f8768bc8a3fc": {
+            "text": "limit"
+        },
+        "d436eb0fd9de10b54a828ce6435f7e81": {
+            "text": "i\u00e7eriyor"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Hepsi"
+        },
+        "1a110fbdc786fe3100367f14c911a2da": {
+            "text": "(%d limitsiz)"
+        },
+        "291fec3d99e509d9fb698c7c422d34f3": {
+            "text": "Sistem Alanlar\u0131"
+        },
+        "ab38583cb2c8b20fce79578435547208": {
+            "text": "D\u00fczenleyenler"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "\u00d6zel Alanlar"
+        },
+        "f0c49f49661670cb88d2fd060c4d6a68": {
+            "text": "\u0130\u015faretli De\u011fi\u015f"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Hi\u00e7biri"
+        },
+        "ad666d19888133a3cebc428f7535f2af": {
+            "text": "Yazmaya ba\u015flay\u0131n..."
+        },
+        "719cb425116d7d1c8b0c62c7064aaf9b": {
+            "text": "Sat\u0131r\u0131 YADA yerine VE yapmak i\u00e7in kutuyu i\u015faretleyin"
+        },
+        "1d79542121869a6161bed167902ddc79": {
+            "text": "Her se\u00e7ici sat\u0131r\u0131 diyorki: alan de\u011fer ile e\u015fle\u015fmelidir. Bunlar VE ko\u015fulu ile \u00e7a\u011fr\u0131l\u0131r. E\u011fer ayn\u0131 alan yada de\u011fer i\u00e7in birden \u00e7ok sat\u0131rda yer al\u0131yorsa, YADA ko\u015fulu kullan\u0131labilir. Sat\u0131r sonundaki onay kutusu bunu yapman\u0131za olanak sa\u011fla. VE ko\u015fulunda arama yerine YADA ko\u015fulunu kullanmak i\u00e7in kutuyu i\u015faretleyin."
+        },
+        "b077806311238aeddd99b979570eb107": {
+            "text": "e\u015fle\u015fen %d sayfa"
+        },
+        "ea4311c5f366d55a9a6e38450d3bad9f": {
+            "text": "e\u015fle\u015fen %d sayfalar"
+        }
+    }
+}
