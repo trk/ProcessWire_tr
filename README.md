@@ -1,4 +1,9 @@
-ProcessWire_tr
+ProcessWire Türkçe Dil Çevirileri
 ==============
 
-ProcessWire Türkçe Sil Çevirileri
+**Author :** [İskender TOTOĞLU](http://altivebir.com.tr "ALTI ve BIR IT.")
+
+**Version :** [ProcessWire](http://processwire.com/ "ProcessWire") 2.4.2
+
+
+ProcessWire Türkçe Dil Çevirileri
