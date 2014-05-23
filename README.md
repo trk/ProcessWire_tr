@@ -7,3 +7,9 @@ ProcessWire Türkçe Dil Çevirileri
 
 
 ProcessWire Türkçe Dil Çevirileri
+
+### Çeviri Yapısı ###
+
+>**wire/** klasörü sistem (Çekirdek) çevirilerini içerir
+
+>**site/modules/** klasörü modül Çevirilerini İçerir
