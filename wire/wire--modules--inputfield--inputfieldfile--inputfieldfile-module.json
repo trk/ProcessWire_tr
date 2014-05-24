@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "A\u00e7\u0131klama"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Etiketler"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "dosyalar\u0131 buraya ta\u015f\u0131y\u0131p b\u0131rak\u0131n"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Eklenen dosya:"
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "Silinen dosya:"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "hedef-Yolu (destinationPath) bo\u015f yada yok"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "hedef-Yolu (destinationPath) yaz\u0131lamaz"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Maksimum dosya y\u00fckleme limitine ula\u015f\u0131ld\u0131"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "ZIP Dosyalar\u0131n\u0131 A\u00e7?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "E\u011fer \u0130\u015faretliyse, ZIP ar\u015fivleri a\u00e7\u0131lacak ve t\u00fcm ge\u00e7erli dosyalar y\u00fcklemelere eklenecek (e\u011fer hosting bar\u0131nd\u0131rma ortam\u0131 taraf\u0131ndan destekleniyorsa). CIP y\u00fcklemelerimim fonksiyonel olabilmesi i\u00e7in maksimum dosyalar\u0131n 0 (maksimum yok) olarak ayarlanmas\u0131 gerekiyor."
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "A\u00e7\u0131klama alan\u0131 i\u00e7in sat\u0131r say\u0131s\u0131?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Dosya a\u00e7\u0131klama alan\u0131 i\u00e7in kullan\u0131labilecek sat\u0131r say\u0131s\u0131n\u0131 girin, yada a\u00e7\u0131klama alan\u0131 yok ise '0' olarak girin."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Dosyalar"
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "Bir yada daha fazla dosya y\u00fcklemenizi sa\u011flar (s\u0131ralanabilir)"
+        }
+    }
+}
