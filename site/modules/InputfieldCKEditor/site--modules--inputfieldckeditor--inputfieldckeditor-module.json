@@ -1,0 +1,153 @@
+{
+    "file": "site\/modules\/InputfieldCKEditor\/InputfieldCKEditor.module",
+    "textdomain": "site--modules--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "\u0130ptal"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Ba\u011flant\u0131 Ekle"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Resim Se\u00e7"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Resmi D\u00fczenle"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Resmi Kaydet"
+        },
+        "941c891be23b6a837de1d46c30efad2a": {
+            "text": "Bu Resmi Ekle"
+        },
+        "a616a1ef7aa1ee32d7d31c742923a202": {
+            "text": "Ba\u015fka Resim Se\u00e7"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Evet"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Hay\u0131r"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "CKEditor Ayarlar\u0131"
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "CKEditor Ara\u00e7 \u00c7ubu\u011fu"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Herbir ara\u00e7 \u00e7ubu\u011fu \u00f6\u011fesini virg\u00fcl ile ay\u0131r\u0131n. Grup \u00f6\u011felerini tek sat\u0131rda olmal\u0131d\u0131r ve grupta nas\u0131l g\u00f6r\u00fcnmesini istiyorsan\u0131z tire \"-\" i\u015fareti kullan\u0131n. E\u011fer ara\u00e7 \u00e7ubu\u011funda birden fazla sat\u0131r istiyorsan\u0131z, herbir sat\u0131r\u0131 bo\u015f bir hat (line) ile ay\u0131r\u0131n."
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Edit\u00f6r Modu"
+        },
+        "0e0da14bdea5e80af97115d05779bdc4": {
+            "text": "D\u00fczenli Edit\u00f6r"
+        },
+        "9f1f94725c69ad201b156e002476104c": {
+            "text": "Inline Edit\u00f6r *"
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "tr"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "tr"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "CKEdit\u00f6r'\u00fc normal modda kullanma yerine inline modda kullanmak i\u00e7in MarkupHTMLPurifier mod\u00fcl\u00fcne ihtiyac\u0131n\u0131z var."
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "Inline modu aktive edildi\u011finde, sonraki tu\u015fu t\u0131klanana kadar edit\u00f6r y\u00fcklenmeyecek. E\u011fer sayfada birden fazla CKE edit\u00f6r alan\u0131 varsa bu h\u0131zl\u0131 ve daha etkilidir. D\u00fczenli moddaki gibi fazla \u00f6zellik ve \u00f6zelle\u015ftirme desteklemeyebilir."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "*Inline modunun ihtiya\u00e7 duydu\u011fu HTML Purifier mod\u00fcl\u00fc y\u00fcklendi (MarkupHTMLPurifier)."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "-Gerekli olan HTML Purifier mod\u00fcl\u00fc y\u00fcklendi."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "UYARI: hen\u00fcz y\u00fckl\u00fc de\u011fil. Inline modunu aktive etmeden \u00f6nce y\u00fcklemeniz gerekiyor."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "ACF Kullan (Advanced Content Filter)?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Evet ise, CKEditor Geli\u015fmi\u015f \u0130\u00e7erik Filtreleme (Advanced Content Filter - ACF) aktive edilecek. Bu filtreleme herhangibir tan\u0131nmam\u0131\u015f bi\u00e7imlendirme veya nitelikleri HTML kodunuzdan kald\u0131racak. Tavsiye Edilen."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "HTML Purifier Kullan?"
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Evet ise, g\u00f6nderilen i\u00e7erik sanitization(?) i\u00e7in [HTML Purifier](http:\/\/htmlpurifier.org\/) ile saplamak. Bu inline modu yada g\u00fcvenilmeyen kullan\u0131c\u0131lar i\u00e7in CKEdit\u00f6r\u00fcn kullanmas\u0131 gerekiyor. \u0130ki yolda \u00f6nerilir."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Etiket Formatlar\u0131"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "Noktal\u0131 virg\u00fcl ile ayr\u0131lm\u0131\u015f se\u00e7ilebilir a\u015fa\u011f\u0131 do\u011fru a\u00e7\u0131lan etiket \"format\" listesi."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "Varsay\u0131lan Etiket Formatlar\u0131:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Ekstra \u0130zin Verilen \u0130\u00e7erik"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "CKEditor [extraAllowedContent](http:\/\/docs.ckeditor.com\/#!\/api\/CKEDITOR.config-cfg-extraAllowedContent) i\u00e7in kurallar se\u00e7ene\u011fi. Sadece yukar\u0131daki \"ACF Kullan\" kutusu i\u015faretliyse uygulanacakt\u0131r."
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "[Detaylar\u0131](http:\/\/docs.ckeditor.com\/#!\/guide\/dev_allowed_content_rules-section-2) g\u00f6r\u00fcnt\u00fclemek i\u00e7in CKEditor d\u00f6k\u00fcmantasyonuna bak\u0131n."
+        },
+        "806b2c95762f2f630d14d7c1f31ff0d9": {
+            "text": "L\u00fctfen nas\u0131l kullanaca\u011f\u0131n\u0131z ile ilgili talimatlar\u0131m\u0131za [bak\u0131n\u0131z](https:\/\/github.com\/ryancramerdesign\/InputfieldCKEditor#custom-editor-css-file)."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "\u00d6zel Edit\u00f6r CSS Dosyay\u0131 (d\u00fczenli mod)"
+        },
+        "f2f6173341acbd07c6f8e1f7c33c8ef2": {
+            "text": "\u00d6rnek: \/site\/templates\/styles\/contents.css"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "\u00d6zel Edit\u00f6r CSS Dosyay\u0131 (inline mod)"
+        },
+        "f268472cbbde4d0ddda83cf6e5f3cfc8": {
+            "text": "\u00d6rnek: \/site\/templates\/styles\/contents-inline.css"
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Bu se\u00e7enek edit\u00f6rdeki metni ve di\u011fer elementleri active etmenizi sa\u011flar. Bu sadece y\u00f6netim panelinde nas\u0131l g\u00f6r\u00fcnmesi gerekti\u011fini belirler, ve internet sayfan\u0131n\u0131z\u0131n \u00f6n b\u00f6l\u00fcm\u00fcne hi\u00e7bir etki etmez."
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "\u00d6zel Edit\u00f6r JS Stil Seti"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "Bu se\u00e7enek \u00f6zel belirlemi\u015f oldu\u011funuz stil setini aktive etmenizi sa\u011flar. Yukar\u0131daki ara\u00e7 \u00e7ubu\u011fu ayarlar\u0131nda \"Stiller\" \u00f6\u011fesine sahip olman\u0131z gerekiyor."
+        },
+        "0d441a0c72720b50d77a97f195080663": {
+            "text": "\u00d6rnek: mystyles:http:\/\/domain.com\/site\/templates\/scripts\/mystyles.js"
+        },
+        "49f31d1ebcfa1cc9f51767ca52b36887": {
+            "text": "L\u00fctfen nas\u0131l kullanaca\u011f\u0131n\u0131z hakk\u0131ndaki [talimatlara](https:\/\/github.com\/ryancramerdesign\/InputfieldCKEditor#custom-editor-js-styles-set) bak\u0131n\u0131z."
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Ekstra Eklentiler"
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "Virg\u00fcl ile ayr\u0131lm\u0131\u015f CKEdit\u00f6r'\u00fcn ekstra y\u00fcklenmesini istedi\u011finiz eklenti listesi."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "\u00d6rnek: pwlink,pwimage,myplugin,anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Eklentileri Kald\u0131r"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "Virg\u00fcl ile ayr\u0131lm\u0131\u015f CKEdit\u00f6r'den kald\u0131r\u0131lmas\u0131n\u0131 istedi\u011finiz eklenti listesi."
+        },
+        "e78b7a28614a2ac65e38f5c459fcc8e6": {
+            "text": "\u00d6rnek: link,image"
+        },
+        "4852a56436bd75d8e8bc9e488d9ad452": {
+            "text": "CKEdit\u00f6r metin-alan\u0131 zengin metin edit\u00f6r\u00fc (beta mod\u00fcl)"
+        }
+    }
+}
