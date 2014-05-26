@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "Varsay\u0131lan De\u011fer"
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Se\u00e7enekler"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Se\u00e7ilmesini istedi\u011finiz de\u011ferleri her sat\u0131ra bir tane gelecek \u015fekilde belirtin."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Se\u00e7 (Select)"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "A\u00e7\u0131lan se\u00e7me men\u00fcs\u00fcnden bir de\u011fer se\u00e7menizi sa\u011flar"
+        }
+    }
+}
