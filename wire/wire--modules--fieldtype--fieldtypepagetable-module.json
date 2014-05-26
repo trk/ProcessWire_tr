@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "8f6254dc9b4d06a38d153c13d78edc1d": {
+            "text": "\u015eablon \u00f6\u011felerini se\u00e7in"
+        },
+        "e9283f30f6a2cab2c1bb72ddb98b7f44": {
+            "text": "Alan taraf\u0131ndan y\u00f6netilen sayfalar taraf\u0131ndan kullan\u0131lacak \u015fablonudur. Bu alan\u0131n ihtiya\u00e7 duyabilece\u011fi yeni \u015fablonlar olu\u015fturabilirsiniz."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "L\u00fctfen, \u015fablon se\u00e7tikten sonra kaydet tu\u015funa bas\u0131n ve Girdi (Input) tab\u0131 se\u00e7eneklerinde daha fazla se\u00e7enek g\u00f6receksiniz."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "\u00d6\u011ferleri \u00e7in ebeveyn se\u00e7in"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "T\u00fcm \u00f6\u011feler olu\u015fturuldu ve"
+        },
+        "0351f29283673d8cbbeb76d50cd9df52": {
+            "text": "\u0130ste\u011fe ba\u011fl\u0131d\u0131r. E\u011fer ebeveyn se\u00e7ili de\u011filse, sayfa d\u00fczenlendi\u011finde \u00f6\u011feler sayfan\u0131n alt \u00f6\u011felerinin yerine ge\u00e7ecek."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "Sayfa silindi\u011finde \u00f6\u011feleri \u00e7\u00f6pe at?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "\u0130\u015faretlendi\u011finde, sayfa silindi\u011finde olu\u015fturulan\/y\u00f6netilen \u00f6\u011feler otomatik olarak \u00e7\u00f6pe g\u00f6nderilecek. E\u011fer i\u015faretlenmezse, \u00f6\u011feler se\u00e7ilen ebeveyn alt\u0131nda yer alacak."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Bu se\u00e7enek sadece bir ebeveyn se\u00e7iliyse ge\u00e7erli olacak."
+        }
+    }
+}

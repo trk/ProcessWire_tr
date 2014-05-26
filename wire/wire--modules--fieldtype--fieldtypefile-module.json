@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
+    "translations": {
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "dosya-ad\u0131"
+        },
+        "abc5c518b64936be795f070ed2adf84f": {
+            "text": "Ge\u00e7erli Dosya Uzant\u0131lar\u0131"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Bu y\u00fckleme alan\u0131nda izin verilecek olan t\u00fcm dosya uzant\u0131lar\u0131n\u0131 girin. Herbir uzant\u0131y\u0131 bo\u015fluk ile ay\u0131r\u0131n. Hi\u00e7bir noktalama veya virg\u00fcl kullanmay\u0131n. Bu alan k\u00fc\u00e7\u00fck harfe duyarl\u0131 de\u011fildir."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maksimum \u0130zin Verilen Dosya"
+        },
+        "427422c500305acf3cb1d09967f3b5e3": {
+            "text": "Limit istemiyorsan\u0131z 0 girin. E\u011fer 1 girerseniz, API bu alan\u0131 dizi yerine tek dosya olaran dereference (?) edecek (Sayfa format\u0131 i\u00e7in \u00e7\u0131kt\u0131 a\u00e7\u0131k ise, de\u011fi\u015ftirilmediyse varsay\u0131lan olarak yap\u0131l\u0131r)."
+        },
+        "b07a8c03dba15d6e4c3ebf8c555c749a": {
+            "text": "Dosyalar\u0131n A\u00e7\u0131klama\/Etiket girdilerini \u015fifrele? (tavsiye edilir)"
+        },
+        "5a95a17c63903db6b24e1e8f2110a661": {
+            "text": "E\u011fer i\u015faretliyse, Dosya a\u00e7\u0131klama alanlar\u0131 \u015fifrelenecek (Sayfa format\u0131 i\u00e7in \u00e7\u0131kt\u0131 a\u00e7\u0131k ise, de\u011fi\u015ftirilmediyse varsay\u0131lan olarak yap\u0131l\u0131r)."
+        },
+        "3fc82a72e38b059cea88dcfbdaeafff8": {
+            "text": "Etiketleri Kullan?"
+        },
+        "3a37a820d95c0f598d6ea38f34716c31": {
+            "text": "\u0130\u015faretli ise, bu alan ayn\u0131 zamanda a\u00e7\u0131klamaya ek olarak bir etiket i\u00e7erecek."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Girdi-Alan\u0131 Tipi (Inputfield Type)"
+        },
+        "23f8d89e38fb131310ab885bad04b966": {
+            "text": "Girdi toplamak i\u00e7in kullan\u0131lacak alan tipi."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Dosyalar"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Bu alan bir yada daha fazla dosya bar\u0131nd\u0131rabilir"
+        }
+    }
+}
