@@ -1,15 +1,18 @@
-ProcessWire Türkçe Dil Çevirileri
+ProcessWire Türkçe Dil Çevirileri (Turkish Translations)
 ==============
 
-**Yazarlar :** [İskender TOTOĞLU](http://altivebir.com.tr "ALTI ve BIR IT."), [Fatih YILMAZER](mailto:fatihyilmazer@yahoo.com)
+**Yazarlar (Authors) :** [İskender TOTOĞLU](http://altivebir.com.tr "ALTI ve BIR IT."), [Fatih YILMAZER](mailto:fatihyilmazer@yahoo.com)
 
-**Versiyon :** [ProcessWire](http://processwire.com/ "ProcessWire") 2.4.2
+**Versiyon (PW Version) :** [ProcessWire](http://processwire.com/ "ProcessWire") 2.4.2
 
 
-ProcessWire Türkçe Dil Çevirileri
+ProcessWire Türkçe Dil Çevirileri (Turkish Translations)
 
-### Çeviri Yapısı ###
+##Çekirdek İçin Kabul Edilen Çeviri Klasör Yapısı (Accepted core translations folder structure)
 
->**wire/** klasörü sistem (Çekirdek) çevirilerini içerir
+>**wire/** Çeviri Dosyaları (Translation Files)
 
->**site/modules/** klasörü modül Çevirilerini İçerir
+##Modül Çevirileri İçin Kabul Edilen Klasör Yapısı (Accepted module translation folder structure)
+>**site/modules/** Klasörü Modül Çeviri Klasörlerini İçerir (Including module translation folders)
+
+>**site/modules/InputfieldCKEditor/** Çeviri Dosyaları (Translation Files)
