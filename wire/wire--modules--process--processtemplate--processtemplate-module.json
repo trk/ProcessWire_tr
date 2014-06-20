@@ -733,6 +733,9 @@
         },
         "edf7d3cbbda60af5148285cec1cd7569": {
             "text": "Bu \u015fablonu kullanan sayfalar URL yol sekmelerini iste\u011fe ba\u011fl\u0131 kullanabilir. \u00d6rnek : Sayfa yolunuzun \/sayfaya\/bir\/yol\/ \u015feklinde olmas\u0131n\u0131 istiyorsunuz ayn\u0131 zamanda \/sayfaya\/bir\/yol\/sekme1\/ yada \/sayfaya\/bir\/yol\/sekme1\/sekme2\/ \u015feklindeki istekleri i\u015flemek istiyorsunuz. Varsay\u0131lan olarak, ProcessWire b\u00f6yle bir URL de '404 Sayfa Bulunamad\u0131' hatas\u0131 d\u00f6nd\u00fcrecektir. Fakat e\u011fer ProcessWire \u0131n sayfay\u0131 be \u015fekilde g\u00f6stermesini istiyorsan\u0131z, kutuyu i\u015faretleyin. Bu \u015fekilde manuel olarak URL sekmelerini \u015fablonunuzdan yan\u0131tlamak i\u00e7in kontrol edebilirsiniz."
+        },
+        "9aa8f6fc386e155886938a352548a81c": {
+            "text": "D\u00fczenlendi"
         }
     }
 }

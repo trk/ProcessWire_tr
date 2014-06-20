@@ -17,11 +17,11 @@
         "ae91f58b191e424e0eaf9022fd5407e9": {
             "text": "\u0130nternet sayfas\u0131n\u0131 alt alan ad\u0131ndan ana alan ad\u0131na ta\u015f\u0131d\u0131\u011f\u0131n\u0131zda URL-lerin \u00e7al\u0131\u015f\u0131yor oldu\u011fundan emin olun (en yayg\u0131n \u00f6rnek)."
         },
-        "e6b391a8d2c4d45902a23a8b6585703d": {
-            "text": "URL"
-        },
         "0ac82d10c1ddd050079962481c40f54f": {
             "text": "Bu alan URL-yi bar\u0131nd\u0131r\u0131r"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Bu se\u00e7enek taksim i\u015fareti ile ba\u015flayan site yoluna otomatik olarak belirtmi\u015f oldu\u011funuz URL yi ekleyecek, \u015funa benzer \/belirtilen-yol\/yol\/. Bu internet sayfan\u0131z alt klas\u00f6r \u00fczerinden \u00e7al\u0131\u015f\u0131yorsa kullan\u0131\u015fl\u0131 olacakt\u0131r, \u00e7\u00fcnk\u00fc bu alt klas\u00f6r\u00fc dahil etmenize gerek kalmadan bu alana girilen yol ile m\u00fcmk\u00fcn olacakt\u0131r. Sonraki d\u00f6nemlerde alt klas\u00f6rdeki internet sayfas\u0131n\u0131 an dizine (ba\u015fka bir klas\u00f6re) ta\u015f\u0131d\u0131\u011f\u0131n\u0131zda endi\u015felenmenize gerek yok."
         }
     }
 }

@@ -62,9 +62,6 @@
         "290cc1b749092b6f62035343a4e4f9eb": {
             "text": "Herhangibir yerle\u015fik yada \u00f6zel alan tan\u0131mlayabilirsiniz. Ayn\u0131 zamanda \u00e7oklu alan \u00f6zelliklerinde,  alt alanlar (alan.alt-alan) kullanabilirsiniz, sayfa referanslar\u0131 gibi."
         },
-        "b1fa762606598a525eeda0b089d1adc1": {
-            "text": "Se\u00e7ti\u011finiz \u015fablona atanan \u00f6zel alanlar \u015funlard\u0131r:"
-        },
         "8ea5a88f78fabcfdc906c9cb8ec013f2": {
             "text": "Burada m\u00fcmk\u00fcn olarak \u00f6zel alanlar\u0131 g\u00f6rmek i\u00e7in, Detaylar tab\u0131ndan bir \u015fablon se\u00e7in, Kay\u0131t Edin, ve tekrar buraya gelin."
         },
@@ -76,6 +73,9 @@
         },
         "e4f63a8ac32b32675310ab45dd15e6cb": {
             "text": "E\u011fer ad format\u0131 alfan\u00fcmerik olmayan karakterler i\u00e7eriyorsa, [PHP tarih](http:\/\/www.php.net\/manual\/en\/function.date.php) format\u0131nda kabul edilecek. E\u011fer sadece alfan\u00fcmerik karakterler i\u00e7eriyorsa direk olarak kullan\u0131lacak, teklik sa\u011flamak i\u00e7in sonuna bir say\u0131 (gerekli oldu\u011funda) eklenecek."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Se\u00e7ti\u011finiz \u015fablona atanan \u00f6zel alanlar \u015funlard\u0131r:"
         }
     }
 }
