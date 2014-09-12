@@ -23,9 +23,6 @@
         "9c67d775a708bbc2a042f878e78cfe2c": {
             "text": "Site mod\u00fclleri i\u00e7in belirtilmi\u015ftir - \/site\/modules\/"
         },
-        "a7d6475ec8993b7224d6facc8cb0ead6": {
-            "text": "Site"
-        },
         "4d90ec9a7117ef7ad9c02a90860d7122": {
             "text": "Mod\u00fcl\u00fc silmek i\u00e7in, mod\u00fcl\u00fc d\u00fczenlemeye t\u0131klay\u0131n, 'kald\u0131r\" kutusunu i\u015faretleyin, kay\u0131t edin. Kald\u0131r\u0131lmadan \u00f6nce, mod\u00fcl dosyalar\u0131 \/site\/modules\/ klas\u00f6r\u00fcnden kald\u0131r\u0131labilir. E\u011fer listede hala g\u00f6r\u00fcn\u00fcyorsa, 'Yeni Mod\u00fcllere G\u00f6zat\" tu\u015funa t\u0131klay\u0131p ProcessWire'\u0131n de\u011fi\u015fiklikleri g\u00f6smesini sa\u011flayabilirsiniz."
         },
@@ -74,15 +71,6 @@
         "8cd0d0c99b062b3d22e8c7188ba33ab2": {
             "text": "Hepsini G\u00f6ster"
         },
-        "ccb108ad977122d69f8bbc7758997ff2": {
-            "text": "\/site\/assets\/cache\/ klas\u00f6r\u00fcn\u00fcn PHP i\u00e7in yaz\u0131labilir oldu\u011fundan emin olun."
-        },
-        "cfe1ee62b0efc597562d0b78c5196d47": {
-            "text": "(\/site\/modules\/) klas\u00f6r\u00fcn\u00fcn PHP taraf\u0131ndan yaz\u0131labilir oldu\u011funa emin olun."
-        },
-        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
-            "text": "ZipArchive s\u0131n\u0131f\u0131 zorunlu ve PHP'nizde bulunmuyor."
-        },
         "8395847485c9a34007295da6a4f9d4cf": {
             "text": "URL servisinden veri al\u0131n\u0131rken hata olu\u015ftur"
         },
@@ -121,24 +109,6 @@
         },
         "013ba726c842150ec33822c5a6fc6196": {
             "text": "\u0130ndirme iptal edildi"
-        },
-        "99c204fe00415e2086d5a54dc4f9f388": {
-            "text": "Hedef klas\u00f6r zaten mevcut ve yaz\u0131lamaz:"
-        },
-        "6d661071b2efa16ffc2a724ba033bb2f": {
-            "text": "\u0130ndirilen ZIP dosyas\u0131:"
-        },
-        "2a3cd9a18eaf3b274b4fa40068fff003": {
-            "text": "Dosyalar yeni klas\u00f6r\u00fcne ba\u015far\u0131yla kopyaland\u0131:"
-        },
-        "5a3527463defe3c1e1ab721c4942f331": {
-            "text": "Klas\u00f6r olu\u015fturulam\u0131yor:"
-        },
-        "6d1a22fe4861f1572d6d7f526e05ccf5": {
-            "text": "\u0130ndirilen ge\u00e7ici dosyalar silinemiyor:"
-        },
-        "fe0b9036f4efed3a5dc0ce583b1ed5c1": {
-            "text": "Mod\u00fcl\u00fc indirirken yada yazarken bir hata olu\u015ftu\u011fu g\u00f6r\u00fcn\u00fcyor."
         },
         "321a272463ceb9661e0951f1e3b639d5": {
             "text": "\u0130ndirilen:"
@@ -272,9 +242,6 @@
         "db91f2b6a497a7f2f78f5ef53cc47fab": {
             "text": "Dosya"
         },
-        "7f05cd7d695e4a911a436478a8f0cdfc": {
-            "text": "ID"
-        },
         "289aa00733ebcfd0bae827af29d01356": {
             "text": "Versiyon"
         },
@@ -301,6 +268,72 @@
         },
         "da50401ad6d0a7e3ec13844538e10864": {
             "text": "Mod\u00fcl Bilgisi"
+        },
+        "fadeae979278b23b0c0245fe143813ca": {
+            "text": "Klas\u00f6rden Mod\u00fcl Ekle"
+        },
+        "91412465ea9169dfd901dd5e7c96dd99": {
+            "text": "Y\u00fckle"
+        },
+        "a97f194fe643428c6e0e5b1d3ea79dbd": {
+            "text": "Y\u00fckleyerek Mod\u00fcl Ekle"
+        },
+        "5e3f8e6adc33178f32cc7beb6ad19072": {
+            "text": "URL den Mod\u00fcl Ekle"
+        },
+        "98dd43dfae05b11befe1f140e0ec787a": {
+            "text": "Y\u00fcklenen"
+        },
+        "19d1a8e075651f072ba0771e6cbc831b": {
+            "text": "Mod\u00fcl dizinini g\u00f6r\u00fcnt\u00fcle %s"
+        },
+        "94e84ea867143991751f06bad2b5da30": {
+            "text": "Son saat i\u00e7erisinde"
+        },
+        "a0d5ca48d2aafbe0c044daeedc4ca0e5": {
+            "text": "Son g\u00fcn i\u00e7erisinde"
+        },
+        "dc52e914c681bc112d4a36ed38e37299": {
+            "text": "Son hafta i\u00e7erisinde"
+        },
+        "12db5f4485378bd2b028b8f67a61533e": {
+            "text": "Son ay i\u00e7erisinde"
+        },
+        "21f29ba58fe9059dae498577efb26435": {
+            "text": "\u015eimdi Bulunan ve Y\u00fcklenen Mod\u00fcller"
+        },
+        "dc975a9e6b0112228c42a6abbe82ae93": {
+            "text": "Kaynak ZIP dosyas\u0131n\u0131n g\u00fcvenilir oldu\u011fundan kesinlikle emin olun."
+        },
+        "d5f38db4e3d76c9a7cda57c660ac0dad": {
+            "text": "Mod\u00fcl ZIP dosya URL si"
+        },
+        "29b21610722fa13430132a8d4e757d1f": {
+            "text": "Mod\u00fcl\u00fc i\u00e7eren bir ZIP dosyas\u0131 indir. E\u011fer indirdi\u011finiz mod\u00fcl zaten y\u00fckl\u00fcyse, indirilen versiyon y\u00fckl\u00fc olan versiyon \u00fczerine yaz\u0131lacak."
+        },
+        "617650497438099e992520bf3a664ba6": {
+            "text": "http:\/\/baglanti.com\/ModuleAdi.zip"
+        },
+        "e7aef889dd1b168dc269e9ddff6a57a5": {
+            "text": "Mod\u00fcl ZIP Dosyas\u0131"
+        },
+        "6010e3962902142283df28e6d1a1d897": {
+            "text": "Mod\u00fcl dosyalar\u0131n\u0131 i\u00e7eren ZIP dosyas\u0131n\u0131 indirin. E\u011fer var olan bir mod\u00fcl\u00fc y\u00fcklerseniz, y\u00fckledi\u011finiz mod\u00fcl var olan mod\u00fcl \u00fczerine yaz\u0131lacak."
+        },
+        "230420a05edcb2323c858d6c410d93cf": {
+            "text": "Mod\u00fcl bulunamad\u0131."
+        },
+        "5d695cc28c6a7ea955162fbdd0ae42b9": {
+            "text": "Bulundu"
+        },
+        "f629d0ec5b19860b76ae88da3ea10273": {
+            "text": "Web setvisinden JSON \u00e7\u00f6z\u00fcmlenirken hata olu\u015ftu"
+        },
+        "822213aa38da92d8819e5c3b4ebe4c71": {
+            "text": "\u00f6nceki y\u00fcklenen versiyondan daha eski!"
+        },
+        "67f02952b064d6064216f2639a516eca": {
+            "text": "Y\u00fcklenebilmesi i\u00e7in, ihtiya\u00e7 duyulan mod\u00fcl \"%s\""
         }
     }
 }

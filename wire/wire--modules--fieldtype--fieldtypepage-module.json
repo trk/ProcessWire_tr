@@ -31,6 +31,12 @@
         },
         "f7e35a334f1501cc0365458563f90cf5": {
             "text": "Eski ProcessWire d\u00fcr\u00fcmlerinden gelen bir sorun i\u00e7in yetim sayfalar\u0131 temizleme ve silme i\u015flemi yapar. E\u011fer sayfa bulma sonu\u00e7lar\u0131nda yanl\u0131\u015f bilgi al\u0131yorsan\u0131z (\u00f6zellikle pageref.count se\u00e7icisi ile), bu se\u00e7ene\u011fi \u00e7al\u0131\u015ft\u0131rabilirsiniz."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Sayfa bulunam\u0131yor"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "\u015eablon bulunam\u0131yor"
         }
     }
 }

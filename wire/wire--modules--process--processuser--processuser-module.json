@@ -16,6 +16,12 @@
         },
         "242e1deb2d082e524a63f255f9f08c11": {
             "text": "Sistem kullan\u0131c\u0131lar\u0131n\u0131 y\u00f6net"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Roller"
+        },
+        "5dee1c6493112af5676354d6c4243fbe": {
+            "text": "Kullan\u0131c\u0131 atand\u0131\u011f\u0131 rollerin izinlerini al\u0131r. Kullan\u0131ya birden fazla rol atanabilir. Sayfaya eri\u015fti\u011finde, kullan\u0131c\u0131 sadece rolden gelen izinlere sahip olur, bu ayn\u0131 zamanda sayfa \u015fablonlar\u0131 i\u00e7inde ge\u00e7erlidir."
         }
     }
 }

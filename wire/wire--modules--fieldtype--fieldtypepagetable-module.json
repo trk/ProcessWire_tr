@@ -29,9 +29,6 @@
         "5243227b5f4a58e7cc1be6b30f4bbce8": {
             "text": "E\u011fer ebeveyn se\u00e7ilmemi\u015f ise, \u00f6\u011feler d\u00fczenlenen sayfa i\u00e7in alt \u00f6\u011fe olarak yerle\u015ftirilecek."
         },
-        "ddc19cf5c5686124c1f40ee1175228f2": {
-            "text": "Sayfa Davran\u0131\u015flar\u0131"
-        },
         "f80a4ad87fee7c9fdc19b7769495fdb5": {
             "text": "Hi\u00e7biri"
         },
@@ -64,6 +61,21 @@
         },
         "22b094a7d09fdb1839dbfe384a0f4fac": {
             "text": "Bu \"%s\" \u00f6\u011feleri i\u00e7eren sayfa yay\u0131nlanmad\u0131\u011f\u0131nda ne yap\u0131lmas\u0131n\u0131 istiyorsunuz?"
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Sayfa Davran\u0131\u015flar\u0131"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Alanlar\u0131 s\u0131rala"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Tablonuzla s\u0131ralama yapmak i\u00e7in alan ad\u0131n\u0131 giriniz. Azalan s\u0131ralama i\u00e7in, alan ad\u0131n\u0131 tire ile yaz\u0131n, \u00f6rnek: \"tarih\" yerine \"-tarih\""
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Birden fazla alan s\u0131ralayabilirsiniz, herbir alan\u0131 virg\u00fcl ile ay\u0131rman\u0131z gerekiyor, \u00f6rnek: \"soyad, ad, -dogum_tarihi\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Manuel olarak ta\u015f\u0131-ve-b\u0131rak y\u00f6ntemiyle s\u0131ralamak i\u00e7in bo\u015f b\u0131rak\u0131n (varsay\u0131lan)"
         }
     }
 }

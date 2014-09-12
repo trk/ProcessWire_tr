@@ -46,6 +46,12 @@
         },
         "76effbf5625101a8e29d5720e986ee6a": {
             "text": "\u015eablonun \"%s\" burada kullan\u0131lmas\u0131na izin verilmiyor."
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Kaydet + Yay\u0131nla"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Uyar\u0131, se\u00e7ti\u011finiz isim \"%1$s\" zaten kullan\u0131mda ve \"%2$s\" olarak de\u011fi\u015ftirildi."
         }
     }
 }

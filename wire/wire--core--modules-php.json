@@ -22,6 +22,18 @@
         },
         "7dd5a577bde82df3631263cfd04a07bb": {
             "text": "Yetki silinirken hata olu\u015ftu: %s"
+        },
+        "336fe202866724eda0e075643f972571": {
+            "text": "Uyar\u0131: Dosya sisteminde iki ayr\u0131 mod\u00fcl \"%s\" kopyas\u0131 bulunuyor."
+        },
+        "01d68b9ea1b4ff3238768d9a30bcfa33": {
+            "text": "Bir nedenden dolay\u0131 ikisine birden ihiyac\u0131n\u0131n yok ise, l\u00fctfen \/site\/modules\/ alt\u0131ndaki bir tanesini silin."
+        },
+        "de7a358da1292f56861c726d3c860dc0": {
+            "text": "Gerekli olan mod\u00fcl y\u00fcklenemiyor"
+        },
+        "141e30f2de96660020efd996cc916413": {
+            "text": "Ba\u011fl\u0131 mod\u00fclde hata: %s gerekliler %s"
         }
     }
 }

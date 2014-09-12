@@ -250,6 +250,63 @@
         },
         "503eff76a9f0b3c0c78997aa4370e2f0": {
             "text": "Varsay\u0131lan olarak, Alan\u0131 kay\u0131t ettikten sonra alanlar edit\u00f6r\u00fcnde kalacaks\u0131n\u0131z. E\u011fer alan listesine d\u00f6nmek istiyorsan\u0131z kutuyu i\u015faretleyin."
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "\u0130\u00e7eri Aktar"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "D\u0131\u015far\u0131 Aktar"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "Tamam"
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "Alan Raporu Kontol\u00fc:"
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "%d yetim tablo sat\u0131rlar\u0131 bulundu"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "...ve benzeri..."
+        },
+        "a90c3a6bf539d90c6016413cddd2178c": {
+            "text": "L\u00fctfen alan\u0131 kontrol etmek i\u00e7in bunu \u00e7al\u0131\u015ft\u0131r\u0131n %s"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Alan i\u00e7in \"%s\" hata bulunamad\u0131"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Bilinmeyen \u00d6zellikler"
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "Bu alan i\u00e7in potansiyel bilinmeyen alan ayarlar\u0131 bulundu. L\u00fctfen \"Uyar\u0131\" tab\u0131na bak\u0131n."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "Yetim tablo sat\u0131rlar\u0131n\u0131 sil %d?"
+        },
+        "afb5272a55f7eb214fd004a5becf2bb7": {
+            "text": "Bu alan i\u00e7in tablada herhangibir sayfa ile e\u015fleymeyen veri sat\u0131rlar\u0131 bulduk."
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "Alan verisini kontol et"
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Kullan\u0131lmayan veri i\u00e7in alana g\u00f6zar yada di\u011fer m\u00fcmk\u00fcn olaran optimizasyonlar i\u00e7in. E\u011fer herhangibir hata bulunursa, kaydettikten sonra hata al\u0131yorsan\u0131z bunlar\u0131 d\u00fczeltmek i\u00e7in elinizde bir f\u0131rsat olacak."
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Kullan\u0131lmayan m\u00fclkleri sil: %s"
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "Silinen %d yetim sat\u0131rlar"
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Alan se\u00e7eneklerini koru?"
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Bu alan i\u00e7in t\u00fcm \u00f6zel ayarlar\u0131 korumak i\u00e7in kutuyu i\u015faretleyin(Alan ve Detaylar tab\u0131ndan). Bu tercih e\u011fer yeni alan tipi eski alan tipi ile ayn\u0131 yada  benze ayarlar i\u00e7eriyorsa. Ancak, sonu\u00e7 gereksiz olabilir yada ayarlamalar gereksiz veri i\u00e7erebilir. Bunu herzaman buradan analiz edebilirsiniz : Geli\u015fmi\u015f > Alan Verilerine G\u00f6zat"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "Uyar\u0131"
         }
     }
 }

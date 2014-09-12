@@ -32,9 +32,6 @@
         "e69ccb31941d2fd7923c6b0c01957db3": {
             "text": "Y\u00fcklenecek resimlerin maksimum resim geni\u015fli\u011fi"
         },
-        "21a08974171e7c2affbea041f9311318": {
-            "text": "Pixel olarak bir numara girin yada maksimum olmas\u0131n\u0131 istemiyorsan\u0131z bo\u015f b\u0131rak\u0131n"
-        },
         "c58e466902d0ff945d0677114e41682b": {
             "text": "Y\u00fcklenecek resimlerin maksimum resim y\u00fcksekli\u011fi"
         },
@@ -43,6 +40,36 @@
         },
         "8a29508fcba587b8af0cfb36c544ee0d": {
             "text": "Bir yada birden fazla resim y\u00fcklemenizi sa\u011flar (s\u0131ralanabilir)"
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Ge\u00e7ersiz Resim"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Resim %s minimun resim boyutu gereksinimlerini kar\u015f\u0131lam\u0131yor"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Sil"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "A\u015fa\u011f\u0131ya ta\u015f\u0131"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "Yukar\u0131ya ta\u015f\u0131"
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Pixel de\u011ferini numara olarak girin yada limit yok ise bo\u015f b\u0131rak\u0131n."
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Min. Resim Boyutlar\u0131"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "\u0130ste\u011fe ba\u011fl\u0131 olarak y\u00fcklenen resimler i\u00e7in minimun geni\u015flik ve\/yada y\u00fckseklik de\u011feri girin. E\u011fer belirtilmi\u015f ise, bu de\u011ferleri kar\u015f\u0131lamayan resimler reddedilecek."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Min. y\u00fcklenen resim geni\u015fli\u011fi"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Min. y\u00fcklenen resim y\u00fcksekli\u011fi"
         }
     }
 }
