@@ -35,9 +35,6 @@
         "03c2e7e41ffc181a4e84080b4710e81e": {
             "text": "Yeni"
         },
-        "cb4e8aca2c4d3f2f34a8019ac88458bd": {
-            "text": "Yeni Bulunan Mod\u00fcller"
-        },
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "Mod\u00fcl S\u0131n\u0131f Ad\u0131"
         },
@@ -166,12 +163,6 @@
         },
         "b7e2c8a0dd9e5f4ac8848dc0ff32ba0f": {
             "text": "Mod\u00fclleri listele, d\u00fczenle yada y\u00fckle\/kald\u0131r"
-        },
-        "ea6cee49cbd5313f532c8f213e820e63": {
-            "text": "Mod\u00fcl \u0130nsternet Servisi URL'si"
-        },
-        "b815574829ed2efce1faef571bc8b22e": {
-            "text": "Mod\u00fcl \u0130nternet Servisi API Anahtar\u0131"
         },
         "70d2b9e888cc1816db79833873ff3a93": {
             "text": "Mod\u00fcl"
@@ -334,6 +325,27 @@
         },
         "67f02952b064d6064216f2639a516eca": {
             "text": "Y\u00fcklenebilmesi i\u00e7in, ihtiya\u00e7 duyulan mod\u00fcl \"%s\""
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Yenile"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Ayarla"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Y\u00fckle"
+        },
+        "385accc7e6612e8dba4e99f22b6876b1": {
+            "text": "Mod\u00fcl bu ayarlanabilir se\u00e7eneklere sahip"
+        },
+        "8c3466d7f1cc1dc4c01a040fe64573d5": {
+            "text": "Dosya sisteminde y\u00fcklenmemi\u015f mod\u00fcller"
+        },
+        "fd50b49603c0cfa8d50d7c2933cc052c": {
+            "text": "Y\u00fckle %s?"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Yeni Ekle"
         }
     }
 }

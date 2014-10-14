@@ -14,9 +14,6 @@
         "af32834e6517e929e3993eb018b46ac0": {
             "text": "Herhangibir mod\u00fcl dosyas\u0131 bulunam\u0131yor"
         },
-        "c137d70093460b298739f9503c46eeaa": {
-            "text": "Klas\u00f6r sembolik ba\u011flant\u0131d\u0131r"
-        },
         "2a3cd9a18eaf3b274b4fa40068fff003": {
             "text": "Dosyalar ba\u015far\u0131yla yeni klas\u00f6re ta\u015f\u0131nd\u0131"
         },
@@ -52,6 +49,9 @@
         },
         "e830879e542fd52ca82f599ce41b6668": {
             "text": "ZIP dosyas\u0131n\u0131 indir: %s (%d byte)"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "L\u00fctfen bunu %s not edin, bu bir sembolik ba\u011flant\u0131d\u0131r ve d\u00fczenli bir dizine d\u00f6n\u00fc\u015ft\u00fcr\u00fclecek."
         }
     }
 }
