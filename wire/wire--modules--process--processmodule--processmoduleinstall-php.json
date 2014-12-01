@@ -51,7 +51,7 @@
             "text": "ZIP dosyas\u0131n\u0131 indir: %s (%d byte)"
         },
         "04abd66e622f247f079329fcbc51b97c": {
-            "text": "L\u00fctfen bunu %s not edin, bu bir sembolik ba\u011flant\u0131d\u0131r ve d\u00fczenli bir dizine d\u00f6n\u00fc\u015ft\u00fcr\u00fclecek."
+            "text": "L\u00fctfen not %s sembolik bir ba\u011flant\u0131d\u0131r ve d\u00fczenli bir dizine d\u00f6n\u00fc\u015ft\u00fcr\u00fclm\u00fc\u015ft\u00fcr"
         }
     }
 }

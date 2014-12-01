@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Modal pencerede a\u00e7?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Bu kutuyu i\u015faretleyerek bu tab\u0131 kendi modal penceresinde a\u00e7\u0131labilir yapacaks\u0131n\u0131z. Bu geni\u015f formlarda performansa olumlu \u015fekilde etki edecektir."
+        }
+    }
+}
