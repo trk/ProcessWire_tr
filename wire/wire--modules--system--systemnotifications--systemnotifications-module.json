@@ -1,0 +1,78 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotifications.module",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotifications-module",
+    "translations": {
+        "09bcb72d61c0d6d1eff5336da6881557": {
+            "text": "ge\u00e7erlili\u011fini yitirenler"
+        },
+        "3228f89d6d7bef8bf9c32fa47cbb82b0": {
+            "text": "404 olu\u015ftu: %s"
+        },
+        "f1aac9258ac4fde43df9a1c10945c133": {
+            "text": "Kullan\u0131c\u0131 giri\u015f yapt\u0131: %s"
+        },
+        "6749d5c7c5998b79513c6257606ffedc": {
+            "text": "Giri\u015f ba\u015far\u0131s\u0131z: %s"
+        },
+        "cb44f59c366c2adb4a35ef342be91163": {
+            "text": "Kullan\u0131c\u0131 \u00e7\u0131k\u0131\u015f yapt\u0131: %s"
+        },
+        "74459ca3cf85a81df90da95ff6e7a207": {
+            "text": "sn"
+        },
+        "975a85a4ffa56e23c70e2bbeaf405ac7": {
+            "text": "sn"
+        },
+        "d8bd79cc131920d5de426f914d17405a": {
+            "text": "dk"
+        },
+        "1442a7b6e2c20b27775175eecba84dac": {
+            "text": "dk"
+        },
+        "896c55cc5e46fab38ce9f51ebf7bfcd3": {
+            "text": "saat"
+        },
+        "73cdddd7730abfc13a55efb9f5685a3b": {
+            "text": "saat"
+        },
+        "628b7db04235f228d40adc671413a8c8": {
+            "text": "g\u00fcn"
+        },
+        "44fdec47036f482b68b748f9d786801b": {
+            "text": "g\u00fcn"
+        },
+        "97bc592b27a9ada2d9a4bb418ed0ebed": {
+            "text": "\u015fimdi"
+        },
+        "9aa587bfb76008ca6b764747b7e43aff": {
+            "text": "\u015fimdi"
+        },
+        "6d0a578ca2f2c0e792fc923002fccbe3": {
+            "text": "\u00f6nce"
+        },
+        "0914afe426319fe974cef0952de1ed3b": {
+            "text": "%d yeni mesaj"
+        },
+        "c92bdbaba42dc068673bfa173e7be426": {
+            "text": "%d yeni mesaj"
+        },
+        "6ab40b9da8f74c8299cdb3afba46eda6": {
+            "text": "%d yeni uyar\u0131"
+        },
+        "164d23ca0285a3061ee20f166343f068": {
+            "text": "%d yeni uyar\u0131"
+        },
+        "246262550fe3b31379bb81b656e4d64f": {
+            "text": "%d yeni hata"
+        },
+        "f476d7ef955355a5633a914abbe1f3c1": {
+            "text": "%d yeni hata"
+        },
+        "2009e6e3b0f694f86c2f98728c22b053": {
+            "text": "%d aktif i\u015flem"
+        },
+        "1a4d810a18e54ec6648c1b3c99b84cd9": {
+            "text": "%d aktif i\u015flem"
+        }
+    }
+}
