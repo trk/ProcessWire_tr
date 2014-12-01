@@ -3,7 +3,7 @@ ProcessWire Türkçe Dil Çevirileri (Turkish Translations)
 
 **Yazarlar (Authors) :** [İskender TOTOĞLU](http://altivebir.com.tr "ALTI ve BIR IT.")
 
-**Versiyon (PW Version) :** [ProcessWire](http://processwire.com/ "ProcessWire") ProcessWire 2.4.18 dev
+**Versiyon (PW Version) :** [ProcessWire](http://processwire.com/ "ProcessWire") ProcessWire 2.5.10 dev
 
 ProcessWire Türkçe Dil Çevirileri (Turkish Translations)
 
