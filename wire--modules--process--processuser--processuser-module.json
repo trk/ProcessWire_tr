@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUser.module",
+    "textdomain": "wire--modules--process--processuser--processuser-module",
+    "translations": {
+        "1dae534355f564549697cc7da0eee7e7": {
+            "text": "Kedinizden 'superuser' rol\u00fcn\u00fc kald\u0131rmamal\u0131s\u0131n\u0131z"
+        },
+        "a756ba771ff16a33ad921b8f017a7161": {
+            "text": "Kendinize 'superuser' rol\u00fc atayamazs\u0131n\u0131z"
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "Kullan\u0131c\u0131lar"
+        },
+        "242e1deb2d082e524a63f255f9f08c11": {
+            "text": "Sistem kullan\u0131c\u0131lar\u0131n\u0131 y\u00f6net"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Roller"
+        },
+        "5dee1c6493112af5676354d6c4243fbe": {
+            "text": "Kullan\u0131c\u0131 atand\u0131\u011f\u0131 rollerin izinlerini al\u0131r. Kullan\u0131ya birden fazla rol atanabilir. Sayfaya eri\u015fti\u011finde, kullan\u0131c\u0131 sadece rolden gelen izinlere sahip olur, bu ayn\u0131 zamanda sayfa \u015fablonlar\u0131 i\u00e7inde ge\u00e7erlidir."
+        },
+        "4b99fa96a7caeeafc646d0f0a059ea4d": {
+            "text": "%d kullan\u0131c\u0131"
+        },
+        "8103e74ea76ab74a0eabfc5d09e6588a": {
+            "text": "%d kullan\u0131c\u0131lar"
+        },
+        "4d4587e01b893874091ed2bcb940c2a8": {
+            "text": "Bu rol\u00fc de\u011fi\u015ftiremezsiniz"
+        },
+        "903c654a1a01b07cf8dd1567b1b99b3a": {
+            "text": "Rol\u00fc silmek i\u00e7in izniniz yok : %s"
+        },
+        "5374d65ce11cc92d3c142cc0249fde0a": {
+            "text": "Rol\u00fc eklemek i\u00e7in izniniz yok : %s"
+        },
+        "ba0bf134511b54d35d023da28eb75e39": {
+            "text": "Silmeye \u00e7al\u0131\u015ft\u0131\u011f\u0131n\u0131z rol(ler) kullan\u0131c\u0131 d\u00fczenlemeyi engelliyor. Roller geri y\u00fcklendi."
+        }
+    }
+}

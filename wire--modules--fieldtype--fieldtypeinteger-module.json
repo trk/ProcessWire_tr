@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Bo\u015f ve 0 e\u015fde\u011fermisir?"
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Hay\u0131r - Bo\u015f ve 0 e\u015fde\u011ferdir"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "Hay\u0131r - Bo\u015f ve 0 farkl\u0131 anlamlara gelir"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Varsay\u0131lan de\u011fer"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Bu ProcessWire \u0131n sayfalar\u0131n veritaban\u0131nda bulunma operasyonuna etki edecek."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "E\u011fer 0 ve bo\u015f e\u015fde\u011fer ise (Evet se\u00e7ene\u011fi) **field=0** yada **field=\"\"** aramas\u0131 ayn\u0131 sonucu \u00fcretecek."
+        },
+        "33865caeae8ea654a7fef819270e40b3": {
+            "text": "E\u011fer e\u015fde\u011fer de\u011filseler (Hay\u0131r se\u00e7ene\u011fi) **field=0** aramas\u0131 sadece de\u011feri 0 olan alanlar\u0131 i\u00e7erecek, ve **field=\"\"** e\u015fle\u015fmesi sadece bo\u015f de\u011fer i\u00e7eren alanlar\u0131 d\u00f6nd\u00fcrecek."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Ba\u015fka bir \u00f6rnek, Evet se\u00e7ene\u011fi ile  **field<1** her iki \u015fekilde e\u015fle\u015fecek de\u011fer 0 ve de\u011fer yoksa, ve Hay\u0131r se\u00e7ene\u011fi sadece 0 se\u00e7ene\u011fi ile e\u015fle\u015fecek."
+        },
+        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
+            "text": "Yeni olu\u015fturulan sayfalar i\u00e7in bu de\u011fer alan i\u00e7in varsay\u0131lan olarak ayarlanm\u0131\u015fsa varolan sayfalar i\u00e7in etki etmeyecek."
+        }
+    }
+}

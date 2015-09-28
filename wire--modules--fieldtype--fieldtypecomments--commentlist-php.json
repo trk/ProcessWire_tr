@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlist-php",
+    "translations": {
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Yorumlar"
+        },
+        "25d8df6e580905091a0d5ef5b9e05bf0": {
+            "text": "Cevapla"
+        },
+        "6194a6554ccb6086b8809d2b3a5dddaf": {
+            "text": "Yorumu be\u011fen"
+        },
+        "c7e01d04a86dacfbef51bb8cd79ae5eb": {
+            "text": "Yorumu be\u011fenme"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldAsmSelect\/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "74c0ecf830d7e594ea8491c932418590": {
+            "text": "\u00c7oklu se\u00e7in, birden fazla se\u00e7im yapabilmek i\u00e7in geni\u015fletmeye a\u00e7\u0131k"
+        },
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "Se\u00e7ili sayfalar\u0131 sayfa edit\u00f6r\u00fcnde ba\u011flant\u0131 yap?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Aktif edildi\u011finde, se\u00e7ili etiketler se\u00e7ili sayfalar i\u00e7in d\u00fczenleme ba\u011flant\u0131s\u0131 olacak."
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Hay\u0131r"
+        },
+        "16de616a3ba1c1801d425dacdd28aff6": {
+            "text": "Evet (modal pencerede)"
+        }
+    }
+}

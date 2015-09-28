@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldForm.module",
+    "textdomain": "wire--modules--inputfield--inputfieldform-module",
+    "translations": {
+        "d1e114b786b9fa971fbba24b8e584a43": {
+            "text": "Form i\u00e7erisinde bir yada daha fazla alan"
+        },
+        "98c9c3ab74a1b32e2278dd17586938f2": {
+            "text": "Kay\u0131t edilmeyen de\u011fi\u015fiklikler var :"
+        }
+    }
+}

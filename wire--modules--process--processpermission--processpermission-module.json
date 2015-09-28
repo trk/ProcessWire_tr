@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "\u0130zinler"
+        },
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "Sistem izinlerini y\u00f6net"
+        },
+        "179e210d56ed91c1da0ac7cff7234b21": {
+            "text": "\u00d6nceden tan\u0131mlanm\u0131\u015f sistem izinlerini y\u00fckleyin"
+        },
+        "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
+            "text": "Y\u00fcklemek istedi\u011finiz her iste\u011fe ba\u011fl\u0131 iznin yan\u0131ndaki kutuyu i\u015faretleyin."
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Y\u00fckle"
+        },
+        "934d155461a5e54ed0cfed45b64272ed": {
+            "text": "Yeni \u00f6zel bir izin ekle"
+        },
+        "baa866af125aefed417409d878f6d013": {
+            "text": "\u0130ste\u011fe ba\u011fl\u0131 eklenen izin : %s"
+        }
+    }
+}

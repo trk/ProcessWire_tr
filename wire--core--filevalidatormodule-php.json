@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/FileValidatorModule.php",
+    "textdomain": "wire--core--filevalidatormodule-php",
+    "translations": {
+        "32037e58557d829f1fe8cb434a624006": {
+            "text": "GE\u00c7ERL\u0130 (sanitizasyon yoluyla)"
+        },
+        "c9f1a6384b1c466d4612f513bd8e13ea": {
+            "text": "GE\u00c7ERL\u0130"
+        },
+        "ccc0377a8afbf50e7094f5c23a8af223": {
+            "text": "GE\u00c7ERS\u0130Z"
+        }
+    }
+}

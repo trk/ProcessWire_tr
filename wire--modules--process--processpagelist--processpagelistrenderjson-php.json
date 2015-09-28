@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRenderJSON.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrenderjson-php",
+    "translations": {
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 Sayfa Bulunamad\u0131"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Y\u00f6netici"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "\u00c7\u00f6p a\u00e7\u0131k: \u00e7\u00f6pe atmak istedi\u011finiz sayfalar\u0131 buraya ta\u015f\u0131y\u0131p b\u0131rak\u0131n"
+        }
+    }
+}

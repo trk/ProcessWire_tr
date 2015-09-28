@@ -1,0 +1,30 @@
+{
+    "file": "wire\/core\/Permissions.php",
+    "textdomain": "wire--core--permissions-php",
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Sayfalar\u0131 Gizle\/G\u00f6ster"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Sayfalar\u0131 Yay\u0131nla\/Yay\u0131ndan Kald\u0131r yada yay\u0131nlanm\u0131\u015f sayfalar\u0131 d\u00fczenle"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "Sadece kullan\u0131c\u0131lar\u0131n olu\u015fturdu\u011fu sayfalar\u0131 d\u00fczenle"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Yay\u0131nlanm\u0131\u015f olan d\u00fczenlenmeye izin verilen sayfalar\u0131n ad\u0131n\u0131 de\u011fi\u015ftir"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "Herhangibir role sahip y\u00f6netici kullan\u0131c\u0131lar\u0131 (s\u00fcper kullan\u0131c\u0131 hari\u00e7)"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "Roldeki y\u00f6netici kullan\u0131c\u0131lar\u0131: %s"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "Sayfadaki dil alanlar\u0131 d\u00fczenle: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(ayn\u0131 zamanda sayfa olu\u015fturma ve silme gerekli)"
+        }
+    }
+}

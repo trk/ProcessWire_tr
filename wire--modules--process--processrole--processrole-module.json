@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Roller"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Kullan\u0131c\u0131 rollerini ve rollere ekli izinleri y\u00f6net"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "\u0130zinler"
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(zorunlu)"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Bu izinler hakk\u0131nda detayl\u0131 a\u00e7\u0131klama i\u00e7in, l\u00fctfen izin referanslar\u0131na g\u00f6z at\u0131n."
+        },
+        "ae9a363b2dfa9181da7ffde8e37813b5": {
+            "text": "\u00e7izili"
+        },
+        "dce4a957c0c6225be564be146d71b245": {
+            "text": "Yukar\u0131daki ile ayn\u0131, ayr\u0131 olarak izin bu \u015fablon taraf\u0131ndan kald\u0131r\u0131lacak (yerine ilave edilecek)."
+        },
+        "c6cc7e92b9fc348360b34c024086432c": {
+            "text": "isim|a\u00e7\u0131klama"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "\u015eablonu kullanan sayfalara alt sayfa ekle"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "\u015eablonu kullanan sayfalar olu\u015ftur"
+        },
+        "faa5826bce6656df7f63cbeb5b2a85fe": {
+            "text": "Bu izin sadece \u015fablon eri\u015fim ayarlar\u0131ndan atanabilir."
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Bu izin t\u00fcm roller i\u00e7in zorunludur."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "t\u00fcm d\u00fczenlenebilir \u015fablonlar i\u00e7in ge\u00e7erlidir"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s \u015fablon taraf\u0131ndan eklendi %2$s, d\u00fczenlemek i\u00e7in t\u0131klay\u0131n"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s \u015fablon taraf\u0131ndan kald\u0131r\u0131ld\u0131, d\u00fczenlemek i\u00e7in t\u0131klay\u0131n"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Kutuyu i\u015faretleyerek  t\u00fcm d\u00fczenlenebilir \u015fablonlara izin ekleyebilirsiniz, fakat bu izin ayr\u0131 ayr\u0131 bir yada daha fazla \u015fablona uygulann\u0131\u015f olmal\u0131d\u0131r. Derli toplu tumak i\u00e7in, t\u00fcm \u015fablonlara uygulamadan \u00f6nce size izni \u015fablonlardan kald\u0131rman\u0131z\u0131 tavsiye ediyoruz. \u015euanda aktif hale getirmek istedi\u011finizden emin misiniz?"
+        },
+        "95c58584c58685c05c1a7cc706416455": {
+            "text": "\u015fu anda herhangi bir \u015fablona uygulanmad\u0131"
+        },
+        "64a4d3473343a325080c311b47099be6": {
+            "text": "page-add ve page-create izinleri sadece \u015fablon\u0131n eri\u015fim ayarlar\u0131 k\u0131sm\u0131nda eklenebilir ve burada sadece bilgi ama\u00e7l\u0131 olarak g\u00f6sterilir."
+        },
+        "efc30c4ed12a9e95e4fad5ae9be115fb": {
+            "text": "Bir \u015fablonun izin ekledi\u011fini g\u00f6sterir. Bu \u015fablonun eri\u015fim ayarlar\u0131n\u0131 pencerede a\u00e7mak i\u00e7in t\u0131klay\u0131n. E\u011fer \u015fablon ad\u0131 %s i\u00e7eriyorsa iznin \u015fablona eklendi\u011fini g\u00f6sterir, fakat burada senin se\u00e7iminin \u00fczerine yaz\u0131ld\u0131\u011f\u0131n\u0131 g\u00f6sterir."
+        },
+        "cea791d6258d032e4742a9a99f1ecf11": {
+            "text": "Burada page-edit iznini i\u015faretliyerek herhangi bir sayfan\u0131n d\u00fczenlenme eri\u015fimine izin vermez. Bunun yerine \u015fablon eri\u015fim ayarlar\u0131nda bu rol\u00fcn yap\u0131land\u0131r\u0131lmas\u0131n\u0131 ektif eder. page-edit izni ayn\u0131 zamanda kullan\u0131c\u0131lar i\u00e7in Sayfalar\u0131 y\u00f6netimde g\u00f6r\u00fcnt\u00fcleyebilmesini aktif eder. Bu izin t\u00fcm y\u00f6netici kullan\u0131c\u0131lar\u0131 i\u00e7in tavsiye edilir."
+        },
+        "d923671ad010412a573db8ccdbddc911": {
+            "text": "\u015eablon eri\u015fim ayarlar\u0131ndaki kullan\u0131c\u0131 rolleri izinleri iste\u011fe ba\u011fl\u0131 olarak g\u00f6sterebilir. \u0130zni i\u015faretledi\u011finizde t\u00fcm d\u00fczenlenebilir \u015fablonlar i\u00e7in aktif hale gelir. E\u011fer sadece kullan\u0131c\u0131 rol\u00fc bu belirtilmi\u015f olan \u015fablonlar\u0131 kullanan sayfa izinlerinden birine sahip olsun istiyorsan\u0131z, bura i\u015faretlenmemi\u015f \u015fekilde b\u0131rakabilirsiniz ve bunun yerine \u015fablonun 'Eri\u015fim' tab\u0131ndan se\u00e7iminizi yapabilirsiniz."
+        }
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module",
+    "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
+    "translations": {
+        "5d13ae1a65403891ac0fe044f3acc865": {
+            "text": "Bu sayfada resim alan\u0131 yok. Resim se\u00e7mek i\u00e7in ba\u015fka bir resim alan\u0131 olan sayfa se\u00e7in."
+        },
+        "83ea3ed3245ed2ce30aabecdc6b4d354": {
+            "text": "Sayfadaki Resimler:"
+        },
+        "48448404ecc9e95975b334dbe421c0bd": {
+            "text": "E\u011fer ba\u015fka bir sayfadan resim se\u00e7mek istiyorsan\u0131z, resim y\u00fcklemek istedi\u011finiz sayfay\u0131 se\u00e7in."
+        },
+        "48ccf48dcf2218a413ce473262f21a0c": {
+            "text": "Geni\u015flik:"
+        },
+        "e933dc24fb245d863a43b4fefe9b45f5": {
+            "text": "Y\u00fckseklik:"
+        },
+        "e853a6aca1b442d161c2642e88346bf9": {
+            "text": "Hizalama"
+        },
+        "811398cb1e49b4f45851cc25fcc6501f": {
+            "text": "Sola Hizala"
+        },
+        "ad68675da1db2fb44a8d1cabcbbbb65e": {
+            "text": "Sa\u011fa Hizala"
+        },
+        "e36098607b9dd3b6d7107a449b6a25bd": {
+            "text": "Merkeze Hizala"
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "Se\u00e7meyi ge\u00e7mek i\u00e7in alan adlar\u0131"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Bu mod\u00fcl taraf\u0131ndan se\u00e7ilmesini istemedi\u011finiz resim alanlar\u0131n\u0131 (bo\u015fluk ile ay\u0131rarak) belirtin."
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "Resim Sola Hizalama S\u0131n\u0131f\u0131 (Class)"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "Resim Sa\u011fa Hizalama S\u0131n\u0131f\u0131 (Class)"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "Resim Merkeze Hizalama S\u0131n\u0131f\u0131 (Class)"
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "K\u00fc\u00e7\u00fck resimleri olu\u015fturma"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "\u0130\u015faretlendi\u011finde, resim se\u00e7imi tam-boyut resimleri k\u00fc\u00e7\u00fck resimler yerine kullanacak."
+        },
+        "e254a34f3a1001f00adc55aba5552783": {
+            "text": "\u00dcst:"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "Sol:"
+        },
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Resim a\u00e7\u0131klamas\u0131 (alt tan\u0131mlamas\u0131)"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "geni\u015f\/orjinal boyuta ba\u011flant\u0131 ekle"
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Boyutland\u0131r"
+        },
+        "77fb47f76c22aae57cce393488dfee23": {
+            "text": "Bu boyutta kay\u0131t et?"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Kes"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Uygula"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "\u0130ptal"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Kay\u0131t et ve De\u011fi\u015ftir"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Kay\u0131t et ve Kopyala"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Kay\u0131t ediliyor..."
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "G\u00fcncelleniyor..."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Evet"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "Hay\u0131r, %s kullan"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Maksimum\/tam geni\u015flik"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "Minimun\/ekrana uygun"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "Altyaz\u0131?"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "Altyaz\u0131 metni resmi ekledikten sonra edit\u00f6re girilecek."
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Altyaz\u0131 metni buraya"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "Sa\u011fa d\u00f6nd\u00fcr"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "Sola d\u00f6nd\u00fcr"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "Yatay \u00c7evir"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "Dikey \u00c7evir"
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "Bu sayfaya ekli resim bulunamad\u0131. Bir resim y\u00fckleyin yada ba\u015fka bir sayfadan resim se\u00e7in."
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Resim Y\u00fckle"
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Y\u00fckle..."
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Resim varyasyonlar\u0131nda de\u011fi\u015fiklik yapmaya gerek yok."
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "De\u011fi\u015fiklik yap\u0131lmad\u0131"
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Silinen resim varyasyonu"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Resim varyasyonu silinirken hata"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "\u0130\u015faretliyi Sil"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Kapat"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "HiDPI\/Retina varsay\u0131lan se\u00e7ili olsunmu?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Yeni eklenen resimler i\u00e7in varsay\u0131lan olarak HiDPI\/Retina aktif etmek i\u00e7in kutucu\u011fu i\u015faretleyin."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "Resim elementinde width tan\u0131mlamas\u0131n\u0131 ge\u00e7?"
+        },
+        "cf4a792de8b81c847ece5501f00def00": {
+            "text": "Varsay\u0131lan olarak, bu mod\u00fcl width tan\u0131mlamas\u0131n\u0131 <img> elementinde bar\u0131nd\u0131racak. E\u011fer responsive resimler kullan\u0131yorsan\u0131z, bu \u00f6zelli\u011fi devre d\u0131\u015f\u0131 b\u0131rakmak isteyebilirsiniz. width ve height tan\u0131mlamas\u0131n\u0131 kapatmak i\u00e7in kutuyu i\u015faretleyin."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "Baz\u0131 \u00f6zelliklere m\u00fcdahale edece\u011fi i\u00e7in, bu kutucu\u011fu i\u015faretlemenizi tavsiye etmiyoruz (HiDPI\/retina resimleri kullanma gibi)."
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Tavsiye edilen de\u011fer:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Resim"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Dosya"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Boyut"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "D\u00fczenleme"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Notlar"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Yaz\u0131 alan\u0131na yerle\u015ftirmek i\u00e7in olu\u015fturuldu"
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Y\u00f6netici k\u00fc\u00e7\u00fck resimleri otomatik olu\u015fturuldu"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "Olu\u015fturulan API varyasyonlar\u0131"
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "Kesilen versiyon"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Sayfadan eklendi:"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "resim i\u00e7in %1$d varyasyon %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "resim i\u00e7in %1$d varyasyonlar %2$s"
+        }
+    }
+}

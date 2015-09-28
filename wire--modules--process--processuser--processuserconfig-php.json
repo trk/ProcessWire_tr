@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUserConfig.php",
+    "textdomain": "wire--modules--process--processuser--processuserconfig-php",
+    "translations": {
+        "512bc1289fe1ab9723f6ed9d3d6e651e": {
+            "text": "AJAX navigasyonda g\u00f6r\u00fcnt\u00fclenecek maksimum kullan\u0131c\u0131 say\u0131s\u0131"
+        },
+        "59b101e7ae1c41c851d1c05341347023": {
+            "text": "Sistemdeki kullan\u0131c\u0131 say\u0131s\u0131 bu miktar\u0131 a\u015farsa, a\u00e7\u0131lan navigasyonda kullan\u0131c\u0131 say\u0131lar\u0131ndan ziyade kullan\u0131c\u0131lar\u0131n rolleri g\u00f6sterilecek."
+        },
+        "77cb5109c9ae7f1f6359fefd4f8dbfaa": {
+            "text": "1 ve 100 aras\u0131nda bir de\u011fer belirtin (varsay\u0131lan=25)"
+        }
+    }
+}

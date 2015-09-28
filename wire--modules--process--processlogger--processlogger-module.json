@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
+    "textdomain": "wire--modules--process--processlogger--processlogger-module",
+    "translations": {
+        "a422bfafc484bafeef9ccbfeb175c216": {
+            "text": "API den kay\u0131t dosyas\u0131 olu\u015ftur veya ekle:"
+        },
+        "872e46a716d24989bf3199d28e4ae86e": {
+            "text": "Silinen kay\u0131t: %s"
+        },
+        "f33458f02cd71a8319c79c2f4d89c947": {
+            "text": "Budanm\u0131\u015f \"%s\" kay\u0131t dosyas\u0131 (\u015fuanda bunlar\u0131 %d i\u00e7eriyor)"
+        },
+        "02bb48ec8c3eb6796671313f290e943d": {
+            "text": "Kay\u0131t edilen yeni kay\u0131t girdisi \"%s\""
+        },
+        "4ad21358c22f2457f4a4c6495c68ddf6": {
+            "text": "Kay\u0131t girdi metni bo\u015f"
+        },
+        "58840cc813684ae1c5cb61d83a4c974f": {
+            "text": "Yard\u0131mc\u0131lar"
+        },
+        "dc770a451931e3eb28348451a1ef9896": {
+            "text": "Metin Arama"
+        },
+        "4777bbe3c06c7939e97101b4589ba1eb": {
+            "text": "Ge\u00e7mi\u015fe Dayanan"
+        },
+        "d24e4fa285c1eab355817ed6c38ec1bd": {
+            "text": "Tarih"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Hareketler"
+        },
+        "de36914cd9d030bca299ef13e59e81fc": {
+            "text": "A\u015fa\u011f\u0131dan bir eylem se\u00e7in. Tu\u015fa t\u0131klad\u0131\u011f\u0131n\u0131zda hareket \u00e7al\u0131\u015ft\u0131r\u0131lmadan \u00f6nce size sorulacak."
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "\u0130ndir"
+        },
+        "1c53c4bdef63da21f7d99ba3bc5999f9": {
+            "text": "B\u00fcy\u00fct (Girdi Ekle)"
+        },
+        "02f9418b682bcf39e6426bc2981e2b8a": {
+            "text": "Do\u011fra (Buda)"
+        },
+        "d7e4a58b047e3d80c673e8689567c66b": {
+            "text": "Yak (Sil)"
+        },
+        "346d021dc6749fe81c1f0faee3a38831": {
+            "text": "G\u00fcnlere # Do\u011fray\u0131n"
+        },
+        "6ae864586a6fe2c99b1501c4c20e2e38": {
+            "text": "Sadece son [n] g\u00fcnlerde girilen girdileri i\u00e7eren kay\u0131t dosyas\u0131 boyutunu azalt\u0131n."
+        },
+        "83f5d3fdcb74c638ae403fae1637a1fc": {
+            "text": "Yeni Kay\u0131t Girdisi"
+        },
+        "c397f5454fbbd15045aaacf88b43888e": {
+            "text": "Bu kay\u0131t dosyas\u0131n\u0131 \u015fimdi do\u011fra"
+        },
+        "9ac3ee6fa6d85d02c8d53149a96a0bcd": {
+            "text": "Bu kayd\u0131 \u015fimdi yak (kal\u0131c\u0131 olarak silinece)"
+        },
+        "504e5b0396525461611c2daa17c1a420": {
+            "text": "Bu kay\u0131t girdisini ekle"
+        },
+        "85b023a5435c54612ef3316cbc37a660": {
+            "text": "Bu kay\u0131t dosyas\u0131n\u0131 \u015fimdi indir"
+        },
+        "5157e3c765af93679ea07052f30f0a6e": {
+            "text": "ger\u00e7ek"
+        },
+        "1058f3258b7dca7c4693166c425b968d": {
+            "text": "E\u015fle\u015fen kay\u0131t girdisi yok"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Kay\u0131tlar"
+        },
+        "527b296f2533d0e979933116081467a8": {
+            "text": "Sistem kay\u0131tlar\u0131n\u0131 d\u00fczenle ve g\u00f6r\u00fcnt\u00fcle"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Ad"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "D\u00fczenlendi"
+        },
+        "922e48e67eab1e2b2673f5d44a6fbafd": {
+            "text": "Girdiler"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Boyut"
+        },
+        "4c35d99800510d64691a870b65d277f4": {
+            "text": "Tarih\/Zaman"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "Kullan\u0131c\u0131"
+        },
+        "9f3af3dbda7832b613a27b731cc3ca02": {
+            "text": "Metin"
+        },
+        "bd350ab4ad8284276668d82be6b20b52": {
+            "text": "%d kay\u0131t"
+        },
+        "712684fe92736fe32b1c2eb87d2360c7": {
+            "text": "%d kay\u0131tlar"
+        },
+        "064a2c9034205289d020252829c41052": {
+            "text": "Sayfa 1 e yeni bir kay\u0131t girdisi"
+        },
+        "b9dc13817999fcd3ea5967c020b5c043": {
+            "text": "Sayfa 1 e yeni birden fazla kay\u0131t girdisi"
+        }
+    }
+}

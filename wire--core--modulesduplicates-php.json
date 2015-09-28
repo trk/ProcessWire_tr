@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ModulesDuplicates.php",
+    "textdomain": "wire--core--modulesduplicates-php",
+    "translations": {
+        "58a6d03e30331d26f3ab31c392c104ab": {
+            "text": "Dosya sisteminde \"%s\" mod\u00fcl\u00fcn birden fazla kopyas\u0131 mevcut."
+        },
+        "47edefbd0afb7d34d9a1ea2e99a18d1b": {
+            "text": "L\u00fctfen mod\u00fcl ayarlar\u0131n\u0131 d\u00fczenleyin ve ProcessWire a hangisini kullanaca\u011f\u0131n\u0131z\u0131 s\u00f6yleyin :"
+        }
+    }
+}

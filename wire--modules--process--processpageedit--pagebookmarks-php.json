@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Yer imleri"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Yer imlerini d\u00fczenle"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "hepsi"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "\u015euanda mevcut yer imi belirlenmemi\u015f"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "herkes"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Yer imleri :"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s Yer \u0130mi Edit\u00f6r\u00fc"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Not sadece s\u00fcper kullan\u0131c\u0131lar bu edit\u00f6r\u00fc g\u00f6r\u00fcnt\u00fcleyebilir"
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Yer imi Ekle"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Yer imlerine a\u015fa\u011f\u0131da sayfalar se\u00e7mek i\u00e7in 'yer imi ekle' tu\u015funa t\u0131klay\u0131n. E\u011fer yer imlerinin sadece belirtilmi\u015f kullan\u0131c\u0131 rolleri i\u00e7in g\u00f6r\u00fcnt\u00fclenmesini istiyorsan\u0131z, \u00f6nce yukar\u0131dan rol\u00fc se\u00e7in."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Kaydedilen yer imleri"
+        }
+    }
+}

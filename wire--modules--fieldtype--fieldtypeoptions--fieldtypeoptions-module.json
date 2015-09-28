@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Ayarlanm\u0131\u015f \u00f6n se\u00e7im de\u011fer herzaman ge\u00e7erli olmad\u0131\u011f\u0131 i\u00e7in ili\u015fkilendirilmedi.  L\u00fctfen bu alan yap\u0131land\u0131rmas\u0131n\u0131 d\u00fczeltin."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "\u0130\u00e7eri aktarma se\u00e7enekleri hen\u00fcz uygulanmad\u0131. Ger\u00e7i kolayca ba\u015fka siteden ba\u015fka bir siteye direk olarak d\u00fczenleme ekran\u0131ndan kopyala\/yap\u0131\u015ft\u0131r y\u00f6ntemiyle i\u00e7eri aktar\u0131labilir."
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Se\u00e7enek Se\u00e7imi"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Alan bir yada \u00e7oklu se\u00e7enek se\u00e7imini saklaman\u0131z\u0131 sa\u011flar."
+        }
+    }
+}

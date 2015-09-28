@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Sayfa se\u00e7"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Bir URL gir, sayfa se\u00e7, yada ba\u011flant\u0131 i\u00e7in bir dosya se\u00e7"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "URL Ba\u011flant\u0131s\u0131"
+        },
+        "629ea6ac7fee06a764a49cb39bd356d9": {
+            "text": "Yeni Pencerede A\u00e7?"
+        },
+        "1f3e9bfe3126acfe0af746ec6ed2db68": {
+            "text": "E\u011fer i\u015faretliyse, Bu ba\u011flant\u0131 yeni pencerede a\u00e7\u0131lacak ve mevcut sayfa de\u011fi\u015fmeyecek."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "Sayfa ba\u011flant\u0131lar\u0131 i\u00e7in URL Tipleri"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Mutlak (varsay\u0131lan)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "Sadece ayn\u0131 dallara ba\u011fl\u0131 URL ler"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "Sadece Ba\u011fl\u0131 URL ler"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "*\u015euanda Deneysel"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Ba\u011flant\u0131"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Sayfa bulmak i\u00e7in URL, email adresi, ba\u011flant\u0131 yada karakter girin"
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Ba\u011flant\u0131 Se\u00e7in"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "D\u00fczenledi\u011finiz yaz\u0131da ba\u011flant\u0131 bulundu."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Sayfa Se\u00e7"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Alt Sayfa Se\u00e7"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Bu yukar\u0131daki \"Sayfa Se\u00e7me\" ile ayn\u0131, fakat e\u011fer mevcut sayfan\u0131n alt sayfas\u0131yla ba\u011flant\u0131 kurmak istiyorsan\u0131z daha h\u0131zl\u0131 olabilir."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Tan\u0131mlamalar"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Ba\u015fl\u0131k"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Ba\u011flant\u0131y\u0131 a\u00e7\u0131klamak i\u00e7in ek metin."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Hedef"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Bu ba\u011flant\u0131 nerede a\u00e7\u0131lacak."
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "D\u00f6k\u00fcmana ba\u011flant\u0131 ili\u015fkisi."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "S\u0131n\u0131f"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Ba\u011flant\u0131n\u0131n g\u00f6r\u00fcn\u00fcm\u00fcne etki edecek ek s\u0131n\u0131flar."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Yukar\u0131daki %s mod\u00fcl ayarlar\u0131nda, mevcut olan tan\u0131mlamalar\u0131 d\u00fczenleyebilirsiniz"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Hi\u00e7biri"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "yeni pencerede a\u00e7"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "arama motorlar\u0131na bu ba\u011flant\u0131y\u0131 takip etmemesini s\u00f6yle"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Dosya Se\u00e7"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Sayfadaki dosyalar g\u00f6r\u00fcnt\u00fcleniyor:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Mevcut sayfaya ba\u011flamak istedi\u011finiz dosyay\u0131 se\u00e7in."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Ba\u015fka sayfadan dosya se\u00e7mek i\u00e7in, yukar\u0131daki 'Sayfa Se\u00e7' tu\u015funa t\u0131klay\u0131n ve hangi sayfadan dosya se\u00e7mek istiyorsan\u0131z se\u00e7in."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Tan\u0131mlama se\u00e7enekleri"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Herbir sat\u0131ra bir tan\u0131mlama de\u011feri girin. Kullan\u0131c\u0131 bu de\u011ferleri link ekleme esnas\u0131ndan se\u00e7ebiliyor olacak. Bir de\u011feri varsay\u0131lan olarak se\u00e7ili olarak atamak i\u00e7in (yeni ba\u011flant\u0131lar i\u00e7in), de\u011ferin \u00f6n\u00fcne \"+\" i\u015fareti ekleyin."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "D\u0131\u015f ba\u011flant\u0131 tan\u0131mlamalar\u0131"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "D\u0131\u015f ba\u011flant\u0131 tespit edildi\u011finde belirtmi\u015f oldu\u011funuz varsay\u0131lan de\u011fer otomatik olarak ili\u015fkilendirecek."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "E\u011fer kullan\u0131ld\u0131ysa, de\u011fer \u00f6nceden yukar\u0131da tan\u0131ml\u0131 olmal\u0131d\u0131r."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "\u00d6rnek: D\u0131\u015f ba\u011flant\u0131larda **nofollow** belirledi\u011finizde varsay\u0131lan olarak arama motorlar\u0131 taraf\u0131ndan takip edilmeyecekler."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "\u00d6rnek: D\u0131\u015f ba\u011flant\u0131larda **_blank** varsay\u0131lan olarak ba\u011flant\u0131lar yeni pencerede a\u00e7\u0131lacak."
+        }
+    }
+}
