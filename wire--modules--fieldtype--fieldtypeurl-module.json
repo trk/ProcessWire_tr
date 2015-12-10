@@ -22,6 +22,30 @@
         },
         "9d6ce819c098e5c4a7b3464cadbd028a": {
             "text": "Bu se\u00e7enek taksim i\u015fareti ile ba\u015flayan site yoluna otomatik olarak belirtmi\u015f oldu\u011funuz URL yi ekleyecek, \u015funa benzer \/belirtilen-yol\/yol\/. Bu internet sayfan\u0131z alt klas\u00f6r \u00fczerinden \u00e7al\u0131\u015f\u0131yorsa kullan\u0131\u015fl\u0131 olacakt\u0131r, \u00e7\u00fcnk\u00fc bu alt klas\u00f6r\u00fc dahil etmenize gerek kalmadan bu alana girilen yol ile m\u00fcmk\u00fcn olacakt\u0131r. Sonraki d\u00f6nemlerde alt klas\u00f6rdeki internet sayfas\u0131n\u0131 an dizine (ba\u015fka bir klas\u00f6re) ta\u015f\u0131d\u0131\u011f\u0131n\u0131zda endi\u015felenmenize gerek yok."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Evet"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Hay\u0131r"
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "E\u011fer bu URL herhangi bir \u00e7\u0131kt\u0131 i\u00e7in kullan\u0131lacaksa, Detaylar tab\u0131ndaki \"Text Formatters\" i\u00e7in \"HTML Entity Encoder\" se\u00e7meniz \u015fiddetle tavsiye edilir."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Uluslararas\u0131 domain isimlerine izin ver (IDNs)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Aktif edildi\u011finde, no-ASCII domain isimlerine izin verilecek."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "URL lerde tek\/\u00e7ift t\u0131rnak karakterlerine izin ver?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Aktif edildi\u011finde, URL lerin bi\u00e7imlendirme olarak kullan\u0131ld\u0131\u011f\u0131nda kesinlikle varl\u0131k olarak kodlanm\u0131\u015f oldu\u011fundan emin olman\u0131z gerekiyor."
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "="
         }
     }
 }

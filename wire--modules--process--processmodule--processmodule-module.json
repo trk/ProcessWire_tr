@@ -23,9 +23,6 @@
         "9c67d775a708bbc2a042f878e78cfe2c": {
             "text": "Site mod\u00fclleri i\u00e7in belirtilmi\u015ftir - \/site\/modules\/"
         },
-        "4d90ec9a7117ef7ad9c02a90860d7122": {
-            "text": "Mod\u00fcl\u00fc silmek i\u00e7in, mod\u00fcl\u00fc d\u00fczenlemeye t\u0131klay\u0131n, 'kald\u0131r\" kutusunu i\u015faretleyin, kay\u0131t edin. Kald\u0131r\u0131lmadan \u00f6nce, mod\u00fcl dosyalar\u0131 \/site\/modules\/ klas\u00f6r\u00fcnden kald\u0131r\u0131labilir. E\u011fer listede hala g\u00f6r\u00fcn\u00fcyorsa, 'Yeni Mod\u00fcllere G\u00f6zat\" tu\u015funa t\u0131klay\u0131p ProcessWire'\u0131n de\u011fi\u015fiklikleri g\u00f6smesini sa\u011flayabilirsiniz."
-        },
         "83168e6cb289d732cc78427b51f93153": {
             "text": "\u00c7ekirdek"
         },
@@ -370,6 +367,15 @@
         },
         "7f3e66ccbb2c396210f9f58ad5a75e39": {
             "text": "Hata Ay\u0131klama"
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "="
+        },
+        "326051e869bfb9785613fcb1e957a71e": {
+            "text": "Mod\u00fcl\u00fc silmek i\u00e7in, mod\u00fcl\u00fc d\u00fczenlemeye t\u0131klay\u0131n, 'kald\u0131r\" kutusunu i\u015faretleyin, kay\u0131t edin. Kald\u0131r\u0131lmadan \u00f6nce, mod\u00fcl dosyalar\u0131 \/site\/modules\/ klas\u00f6r\u00fcnden kald\u0131r\u0131labilir. E\u011fer listede hala g\u00f6r\u00fcn\u00fcyorsa, 'Yeni Mod\u00fcllere G\u00f6zat\" tu\u015funa t\u0131klay\u0131p ProcessWire'\u0131n de\u011fi\u015fiklikleri g\u00f6smesini sa\u011flayabilirsiniz."
+        },
+        "7f05cd7d695e4a911a436478a8f0cdfc": {
+            "text": "="
         }
     }
 }

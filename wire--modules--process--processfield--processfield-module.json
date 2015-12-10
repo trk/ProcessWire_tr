@@ -236,9 +236,6 @@
         "4fd5d5323fc3d2535f351e46ba740d3c": {
             "text": "...ve benzeri..."
         },
-        "a90c3a6bf539d90c6016413cddd2178c": {
-            "text": "L\u00fctfen alan\u0131 kontrol etmek i\u00e7in bunu \u00e7al\u0131\u015ft\u0131r\u0131n %s"
-        },
         "bd5aef6293f875aa908466a69c08a14a": {
             "text": "Alan i\u00e7in \"%s\" hata bulunamad\u0131"
         },
@@ -250,9 +247,6 @@
         },
         "292694f229d9162dd0a6510ff0745d4f": {
             "text": "Yetim tablo sat\u0131rlar\u0131n\u0131 sil %d?"
-        },
-        "afb5272a55f7eb214fd004a5becf2bb7": {
-            "text": "Bu alan i\u00e7in tablada herhangibir sayfa ile e\u015fleymeyen veri sat\u0131rlar\u0131 bulduk."
         },
         "011e30aea1ad8c8e81405e295f032cc8": {
             "text": "Alan verisini kontol et"
@@ -562,6 +556,12 @@
         },
         "5dab87f5242c802765e397e82db0840b": {
             "text": "Yukar\u0131daki davran\u0131\u015f\u0131 baypas etmek ve de\u011ferin herzaman API taraf\u0131ndan eri\u015filebilir olmas\u0131 i\u00e7in kutucu\u011fu i\u015faretleyin. Bu herhangi bir eri\u015fim kontrol\u00fcn\u00fc es ge\u00e7ecektir."
+        },
+        "f46277b28f420e695210233a9f1401fc": {
+            "text": "L\u00fctfen %s alan\u0131nda 'Hareketler > Alan verisini kontrol et' \u00e7al\u0131\u015ft\u0131r\u0131n"
+        },
+        "d94836b689b2cd95f920084c5f27e770": {
+            "text": "Bu alan i\u00e7in data tablosunda hi\u00e7bir sayfa ile e\u015fle\u015fmeyen, yada bu alana sahip olmayan sayfalar ile e\u015fle\u015fen sat\u0131rlar bulduk."
         }
     }
 }

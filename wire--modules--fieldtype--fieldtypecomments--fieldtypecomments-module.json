@@ -214,6 +214,27 @@
         },
         "be4676f05d7147b99e5addd2b27b6889": {
             "text": "3. Belirmi\u015f oldu\u011funuz bir Sayfa yolu ve Alan Ad\u0131 da girebilirsiniz, **\/path\/to\/page:email** \u015feklinde, Buradaki \"\/path\/to\/page:email\" yerine ger\u00e7ek Sayfa yolu ve \"email\" yerine bu sayfada ger\u00e7ek bir e-posta adresi i\u00e7eren alan ad\u0131 girebilirsiniz."
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Y\u0131ld\u0131z oylama kullan?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "Y\u0131ld\u0131z derecelendirmesi yorumcular\u0131n yapt\u0131klar\u0131 yorum konular\u0131n\u0131 derecelendirmesini sa\u011flar, 1 ila 5 aras\u0131nda bir derecelendirme kullan\u0131r."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "Kullan\u0131lan varsay\u0131lan y\u0131ld\u0131z \u00e7\u0131kt\u0131s\u0131n\u0131 de\u011fi\u015ftirmek i\u00e7in (sadece HTML):"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Evet (y\u0131ld\u0131z derecelendirmesi iste\u011fe ba\u011fl\u0131)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Evet (y\u0131ld\u0131z derecelendirmesi zorumlu)"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Devre d\u0131\u015f\u0131"
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "="
         }
     }
 }
