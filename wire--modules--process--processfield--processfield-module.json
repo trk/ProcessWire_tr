@@ -144,13 +144,13 @@
             "text": "Geli\u015fmi\u015f Ayarlar"
         },
         "817434295a673aed431435658b65d9a7": {
-            "text": "\u0130kon"
+            "text": "Simge"
         },
         "189f63f277cd73395561651753563065": {
             "text": "Etiketler"
         },
         "3df354a032179f36ea493c3df6643ce1": {
-            "text": "E\u011fer g\u00f6rsel olarak bu alan\u0131 di\u011fer alanlar ile  grup yapmak istiyorsan\u0131z, bir-kelime etiket girin. Gi\u011fer grup yapmas istedi\u011finiz alanlarada ayn\u0131 etiketi girin. Birden fazla etiket tam\u0131lamak i\u00e7in herbir etiketi bo\u015fluk ile ay\u0131r\u0131n. E\u011fer internet sitenizde \u00e7ok fazla alan var ise, Etiketleri kullanmak zahmetede\u011fer olabirlir."
+            "text": "E\u011fer g\u00f6rsel olarak bu alan\u0131 di\u011fer alanlar ile  grup yapmak istiyorsan\u0131z, bir-kelime etiket girin. Di\u011fer grup yapmak istedi\u011finiz alanlara da ayn\u0131 etiketi girin. Birden fazla etiket tam\u0131lamak i\u00e7in herbir etiketi bo\u015fluk ile ay\u0131r\u0131n. E\u011fer internet sitenizde \u00e7ok fazla alan var ise, etiketleri kullanmak zahmete de\u011fer olabilir."
         },
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Herbir etiket tek kelimeden olu\u015fmal\u0131 (tire ile ay\u0131rabilirisniz)"
@@ -228,7 +228,7 @@
             "text": "Tamam"
         },
         "94f0fa1e6b7f766dc6432b4d8fd960ae": {
-            "text": "Alan Raporu Kontol\u00fc:"
+            "text": "Alan Raporu Kontrol\u00fc:"
         },
         "64348e0f887e58c6002080b6153add90": {
             "text": "%d yetim tablo sat\u0131rlar\u0131 bulundu"
@@ -459,7 +459,7 @@
             "text": "Bu alan i\u00e7in API den alan g\u00f6r\u00fcnt\u00fcleme eri\u015fimini kontrol edebilirsiniz, buna benzer:"
         },
         "ee9fe18e631383755ce658daed18b15e": {
-            "text": "E\u011fer bir ikonu alan ile ili\u015fkilendirmek istiyorsan\u0131z, a\u015fa\u011f\u0131dan bir ikon se\u00e7in. G\u00f6rsel se\u00e7me i\u00e7in \"T\u00fcm ikonlar\u0131 g\u00f6r\u00fcnt\u00fcle\" ba\u011flant\u0131s\u0131na t\u0131klay\u0131n."
+            "text": "E\u011fer bir simgeyi alan ile ili\u015fkilendirmek istiyorsan\u0131z, a\u015fa\u011f\u0131dan bir simge se\u00e7in. G\u00f6rsel se\u00e7me i\u00e7in \"T\u00fcm simgleri g\u00f6r\u00fcnt\u00fcle\" ba\u011flant\u0131s\u0131na t\u0131klay\u0131n."
         },
         "0a198ede7ab46185f2e9fb2a3628419b": {
             "text": "(kopyala)"
