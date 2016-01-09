@@ -155,12 +155,6 @@
         "3608b24ec08977c76c40c8514f3bcbd5": {
             "text": "Yeni eklenen resimler i\u00e7in varsay\u0131lan olarak HiDPI\/Retina aktif etmek i\u00e7in kutucu\u011fu i\u015faretleyin."
         },
-        "0bedb7a49466cc5abddacd2003be55b3": {
-            "text": "Resim elementinde width tan\u0131mlamas\u0131n\u0131 ge\u00e7?"
-        },
-        "cf4a792de8b81c847ece5501f00def00": {
-            "text": "Varsay\u0131lan olarak, bu mod\u00fcl width tan\u0131mlamas\u0131n\u0131 <img> elementinde bar\u0131nd\u0131racak. E\u011fer responsive resimler kullan\u0131yorsan\u0131z, bu \u00f6zelli\u011fi devre d\u0131\u015f\u0131 b\u0131rakmak isteyebilirsiniz. width ve height tan\u0131mlamas\u0131n\u0131 kapatmak i\u00e7in kutuyu i\u015faretleyin."
-        },
         "66e1d61daf21cfd5a9a0c3c172d7215d": {
             "text": "Baz\u0131 \u00f6zelliklere m\u00fcdahale edece\u011fi i\u00e7in, bu kutucu\u011fu i\u015faretlemenizi tavsiye etmiyoruz (HiDPI\/retina resimleri kullanma gibi)."
         },

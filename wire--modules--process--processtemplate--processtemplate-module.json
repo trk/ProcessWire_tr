@@ -926,11 +926,23 @@
         "3d7582ad0b178e43f075e25248efdc12": {
             "text": "Rol taraf\u0131ndan izinleri iptal et"
         },
-        "975bafff7904e0b6768fc9b2d0a11829": {
-            "text": "Devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in bo\u015f b\u0131rak\u0131n. Sayfa ba\u015fl\u0131\u011f\u0131ndan otomatik olarak almas\u0131 i\u00e7in \"ba\u015fl\u0131k\" (t\u0131rnaks\u0131z olarak) girin. Tarih formatlar\u0131 hakk\u0131nda [daha fazla](https:\/\/processwire.com\/api\/modules\/process-template\/) se\u00e7enek i\u00e7ermekte."
-        },
         "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
             "text": "="
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in bo\u015f b\u0131rak\u0131n. Sayfa ba\u015fl\u0131\u011f\u0131ndan otomatik olarak almas\u0131 i\u00e7in \"ba\u015fl\u0131k\" (t\u0131rnaks\u0131z olarak) girin. Tarih bi\u00e7imleri de dahil olmak \u00fczere daha fazla se\u00e7enekler de mevcuttur. [Daha Fazla](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Derlenen Dosyay\u0131 Kullan?"
+        },
+        "b55ab85a8d8abe51c42f90d2cd3ae1ad": {
+            "text": "ProcessWire taraf\u0131ndan \u015fablon dosyan\u0131z\u0131 namespace i\u00e7in g\u00fcncellemesini aktif eder ve y\u00fckl\u00fc olan FileCompiler mod\u00fcllerini uygular. \u015eablon dosyan\u0131zda hatalara neden olmad\u0131k\u00e7a tavsiye edilir."
+        },
+        "549920aca582e9418dc31ce4c9f516fd": {
+            "text": "(ve dahil edilen dosyalar)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(sadece \u015fablon dosyas\u0131)"
         }
     }
 }

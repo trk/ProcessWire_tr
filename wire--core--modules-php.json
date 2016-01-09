@@ -46,6 +46,33 @@
         },
         "7cbf3b34133e54263a1242eb74a5008e": {
             "text": "Alg\u0131lanan %d mod\u00fcl versiyon de\u011fi\u015fiklikleri"
+        },
+        "0a6712f704d759c81cdc4416397e7faf": {
+            "text": "Mod\u00fcl olu\u015fturulamad\u0131: %s"
+        },
+        "7f5ebaf3241ff21764054580a96a3b11": {
+            "text": "Mod\u00fcl ba\u015flat\u0131lamad\u0131: %s"
+        },
+        "dc3b5200f4c5fe1739b1bb1946ed22c1": {
+            "text": "Mod\u00fcl haz\u0131rlanamad\u0131: %s"
+        },
+        "1f8ef8340fd2af55ecdf88e4a9ea3d8e": {
+            "text": "Mod\u00fcl y\u00fcklenirken hata raporu verdi"
+        },
+        "46e2d06b80d816b2916f1f27492fbabd": {
+            "text": "Mod\u00fcl y\u00fcklenemiyor"
+        },
+        "5c4f3cc8a1cdcfa7759b4d0a199bcfa0": {
+            "text": "Mod\u00fcl zaten y\u00fckl\u00fc de\u011fil"
+        },
+        "8ffefc63396ecaf77fdcafe5163f2bfe": {
+            "text": "Mad\u00fcl kal\u0131c\u0131d\u0131r"
+        },
+        "926c4c5bf92909f4225cafbe323a1ea9": {
+            "text": "Mod\u00fcl di\u011fer mod\u00fcller taraf\u0131nda zorunlu, ilk \u00f6nce di\u011ferlerinin kald\u0131r\u0131lmas\u0131 gerekiyor"
+        },
+        "d710b0151d568a1efa24617b78fa1f25": {
+            "text": "Mod\u00fcl bir Fieldtype d\u0131r, \u015fuanda bir yada birden fazla alan taraf\u0131ndan kullan\u0131l\u0131yor"
         }
     }
 }

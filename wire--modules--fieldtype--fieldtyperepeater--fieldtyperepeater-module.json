@@ -62,11 +62,56 @@
         "64137776d10ddf89ff3087915287b872": {
             "text": "Birka\u00e7 defa tekrarlanan alanlar\u0131n listesini bar\u0131nd\u0131r\u0131r."
         },
-        "c58bb8dd26051c3ba65914f16c51f0b7": {
-            "text": "Tekrarlay\u0131c\u0131 Alanlar\u0131"
-        },
         "d3b3350cb648f345b0a21a048df0cf45": {
             "text": "Tekrarlay\u0131c\u0131"
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Tekrarlay\u0131c\u0131 alanlar\u0131"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Tekrarlay\u0131c\u0131 \u00f6\u011fesi etiketleri"
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "\u00d6rnek: #n: {title}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Yeni \u00f6\u011fe eklemek i\u00e7in etiket"
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Tekrarlay\u0131c\u0131 \u00f6\u011fesinin edit\u00f6rde g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fc"
+        },
+        "e640612e8ad807cd847b4181b3a578d4": {
+            "text": "\u00d6\u011feler herzaman a\u00e7\u0131k"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "\u00d6\u011feler herzaman kapal\u0131"
+        },
+        "89b9d848798e1d7bc773de6ad9a7b39a": {
+            "text": "Yeni \u00f6\u011feler a\u00e7\u0131k, eski \u00f6\u011feler kapal\u0131(\u00f6nerilen)"
+        },
+        "8c4f6c33cbae4831021c3dc17c991a23": {
+            "text": "Edit\u00f6rde \u00f6\u011fe eklemek i\u00e7in AJAX devre d\u0131\u015f\u0131 b\u0131rak"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Sayfa edit\u00f6r\u00fcnde tekrarlay\u0131c\u0131 etiketlerinde kullanmak i\u00e7in bir alan girin, yada otomatik-olu\u015fturulmas\u0131 i\u00e7in bo\u015f b\u0131rak\u0131n."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Birden fazla alan kullanmak i\u00e7in, yada kendi bi\u00e7iminizi belirlemek i\u00e7in, alan isimlerini {s\u00fcsl\u00fc parantez} ile \u00e7evreleyin."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Tekrarlay\u0131c\u0131n\u0131n her bir etiketinde index numaras\u0131 i\u00e7ermesi i\u00e7in, isim bi\u00e7imi dizisine \"#n\" ekleyin."
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "\"Yeni \u00f6\u011fe ekle\" yaz\u0131\/tu\u015fu yerinde kullan\u0131lmas\u0131n\u0131 istedi\u011finiz bir etiket girin, yada varsay\u0131lan kullan\u0131lmas\u0131 i\u00e7in bo\u015f b\u0131rak\u0131n."
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Tekrarlay\u0131c\u0131 \u00f6\u011feleri a\u00e7\u0131k yada kapal\u0131 olabilir (a\u00e7mak i\u00e7in t\u0131klanmas\u0131 gerekir). Kapal\u0131 mod s\u0131ralama ve t\u00fcm \u00f6\u011feleriniz g\u00f6rmeniz i\u00e7in daha uygundur."
+        },
+        "78f74cbd5e74d0a401b6e91e2d11e812": {
+            "text": "Varsay\u0131lan, \"Yeni \u00f6\u011fe\" ba\u011flant\u0131s\u0131 t\u0131kland\u0131\u011f\u0131nda yeni tekrarlay\u0131c\u0131 \u00f6\u011fesini AJAX olarak y\u00fckleyecek, daha sorunsuz bir deneyim sunar. Fakat baz\u0131 alanlar bununla uyumlu olmayabilir. Bu kutucu\u011fu i\u015faretleyerek AJAX \u00f6\u011fe eklemeyi devre d\u0131\u015f\u0131 b\u0131rak\u0131n."
+        },
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Tekrarlay\u0131c\u0131 alan\u0131 \"%s\" \"zorunlu sadece e\u011fer\" ba\u011f\u0131ml\u0131l\u0131k ayar\u0131na sahip, ve bu Tekrarlay\u0131c\u0131larda desteklenmiyor."
         }
     }
 }
