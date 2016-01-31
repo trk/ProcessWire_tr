@@ -11,35 +11,74 @@
         "2effa58f13159d138a634233e246713d": {
             "text": "\u0130\u00e7erik Tipi (Content Type)"
         },
-        "88183b946cc5f0e8c96b2e66e1c74a7e": {
-            "text": "Bilinmeyen"
-        },
         "5d85f44b69f9d7e86c7f3f473f97f771": {
             "text": "Bi\u00e7imlendirme(Markup)\/HTML"
-        },
-        "f0a7350231680497c534e592203a3b7b": {
-            "text": "Bi\u00e7imlendirici\/HTML ile resim y\u00f6netimi"
-        },
-        "6579c1fdbe94982347736ad47f0949cb": {
-            "text": "Bi\u00e7imlendirme(Markup)\/HTML (opsiyonel resim y\u00f6netimiyle) se\u00e7ene\u011fi zengin metin edit\u00f6rleri (TinyMCE, CKEditor, etc.) i\u00e7in tavsiye edilen se\u00e7enektir ve bunlar HTML i\u00e7ermektedir. Bu kalite g\u00fcncesi i\u00e7in ek filtreleme se\u00e7ene\u011fi sa\u011flar."
         },
         "f49044eb0f5ff823c157a2feedf2b9f8": {
             "text": "Yukar\u0131daki se\u00e7enek hakk\u0131nda daha fazla bilgi i\u00e7in [i\u00e7erik tipi se\u00e7enekleri a\u00e7\u0131klamas\u0131na](%s) bak\u0131n\u0131z"
         },
-        "3e7a86573c428ffd2bf3145cea18514b": {
-            "text": "\"Bi\u00e7imlendirici\/HTML ile resim y\u00f6netimi\" \u00e7al\u0131\u015fma kontrol se\u00e7ene\u011fi eklemek i\u00e7in se\u00e7in:"
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Ba\u011flant\u0131 soyutlama:"
         },
-        "2bc17a9602fb3fd33f9a6561c7b36177": {
-            "text": "1. Bo\u015f alt tan\u0131mlamalar\u0131n\u0131 dosya a\u00e7\u0131klamalar\u0131yla kar\u015f\u0131la\u015ft\u0131r - dosya a\u00e7\u0131klamas\u0131n\u0131n <img> alt tan\u0131mlamas\u0131nda oldu\u011fundan emin ol."
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "\u0130\u00e7 ba\u011flant\u0131lar de\u011fi\u015fti\u011finde href \u00f6zelli\u011fini otomatik g\u00fcncelle"
         },
-        "5c84d65097148d9fa9a1be01e38c8f27": {
-            "text": "2. Varolmayan resim boyut varyasyonlar\u0131n\u0131 otomatik olarak tekrar olu\u015ftur."
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Resim alt \u00f6zelliklerini g\u00fcncelle:"
         },
-        "0899ba8ac053ddbc869eac2bf0c9f458": {
-            "text": "3. <img> elementlerinin y\u00f6nlendirildi\u011fi dosyalar mevcut de\u011filse elementleri kald\u0131r."
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Bo\u015f alt \u00f6zelliklerini resim a\u00e7\u0131klamas\u0131 ile doldur"
         },
-        "a171deaa8f82c6e29796e95126fbd644": {
-            "text": "4. Bilinmeyen resim hatalar\u0131n\u0131 \"markup-qa-errors\" olarak log dosyas\u0131na kay\u0131t et ve bildirimleri sistem\/y\u00f6netici kullan\u0131c\u0131s\u0131na bildirim g\u00f6nder."
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Bozuk resimleri d\u00fczelt:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "img etiketleri 404 sonu\u00e7 d\u00f6nd\u00fcr\u00fcyorsa kald\u0131r, yada m\u00fcmk\u00fcnse resimleri tekrar olu\u015ftur"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Resim eri\u015fim kontrol\u00fc:"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "HTML se\u00e7eneklerini \u015fimdi uygula"
+        },
+        "bf6279f9204850b374cb625c002e6f04": {
+            "text": "Soyutlanm\u0131\u015f %d i\u00e7 ba\u011flant\u0131lar"
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "HTML se\u00e7enekleri"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Takip eden se\u00e7enekler HTML \u00e7al\u0131\u015fma zaman\u0131nda ekstra ek kalite sunar."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Not:** Bu se\u00e7enekler \u015fuanda deneyseldir. Her hangi bir hata ve raporlar i\u00e7in konular\u0131 takip edin."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Se\u00e7eneklerin hata kay\u0131tlar\u0131 Kurulum > Kay\u0131tlar  > markup-qa-errors k\u0131sm\u0131nda."
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Kullan\u0131c\u0131n\u0131n g\u00f6r\u00fcnt\u00fcleme eri\u015fimi yoksa resimleri bi\u00e7imlendirmeden kald\u0131r"
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Bilinmeyen\/Yaz\u0131"
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "E\u011fer [u]Bilinmeyen\/Yaz\u0131[\/u] se\u00e7ene\u011fini se\u00e7erseniz, [g\u00fcvenlik i\u00e7in] yukar\u0131daki [u]Metin Bi\u00e7imlendiricilerinden[\/u] \"HTML Entity Encoder\" se\u00e7ene\u011fini se\u00e7meniz \u015fiddetle tavsiye edilir"
+        },
+        "1b1622af3840b5f1282a7b1891a13902": {
+            "text": "HTML se\u00e7enekleri i\u00e7in %2$d sayfadan %1$d tanesi g\u00fcncellendi"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "\u015eu anda var olan t\u00fcm sayfalara yukar\u0131daki se\u00e7enekleri uygulamak i\u00e7in, bu kutucu\u011fu i\u015faretleyin. Bu \u00f6ncelikle ba\u011flant\u0131 soyutlama se\u00e7ene\u011fine odaklanacakt\u0131r."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Ekstra bir \u00f6nlem olarak, \u00e7al\u0131\u015ft\u0131rmadan \u00f6nce veri taban\u0131n\u0131z\u0131 yedeklemeniz tavsiye edilir.**"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "[u]Bi\u00e7imlendirme (Markup)\/HTML[\/u] se\u00e7ene\u011fi zengin yaz\u0131 edit\u00f6r\u00fc (CKEditor gibi) ve HTML i\u00e7eren alanlar i\u00e7in tavsiye edilir. Kalite g\u00fcvencesi i\u00e7in \u00e7al\u0131\u015flma zaman\u0131 ek filtreleme kontrolleri sa\u011flar."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Uyar\u0131, bu potansiyel olarak y\u00fczlerce sayfa g\u00fcncellemesi ger\u00e7ekle\u015ftirir (\u00e7al\u0131\u015ft\u0131rma ba\u015f\u0131na maks. 300) ve sayfalar\u0131n d\u00fczenleme zamanlar\u0131n\u0131 g\u00fcnceller. E\u011fer internet sayfan\u0131zda \u00e7ok fazla sayfa varsa, bu i\u015flemi birden fazla kez yapman\u0131z gerekir."
         }
     }
 }

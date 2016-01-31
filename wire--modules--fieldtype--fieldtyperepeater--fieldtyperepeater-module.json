@@ -2,116 +2,11 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeRepeater.module",
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
     "translations": {
-        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
-            "text": "L\u00fctfen \"detaylar\" sekmesinden bu tekrarlay\u0131c\u0131ya alanlar ekleyiniz."
-        },
-        "f41ae5ce37aeed3613288bb8c0cc3489": {
-            "text": "Bu tekrarlay\u0131c\u0131 taraf\u0131ndan kullan\u0131lan alanlar\u0131 tan\u0131mlay\u0131n\u0131z. Ayr\u0131ca s\u00fcr\u00fckle-b\u0131rak ile istedi\u011finiz s\u0131rada dizebilirsiniz."
-        },
-        "6daa35fd97a645b8e37cae080eab3de9": {
-            "text": "Alan Ekle"
-        },
-        "028dbbda0ea85c6b4ff5f2c9b38495de": {
-            "text": "D\u00fczenlemeye A\u00e7\u0131k Yeni Yineleyici \u00d6\u011feleri"
-        },
-        "903d3f840b615b110dd712afd0132f5f": {
-            "text": "Yeni \u00f6\u011feleri olu\u015fturmak i\u00e7in sayfa ba\u015f\u0131na d\u00fczenlemeye a\u00e7\u0131k (yay\u0131nlanmam\u0131\u015f) \u00f6\u011fe say\u0131s\u0131"
-        },
-        "e7fa825f7b362804c946096d4856f5ab": {
-            "text": "0 se\u00e7ilirse, yeni \u00f6\u011feler gerekli oldu\u011funda olu\u015fturulacakt\u0131r. Bu en verimli ayard\u0131r."
-        },
-        "0130612d3e112f71601647fe1201aeda": {
-            "text": "1 ve \u00fczeri se\u00e7ilirse, bu kadar yeni \u00f6\u011fe \"\u00f6\u011fe ekle\"ye t\u0131klad\u0131ktan sonra d\u00fczenlemeye haz\u0131r olacakt\u0131r. Bu daha h\u0131zl\u0131 d\u00fczenlemeyi sa\u011flar."
-        },
-        "06f7e37d7cc093483d98d11772f75837": {
-            "text": "Maksimum Tekrarlay\u0131c\u0131 \u00d6\u011fe"
-        },
-        "9175b33ed3085ade32188d58a242e0bc": {
-            "text": "\u0130zin verilen maksimum say\u0131daki tekrarlay\u0131c\u0131."
-        },
-        "8db1e9fd86969c9e9ee4c09365c260a6": {
-            "text": "0 se\u00e7ilirse, maksimum limit olmayacakt\u0131r."
-        },
-        "f29a8c723be64c58c0e9f4cbd6c32a88": {
-            "text": "1 se\u00e7ilirse, bu alan, \u00e7oklu \u00f6\u011fe [SayfaDizini] yerine, tekil \u00f6\u011fe [Sayfa] olarak davranacakt\u0131r."
-        },
-        "66eb0d45c43394f51bdb0397febc5b4f": {
-            "text": "\u00c7\u0131kt\u0131-D\u00fczeni (outputFormatting) kapal\u0131 oldu\u011funda, buradaki ayardan ba\u011f\u0131ms\u0131z olarak her zaman SayfaDizini (PageArray) olarak davranacakt\u0131r."
-        },
-        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
-            "text": "Tekrarlay\u0131c\u0131 T\u00fcr\u00fc"
-        },
-        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
-            "text": "\"Ekli\" oldu\u011funda, tekrarlay\u0131c\u0131 kendi kal\u0131p ve ebeveyn sayfas\u0131n\u0131 sizin m\u00fcdahelenize gerek kalmadan y\u00f6netecektir."
-        },
-        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
-            "text": "\"Ayr\u0131\" oldu\u011funda, tekrarlay\u0131c\u0131 ebeveyn ve kal\u0131b\u0131n\u0131 iste\u011finize g\u00f6re ta\u015f\u0131yabilir ve de\u011fi\u015ftirebilirsiniz."
-        },
-        "77e23d8e1ff8e93bfc6e188f62e409bd": {
-            "text": "Ayr\u0131ld\u0131\u011f\u0131nda, ProcessWire, alan silindi\u011finde\/silinirse ana sayfa veya kal\u0131b\u0131 silmeyecektir."
-        },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "\"%1$s\" Alan\u0131 \"%2$s\" Tekrarlay\u0131c\u0131ya Eklendi"
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "\"%1$s\" Alan\u0131 \"%2$s\" Tekrarlay\u0131c\u0131dan \u00c7\u0131kar\u0131ld\u0131"
-        },
-        "0fe1cc90d79ebfffb11a259cc05d406d": {
-            "text": "Ebeveyn sayfa %s art\u0131k ayr\u0131lm\u0131\u015ft\u0131r ve ta\u015f\u0131nm\u0131\u015f yada de\u011fi\u015ftirilmi\u015f olabilir."
-        },
         "64137776d10ddf89ff3087915287b872": {
             "text": "Birka\u00e7 defa tekrarlanan alanlar\u0131n listesini bar\u0131nd\u0131r\u0131r."
         },
         "d3b3350cb648f345b0a21a048df0cf45": {
             "text": "Tekrarlay\u0131c\u0131"
-        },
-        "678e17a04cd1c42a28cc8a9eff4f60c0": {
-            "text": "Tekrarlay\u0131c\u0131 alanlar\u0131"
-        },
-        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
-            "text": "Tekrarlay\u0131c\u0131 \u00f6\u011fesi etiketleri"
-        },
-        "4c95bcccf333bef2208b02fbd212af55": {
-            "text": "\u00d6rnek: #n: {title}"
-        },
-        "d347b63bb97431df68506ea3059be495": {
-            "text": "Yeni \u00f6\u011fe eklemek i\u00e7in etiket"
-        },
-        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
-            "text": "Tekrarlay\u0131c\u0131 \u00f6\u011fesinin edit\u00f6rde g\u00f6r\u00fcn\u00fcrl\u00fc\u011f\u00fc"
-        },
-        "e640612e8ad807cd847b4181b3a578d4": {
-            "text": "\u00d6\u011feler herzaman a\u00e7\u0131k"
-        },
-        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
-            "text": "\u00d6\u011feler herzaman kapal\u0131"
-        },
-        "89b9d848798e1d7bc773de6ad9a7b39a": {
-            "text": "Yeni \u00f6\u011feler a\u00e7\u0131k, eski \u00f6\u011feler kapal\u0131(\u00f6nerilen)"
-        },
-        "8c4f6c33cbae4831021c3dc17c991a23": {
-            "text": "Edit\u00f6rde \u00f6\u011fe eklemek i\u00e7in AJAX devre d\u0131\u015f\u0131 b\u0131rak"
-        },
-        "66a81e26ad18214b582553f4d33030f2": {
-            "text": "Sayfa edit\u00f6r\u00fcnde tekrarlay\u0131c\u0131 etiketlerinde kullanmak i\u00e7in bir alan girin, yada otomatik-olu\u015fturulmas\u0131 i\u00e7in bo\u015f b\u0131rak\u0131n."
-        },
-        "699a4d80b29a2b87e8bea7946afebe8e": {
-            "text": "Birden fazla alan kullanmak i\u00e7in, yada kendi bi\u00e7iminizi belirlemek i\u00e7in, alan isimlerini {s\u00fcsl\u00fc parantez} ile \u00e7evreleyin."
-        },
-        "c5e90fa5edbe00c619ca4d69c3692627": {
-            "text": "Tekrarlay\u0131c\u0131n\u0131n her bir etiketinde index numaras\u0131 i\u00e7ermesi i\u00e7in, isim bi\u00e7imi dizisine \"#n\" ekleyin."
-        },
-        "db9d65ca0ad208926207fbf99636b1f4": {
-            "text": "\"Yeni \u00f6\u011fe ekle\" yaz\u0131\/tu\u015fu yerinde kullan\u0131lmas\u0131n\u0131 istedi\u011finiz bir etiket girin, yada varsay\u0131lan kullan\u0131lmas\u0131 i\u00e7in bo\u015f b\u0131rak\u0131n."
-        },
-        "e420623b25fa348e2155e3e2bdbf5620": {
-            "text": "Tekrarlay\u0131c\u0131 \u00f6\u011feleri a\u00e7\u0131k yada kapal\u0131 olabilir (a\u00e7mak i\u00e7in t\u0131klanmas\u0131 gerekir). Kapal\u0131 mod s\u0131ralama ve t\u00fcm \u00f6\u011feleriniz g\u00f6rmeniz i\u00e7in daha uygundur."
-        },
-        "78f74cbd5e74d0a401b6e91e2d11e812": {
-            "text": "Varsay\u0131lan, \"Yeni \u00f6\u011fe\" ba\u011flant\u0131s\u0131 t\u0131kland\u0131\u011f\u0131nda yeni tekrarlay\u0131c\u0131 \u00f6\u011fesini AJAX olarak y\u00fckleyecek, daha sorunsuz bir deneyim sunar. Fakat baz\u0131 alanlar bununla uyumlu olmayabilir. Bu kutucu\u011fu i\u015faretleyerek AJAX \u00f6\u011fe eklemeyi devre d\u0131\u015f\u0131 b\u0131rak\u0131n."
-        },
-        "cb2d417d536ac6b6d8668d272b28ca47": {
-            "text": "Tekrarlay\u0131c\u0131 alan\u0131 \"%s\" \"zorunlu sadece e\u011fer\" ba\u011f\u0131ml\u0131l\u0131k ayar\u0131na sahip, ve bu Tekrarlay\u0131c\u0131larda desteklenmiyor."
         }
     }
 }
