@@ -17,12 +17,6 @@
         "586dfebdb944d7af7c4720be84d7fa50": {
             "text": "Resim Kaydet"
         },
-        "941c891be23b6a837de1d46c30efad2a": {
-            "text": "Bu Resmi Ekle"
-        },
-        "a616a1ef7aa1ee32d7d31c742923a202": {
-            "text": "Ba\u015fka Resim Se\u00e7"
-        },
         "a2a62a977b1825230f76d3ba2a6bf3df": {
             "text": "CKEditor Normal yerine inline modu kullanmak i\u00e7in MarkupHTMLPurifier mod\u00fcl\u00fc gerekli."
         },
@@ -214,6 +208,12 @@
         },
         "08b808bc7661d755f526f70fbcc07e44": {
             "text": "En az bir eklenti isaretlenmelidir."
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Resim Ekle"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Ba\u015fka Se\u00e7"
         }
     }
 }
