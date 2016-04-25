@@ -8,9 +8,6 @@
         "35b837a5674ea74e192fc0fa8b68f46c": {
             "text": "Sayfalama i\u00e7in sayfa numaras\u0131 \u00f6n eki"
         },
-        "6119a76d8e8915737cda0e4151922c06": {
-            "text": "Bu dil i\u00e7in sayfaland\u0131r\u0131lm\u0131\u015f URL'ye sayfa numaras\u0131 kelimeye eklenecek. Atlan\u0131rsa, \"%s\" kullan\u0131lacak."
-        },
         "5b5fec43bb1313c56d2e944d9567cd96": {
             "text": "Varsay\u0131lan ana sayfa URL'si ana URL ile ayn\u0131m\u0131?"
         },
@@ -25,6 +22,9 @@
         },
         "f1bd84fbcee1b287fe538f7df1cbd700": {
             "text": "Hay\u0131r - K\u00f6k url i\u00e7in bir y\u00f6nlendirme yapar: \/isim\/"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Bu dil i\u00e7in sayfalanm\u0131\u015f URL lere sayfa numaras\u0131 bu kelimenin sonuna eklenecek. Atlan\u0131rsa, \"% s\" kullan\u0131lacakt\u0131r."
         }
     }
 }

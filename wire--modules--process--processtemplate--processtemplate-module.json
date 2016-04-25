@@ -935,14 +935,50 @@
         "3797b58404902683867d788211ac5ce2": {
             "text": "Derlenen Dosyay\u0131 Kullan?"
         },
-        "b55ab85a8d8abe51c42f90d2cd3ae1ad": {
-            "text": "ProcessWire taraf\u0131ndan \u015fablon dosyan\u0131z\u0131 namespace i\u00e7in g\u00fcncellemesini aktif eder ve y\u00fckl\u00fc olan FileCompiler mod\u00fcllerini uygular. \u015eablon dosyan\u0131zda hatalara neden olmad\u0131k\u00e7a tavsiye edilir."
-        },
-        "549920aca582e9418dc31ce4c9f516fd": {
-            "text": "(ve dahil edilen dosyalar)"
-        },
         "422d6e51e28831664b5c0b701b6c6182": {
             "text": "(sadece \u015fablon dosyas\u0131)"
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Varsat\u0131lan alan eylemi"
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "E\u011fer emin de\u011filseniz, \"Otomatik\" se\u00e7in."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(derleyici devre d\u0131\u015f\u0131)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Otomatik (dosyan\u0131n isim uzay\u0131 (namespace) olmad\u0131\u011f\u0131nda derle)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(\u015fablon dosyas\u0131 ve dosyalar\u0131 kendisinden dahil ediliyor (included) )"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Alg\u0131lanan \u015fablon dosyas\u0131 ad\u0131 (namespace) \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Derleme \u00f6nerilir."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Derleme gerekti\u011fi taktirde mod\u00fcller yada dahil edilen (includes) dosyalar i\u00e7in gerekli de\u011fildir."
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Yay\u0131nlanm\u0131\u015f bir sayfa kay\u0131t edildi\u011finde eksik zorunlu bir alan i\u00e7eriyorsa hangi eylem uygulanmal\u0131d\u0131r?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Hata oldu\u011funda kullan\u0131c\u0131y\u0131 uyar (varsay\u0131lan)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "\u00d6nceki de\u011feri kurtar (uygun oldu\u011funda)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Sayfay\u0131 yay\u0131ndan kald\u0131 (izin verildi\u011finde)"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "\u015eablon dosyalar\u0131n\u0131z\u0131n isim uzay\u0131 (namespace) ve herhangibir y\u00fckl\u00fc DosyaDerleyici (FileCompiler) mod\u00fclleri i\u00e7in ProcessWire taraf\u0131ndan g\u00fcncellenmesini aktif eder."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "ProcessWire isim uzay\u0131 (namespace) kullanmayan \u015fablon dosyalar\u0131 i\u00e7in \u00f6nerilir (PW 2.x men\u015feli olabilirler)"
         }
     }
 }

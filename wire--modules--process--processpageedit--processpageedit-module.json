@@ -217,6 +217,33 @@
         },
         "407911b74ab384304ea0190675a00894": {
             "text": "%s + Yeni Ekle"
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Kurtar\u0131lan \u00f6nceki de\u011fer"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Sayfa yay\u0131nlanmad\u0131, \u00e7\u00fcnk\u00fc \"%s\" alan\u0131 zorunlu"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Varsay\u0131lan \"g\u00f6r\u00fcnt\u00fcle\" konum\/eylem"
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Sayfa G\u00f6r\u00fcn\u00fcm\u00fc"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "="
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Modal A\u00e7\u0131l\u0131r Pencere"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Yeni Pencere\/Tab"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "\u00c7\u0131k + G\u00f6r\u00fcnt\u00fcle"
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Sayfa edit\u00f6t\u00fcnde \"g\u00f6r\u00fcnt\u00fcle\" ye t\u0131klad\u0131\u011f\u0131n\u0131zda varsay\u0131lan eylem olarak kullan\u0131lacak."
         }
     }
 }
