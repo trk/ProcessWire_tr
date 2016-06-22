@@ -65,12 +65,6 @@
         "b18c29b8470190a02813415a04a2191f": {
             "text": "Dosya boyutu"
         },
-        "e635032a5f71d809146d3872389f5b0c": {
-            "text": "Dosya Se\u00e7"
-        },
-        "96baacdc276036c2b8fb65264750a3b4": {
-            "text": "Dosyalar\u0131 Se\u00e7"
-        },
         "7dce122004969d56ae2e0245cb754d35": {
             "text": "D\u00fczenle"
         },
@@ -97,6 +91,24 @@
         },
         "f4795ac01103c68bc75e637665b7bd12": {
             "text": "Bu resim alan\u0131nda kaydedilmemi\u015f de\u011fi\u015fiklikler olabilir, bu eylemden sonra veri kayb\u0131na neden olabilir. L\u00fctfen k\u0131rpma i\u015fleminden \u00f6nce kaydedin yada her hal\u00fckarda tu\u015fa \u00e7ift t\u0131klay\u0131n."
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Varsay\u0131lan resim \u0131zgara modu"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "Y\u00f6netim panelinde, varsay\u0131lan olarak resimler bu modda g\u00f6r\u00fcnt\u00fclenecek. Kullan\u0131c\u0131alr istedikleri zaman alan sa\u011f \u00fcst k\u00f6\u015fesinde bulunan simgelere t\u0131klayarak bunu de\u011fi\u015ftirebilirler."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "E\u011fer bu alan\u0131 yak\u0131n zamanda kulland\u0131ysan\u0131z, bu ayarlardaki de\u011fi\u015fiklikleri g\u00f6rebilmek i\u00e7in \u00e7erezleri temizlemeniz gerekebilir."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Kare \u0131zgara resimleri"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Orant\u0131l\u0131 \u0131zgara resimleri"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Dikey liste (ayr\u0131nt\u0131l\u0131)"
         }
     }
 }

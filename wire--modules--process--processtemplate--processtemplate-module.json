@@ -979,6 +979,15 @@
         },
         "d539c03bba4a77f2fb76ab46fa9b93f1": {
             "text": "ProcessWire isim uzay\u0131 (namespace) kullanmayan \u015fablon dosyalar\u0131 i\u00e7in \u00f6nerilir (PW 2.x men\u015feli olabilirler)"
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Bu \u015fablon i\u00e7in \u00e7oklu-dil deste\u011fini devre d\u0131\u015f\u0131 b\u0131rak?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "\u0130\u015faretlendi\u011finde, bu \u015fablonu kullanan sayfalar sadece varsay\u0131lan dili kullanacak."
+        },
+        "2ae2316266d64c1c1caa543c16fe62bc": {
+            "text": "API: $template->noLang = 1; \/\/ varsay\u0131lan 0."
         }
     }
 }
