@@ -133,6 +133,12 @@
         },
         "949ba1b245c883973bff1b4e0bd796a1": {
             "text": "Tekrarlay\u0131c\u0131 en az 3 g\u00fcn i\u00e7inde ili\u015fkilendirilmediyse yada yay\u0131nlanmad\u0131ysa eski olarak say\u0131l\u0131r."
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Hangi tekrarlay\u0131c\u0131 \u00f6\u011felerinin a\u00e7\u0131k oldu\u011funu hat\u0131rla?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "\u0130\u015faretlendi\u011finde, a\u00e7\u0131k olan tekrarlay\u0131c\u0131 \u00f6\u011feleri kaydedildikten sonra yada sayfa edit\u00f6r\u00fc tekrar y\u00fcklendi\u011finde a\u00e7\u0131k sekilde olacak (kullan\u0131c\u0131 onlar\u0131 se\u00e7ene kadar)."
         }
     }
 }

@@ -395,9 +395,6 @@
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Bu \u015fablonu \u00e7o\u011falt\/kopyala?"
         },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "E\u011fer bu \u015fablonu \u00e7o\u011faltmak\/kopyalam istiyorsan\u0131z kutuyu i\u015faretleyin. Kaydetti\u011finizde kopya olu\u015fturulacak. E\u011fer \u015fablon klas\u00f6r\u00fcn\u00fcz yaz\u0131labilir ise ve \u015fablon bir dosyaya sahip ise ayn\u0131 zamanda dosyada kopyalanacak."
-        },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Alternatif \u015eablon Dosyas\u0131"
         },
@@ -472,9 +469,6 @@
         },
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Kay\u0131t edilen \u015fablon : %s"
-        },
-        "0ad1fc6237db839537da704c90b40c53": {
-            "text": "Kopyas\u0131 olu\u015fturulan \u015fablon (eski) \"%1$s\" (yeni) \"%2$s\". Geli\u015fmi\u015f tab\u0131na t\u0131klayarak yeniden adland\u0131rabilirsiniz, \"%2$s\""
         },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "\u015eablonun kopyas\u0131n\u0131 olu\u015ftururken hata olu\u015ftu"
@@ -988,6 +982,18 @@
         },
         "2ae2316266d64c1c1caa543c16fe62bc": {
             "text": "API: $template->noLang = 1; \/\/ varsay\u0131lan 0."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Olu\u015fturmak istedi\u011finiz yeni \u015fablon dosyas\u0131 ad\u0131n\u0131 girin. Kay\u0131t etti\u011finizde klon olu\u015fturulacak. E\u011fer \u015fablon klas\u00f6r\u00fcn\u00fcz yaz\u0131labilir ise ve \u015fablon bir dosya i\u00e7eriyorsa, ayn\u0131 zamanda buda klonlanacak."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Klon i\u00e7in ge\u00e7ersiz \u015fablon ad\u0131 belirtildi"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Klonlanam\u0131yor, \u00e7\u00fcnk\u00fc bu ada sahip ba\u015fka bir \u015fablon mevcut"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Olu\u015fturulan \u015fablon klonu \"%1$s\", \"%2$s\" olarak adland\u0131r\u0131ld\u0131."
         }
     }
 }

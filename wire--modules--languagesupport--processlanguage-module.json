@@ -28,6 +28,39 @@
         },
         "9b73fd4d710e72a212bfc7dbe5692405": {
             "text": "ZIP \u0130ndir"
+        },
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "CSV \u0130\u00e7eri aktar:"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Canl\u0131 Arama"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Aranacak metin"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Arama indeksi ifadesi olu\u015fturmak i\u00e7in buraya t\u0131klay\u0131n"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Belirtilmi\u015f matin\/ifadeler i\u00e7in t\u00fcm \u00e7evrilebilir dosyalar\u0131 ara."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "\u00c7evirileri d\u00fczenlemek i\u00e7in bulunan e\u015fle\u015fmelere t\u0131kla yada dosya ekle (e\u011fer zaten mevcut de\u011fil ise)"
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "CSV \u00e7eviri dosyas\u0131 kaydedildikten sonra i\u00e7eri aktar\u0131lacak"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "CSV \u0130ndir"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Tan\u0131nmam\u0131\u015f textdomain dosyas\u0131:  %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "%d toplam \u00e7eviri, %d toplam de\u011fi\u015fiklik"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "Kay\u0131t %d edilen de\u011fi\u015fiklikler, dosya : %s"
         }
     }
 }
