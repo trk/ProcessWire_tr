@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/FileCompilerModule.php",
+    "textdomain": "wire--core--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Uygulama s\u00fcresi s\u0131ras\u0131"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Bu mod\u00fcldeki s\u0131ralama di\u011fer DosyaDerleyici mod\u00fcllerini g\u00f6receli olarak uygular. K\u00fc\u00e7\u00fck numaralar ilk uygulan\u0131r."
+        }
+    }
+}

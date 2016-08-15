@@ -131,14 +131,14 @@
         "78f74cbd5e74d0a401b6e91e2d11e812": {
             "text": "Varsay\u0131lan olarak, daha sorunsuz bir deneyim sundu\u011fu i\u00e7in, \"Yeni Ekle\" ba\u011flant\u0131s\u0131 t\u0131kland\u0131\u011f\u0131nda yeni tekrarlay\u0131c\u0131 \u00f6\u011fesini AJAX yolu ile y\u00fckleyecek. Fakat baz\u0131 alanlar bu \u00f6zellik ile uyumlu olmayabilir. Bu kutucu\u011fu i\u015faretleyerek yeni \u00f6\u011fe eklemelerinde AJAX y\u00fcklemeyi devre d\u0131\u015f\u0131 b\u0131rak."
         },
-        "949ba1b245c883973bff1b4e0bd796a1": {
-            "text": "Tekrarlay\u0131c\u0131 en az 3 g\u00fcn i\u00e7inde ili\u015fkilendirilmediyse yada yay\u0131nlanmad\u0131ysa eski olarak say\u0131l\u0131r."
-        },
         "2db718f06a27de2a35a889b205ef0bb4": {
             "text": "Hangi tekrarlay\u0131c\u0131 \u00f6\u011felerinin a\u00e7\u0131k oldu\u011funu hat\u0131rla?"
         },
         "031e3292fe279734b454896226066dfc": {
             "text": "\u0130\u015faretlendi\u011finde, a\u00e7\u0131k olan tekrarlay\u0131c\u0131 \u00f6\u011feleri kaydedildikten sonra yada sayfa edit\u00f6r\u00fc tekrar y\u00fcklendi\u011finde a\u00e7\u0131k sekilde olacak (kullan\u0131c\u0131 onlar\u0131 se\u00e7ene kadar)."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Bir tekrarlay\u0131c\u0131 en az 3 g\u00fcn i\u00e7inde ili\u015fkilendirilmediyse yada yay\u0131nlanmad\u0131ysa eski olarak say\u0131l\u0131r."
         }
     }
 }

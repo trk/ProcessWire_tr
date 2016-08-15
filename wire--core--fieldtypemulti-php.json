@@ -4,6 +4,33 @@
     "translations": {
         "e2942a04780e223b215eb8b663cf5353": {
             "text": "say\u0131"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "S\u0131ralama ve Sayfalama"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Bu ayarlar \u00f6n-sayfa (site) ve arka-sayfa (y\u00f6netim paneline) k\u0131s\u0131mlar\u0131nda uygulanacak (edit\u00f6rde)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(rezerv)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Otomatik s\u0131ralama"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "A\u015fa\u011f\u0131dan s\u0131ralama i\u00e7in bir yada daha fazla alan se\u00e7in. Elle s\u0131ralama i\u00e7in, bu ayar\u0131 bo\u015f b\u0131rak\u0131n."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Sayfalama limiti \/ sayfa ba\u015f\u0131 \u00f6\u011fe"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Bu limit sayfalama ba\u015f\u0131na y\u00fcklenecek\/d\u00fczenlenecek  \u00f6\u011fe say\u0131s\u0131n\u0131 belirler. De\u011fer \u201c0\u201d limit olmad\u0131\u011f\u0131n\u0131 g\u00f6steriri (varsay\u0131lan)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "E\u011fer y\u00fczlerce binlerce \u00f6\u011fe ile \u00e7al\u0131\u015f\u0131yorsan\u0131z (yada daha fazla) sayfalama tavsiye edilir."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "\u201cOtomatik s\u0131ralama\u201d se\u00e7ildi\u011finde bu ayarlar herhangibir efek g\u00f6stermeyecek."
         }
     }
 }
