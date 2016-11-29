@@ -109,6 +109,12 @@
         },
         "fa996d5ac4351e7e603f3ab1b9f77afe": {
             "text": "Dikey liste (ayr\u0131nt\u0131l\u0131)"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Portre resimleri i\u00e7in min\/maks \u00f6l\u00e7\u00fcleri de\u011fi\u015ftir?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "E\u011fer i\u015faretliyse, minimum geni\u015flik(width)\/y\u00fckseklik(height) ve maksimum geni\u015flik(width)\/y\u00fckseklik(height) \u00f6l\u00e7\u00fcleri farkl\u0131 en-boy oranlar\u0131na sahip portre resimleri i\u00e7in de\u011fi\u015ftirilecek."
         }
     }
 }

@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Karakter yerle\u015ftirmelerde HTML entities yerine UTF-8 karakterleri kullan?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "SmartyPants i\u00e7in varsay\u0131lan davran\u0131\u015f, karakter ekleme\/g\u00fcncelle\u015ftirmelerde HTML varl\u0131klar\u0131 kullanmak."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "E\u011fer \u00e7ift-kodlama hatas\u0131 g\u00f6zlemliyorsan\u0131z, UTF-8 yerle\u015ftirmesi kullanmay\u0131 tercih edebilirsiniz."
+        },
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "Hay\u0131r (varsay\u0131lan)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Evet (biraz)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Evet (hepsi)"
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Not, \u201chepsi\u201d se\u00e7ene\u011fi takip eden karakterlerin \u00e7\u00f6z\u00fcmlenmesine neden olacakt\u0131r (varl\u0131k kodland\u0131\u011f\u0131nda), SmartyPants taraf\u0131ndan eklenmemi\u015f olsa bile:"
+        }
+    }
+}

@@ -125,9 +125,6 @@
         "bfacb0dba61ee131e07daaacead869c5": {
             "text": "Temel alan ayarlar\u0131"
         },
-        "5efc010f527cdfeaa2ef63b1c6898fb5": {
-            "text": "Herhangibir ASCII karakter [a-z], numara [0-9], yada tire, alttan tire (nokta ve bo\u015fluk yok)."
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Alan tipinizi se\u00e7tikten ve kay\u0131t ettikten sonra, se\u00e7mi\u015f oldu\u011funuz alan ile ilgili olarak alan tipine \u00f6zel ek yap\u0131land\u0131rma ayarlar\u0131 yapabilirsiniz."
         },
@@ -574,6 +571,9 @@
         },
         "57a9412e7a9b1f328ffef4cd468dabeb": {
             "text": "Birinci girdi olarak ekle"
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "Sadece ASCII karakter [a-z], numara [0-9], yada tire, alttan tire (nokta ve bo\u015fluk yok)."
         }
     }
 }

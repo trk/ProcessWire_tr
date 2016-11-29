@@ -994,6 +994,15 @@
         },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Olu\u015fturulan \u015fablon klonu \"%1$s\", \"%2$s\" olarak adland\u0131r\u0131ld\u0131."
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Kapat ve Ekle"
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "Kullan\u0131c\u0131lar\u0131n kendi profillerinde hangi alanlar\u0131 d\u00fczenleyebileceklerini yap\u0131land\u0131rmak i\u00e7in, [profil mod\u00fcl\u00fc ayarlar\u0131na](%s) bak\u0131n\u0131z."
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Fieldset\/Tab \"%s\" yerletirmede hata - l\u00fctfen d\u00fczeltin ve tekrar kaydedin"
         }
     }
 }
