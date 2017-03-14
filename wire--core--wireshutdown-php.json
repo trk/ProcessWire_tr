@@ -1,0 +1,75 @@
+{
+    "file": "wire\/core\/WireShutdown.php",
+    "textdomain": "wire--core--wireshutdown-php",
+    "translations": {
+        "902b0d55fddef6f8d651fe1035b7d4bd": {
+            "text": "Hata"
+        },
+        "0eaadb4fcb48a0a0ed7bc9868be9fbaa": {
+            "text": "Uyar\u0131"
+        },
+        "fbc1408168142b8b97a61ea5ec60604c": {
+            "text": "Ayr\u0131\u015ft\u0131rma Hatas\u0131"
+        },
+        "24efa7ee4511563b16144f39706d594f": {
+            "text": "Bildiri"
+        },
+        "3e6a4da1a99015053b9f348a972ed817": {
+            "text": "\u00c7ekirdek Hatas\u0131"
+        },
+        "4077864c6efba13ed744a934c75c7a70": {
+            "text": "\u00c7ekirdek Uyar\u0131s\u0131"
+        },
+        "a124cf63bf9447b8860734235130c4d0": {
+            "text": "Derleme Hatas\u0131"
+        },
+        "89df0e5d8d2d164fecb95168ec427b22": {
+            "text": "Derleme Uyar\u0131s\u0131"
+        },
+        "dc59167792b6cc1035058bd91b38387a": {
+            "text": "Kullan\u0131c\u0131 Uyar\u0131s\u0131"
+        },
+        "4de99cbd6894308655b99aad3a328406": {
+            "text": "Kullan\u0131c\u0131 Bildirimi"
+        },
+        "20fa2ae21e1e86068218568c8ed8619e": {
+            "text": "S\u0131k\u0131 Uyar\u0131"
+        },
+        "ff9b211b885af35007a56bc02c64cad8": {
+            "text": "Geri Kazan\u0131labilir \u00d6nemli Hata"
+        },
+        "ca8b21d06668c2193b3df3d8152240ec": {
+            "text": "Hata logland\u0131."
+        },
+        "3653d35665e4ff97b9050e57a1399221": {
+            "text": "Y\u00f6netici uyar\u0131ld\u0131."
+        },
+        "e21ccea621de7c85101603acf22c9c79": {
+            "text": "site debug modda."
+        },
+        "9e1be4a2ee25755f837aeab9f49549e0": {
+            "text": "komut sat\u0131r\u0131 API sini kullan\u0131yorsunuz"
+        },
+        "94e7fb752e3990f6f676ffd6b9a42c46": {
+            "text": "Superuser olarak giri\u015f yapt\u0131n\u0131z."
+        },
+        "7d0312c35f60f9727688c5d442054eaa": {
+            "text": "install.php hala mevcut."
+        },
+        "1755ef83b3130baa9854b28e4990b8d5": {
+            "text": "Superuser hi\u00e7 giri\u015f yapmad\u0131."
+        },
+        "c3fde2eafc84400451d402a88c4e2efa": {
+            "text": "Bu hata mesaj\u0131 g\u00f6steriliyor \u00e7\u00fcnk\u00fc:"
+        },
+        "a9daf300020946318d20c57492171e60": {
+            "text": "Bu istek bir hata nedeniyle tamamlanam\u0131yor."
+        },
+        "6cb11cdff5ec8f7ab2a0cc4cb5635097": {
+            "text": "ProcessWire Hata Bildirimleri"
+        },
+        "f4af86e3db12bdead0c6b4f370e361de": {
+            "text": "(sat\u0131r %d \/ %s)"
+        }
+    }
+}

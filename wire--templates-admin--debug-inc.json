@@ -49,6 +49,12 @@
         },
         "ab0cf104f39708eabd07b8cb67e149ba": {
             "text": "\u00d6nbellek"
+        },
+        "3d7ce213fb1c2bec707c0fac7b1999e2": {
+            "text": "="
+        },
+        "38dee61bfa5e86e18c76e272c4c830fa": {
+            "text": "Debug modunu canl\u0131\/yay\u0131nda ortamlarda aktif olarak b\u0131rakmay\u0131n (\/site\/config.php dosyas\u0131nda $config->debug  k\u0131sm\u0131na bak\u0131n\u0131z)."
         }
     }
 }

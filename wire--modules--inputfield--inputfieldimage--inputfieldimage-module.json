@@ -5,24 +5,6 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Resim maksimun izin verilen boyutlarda yeniden boyutland\u0131r\u0131lacak"
         },
-        "95dde9286ff11d93e5f5ce0c832b9f2c": {
-            "text": "K\u00fc\u00e7\u00fck resimleri sayfa edit\u00f6r\u00fcnde g\u00f6ster?"
-        },
-        "183cf71ab1252b747070605a2aa370c2": {
-            "text": "K\u00fc\u00e7\u00fck resimler daha aza yer kaplar ve s\u0131ralamay\u0131 \u00e7oklu resimlerde daha da kolayla\u015ft\u0131r\u0131r. \u0130\u015faretlenmedi\u011finde, resimler sayfa edit\u00f6r\u00fcnde orjinal boyutlar\u0131nda g\u00f6r\u00fcnt\u00fclenir."
-        },
-        "597c4d1113db01e43b62cd8a7112cf88": {
-            "text": "Varsay\u0131lan G\u00f6r\u00fcn\u00fcm"
-        },
-        "530f488f7a9800411efc6926ab189708": {
-            "text": "Sat\u0131rlar"
-        },
-        "5174d1309f275ba6f275db3af9eb3e18": {
-            "text": "Izgara"
-        },
-        "b3da2ccb426643b265971f8085617aa0": {
-            "text": "Yada g\u00f6r\u00fcnt\u00fcleme resim alan\u0131ndaki \u0131zgara\/sat\u0131rlar ikonuna t\u0131klanarak de\u011fi\u015ftirilebilir. Bu sadece hangi se\u00e7ene\u011fin varsay\u0131lan oldu\u011funu belirtir. Sat\u0131r g\u00f6r\u00fcn\u00fcm\u00fc varsay\u0131lan olarak tavsiye edilir."
-        },
         "7f0785e56befa113ce8fca2316a12a2e": {
             "text": "Maksimum Resim Boyutlar\u0131"
         },
@@ -47,15 +29,6 @@
         "41cfe40655c4b51507eff9d22bd777f2": {
             "text": "Resim %s minimun resim boyutu gereksinimlerini kar\u015f\u0131lam\u0131yor"
         },
-        "f2a6c498fb90ee345d997f888fce3b18": {
-            "text": "Sil"
-        },
-        "ad2ac1967f0165ebf04a84bc1819e0de": {
-            "text": "A\u015fa\u011f\u0131ya ta\u015f\u0131"
-        },
-        "727b701bcc5f26422461f10c07a58d48": {
-            "text": "Yukar\u0131ya ta\u015f\u0131"
-        },
         "1a2b9bdaad8fc3ebd6b83463a0def69e": {
             "text": "Pixel de\u011ferini numara olarak girin yada limit yok ise bo\u015f b\u0131rak\u0131n."
         },
@@ -74,17 +47,74 @@
         "5e244fccb2d4cda18bebf756dacce94c": {
             "text": "Resim %s maksimum izin verilen boyutlar\u0131 a\u015f\u0131yor"
         },
-        "840ad8821e0c1db717493f17a054bd18": {
-            "text": "Varyasyonlar %s"
-        },
         "dffe78c5f55b8a4187b91c40a03cf904": {
             "text": "Maksimum boyutlar\u0131 a\u015fan resimleri kabul etme?"
         },
         "e0af28e6bea01f8a983ebd94ec3b7468": {
             "text": "E\u011fer i\u015faretliyse, maksimum geni\u015flik\/y\u00fckseklik de\u011ferlerini a\u015fan resimler yeniden boyutland\u0131rmak yerine kabul edilmeyecek."
         },
-        "6a1c2d713d3598f27c30a6c448197f0e": {
-            "text": "Dosya g\u00f6r\u00fcnt\u00fclenemiyor"
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Kes"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Varyasyonlar"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Boyutlar"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Dosya boyutu"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "D\u00fczenle"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "ta\u015f\u0131 ve b\u0131rak y\u00f6ntemiyle resimleri yukar\u0131ya b\u0131rak\u0131n"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "="
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "de\u011fi\u015ftirmek istedi\u011finiz yeni resmi b\u0131rak\u0131n"
+        },
+        "f0823f4faa69306cc75fd14c8e5e38e3": {
+            "text": "eski k\u00fc\u00e7\u00fck resimler kaydedildi\u011finde yeniden olu\u015fturulacak"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Yukar\u0131da eski\/d\u00fc\u015f\u00fck kalite \u00f6nizleme k\u00fc\u00e7\u00fck resimleri var - bu kutuyu i\u015faretleyerek tekrar olu\u015fturun."
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "D\u00fczenlenebilir de\u011fil."
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "T\u00fcm eski k\u00fc\u00e7\u00fck resimler yeniden olu\u015fturuldu"
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Bu resim alan\u0131nda kaydedilmemi\u015f de\u011fi\u015fiklikler olabilir, bu eylemden sonra veri kayb\u0131na neden olabilir. L\u00fctfen k\u0131rpma i\u015fleminden \u00f6nce kaydedin yada her hal\u00fckarda tu\u015fa \u00e7ift t\u0131klay\u0131n."
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Varsay\u0131lan resim \u0131zgara modu"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "Y\u00f6netim panelinde, varsay\u0131lan olarak resimler bu modda g\u00f6r\u00fcnt\u00fclenecek. Kullan\u0131c\u0131alr istedikleri zaman alan sa\u011f \u00fcst k\u00f6\u015fesinde bulunan simgelere t\u0131klayarak bunu de\u011fi\u015ftirebilirler."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "E\u011fer bu alan\u0131 yak\u0131n zamanda kulland\u0131ysan\u0131z, bu ayarlardaki de\u011fi\u015fiklikleri g\u00f6rebilmek i\u00e7in \u00e7erezleri temizlemeniz gerekebilir."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Kare \u0131zgara resimleri"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Orant\u0131l\u0131 \u0131zgara resimleri"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Dikey liste (ayr\u0131nt\u0131l\u0131)"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Portre resimleri i\u00e7in min\/maks \u00f6l\u00e7\u00fcleri de\u011fi\u015ftir?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "E\u011fer i\u015faretliyse, minimum geni\u015flik(width)\/y\u00fckseklik(height) ve maksimum geni\u015flik(width)\/y\u00fckseklik(height) \u00f6l\u00e7\u00fcleri farkl\u0131 en-boy oranlar\u0131na sahip portre resimleri i\u00e7in de\u011fi\u015ftirilecek."
         }
     }
 }

@@ -125,9 +125,6 @@
         "bfacb0dba61ee131e07daaacead869c5": {
             "text": "Temel alan ayarlar\u0131"
         },
-        "5efc010f527cdfeaa2ef63b1c6898fb5": {
-            "text": "Herhangibir ASCII karakter [a-z], numara [0-9], yada tire, alttan tire (nokta ve bo\u015fluk yok)."
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Alan tipinizi se\u00e7tikten ve kay\u0131t ettikten sonra, se\u00e7mi\u015f oldu\u011funuz alan ile ilgili olarak alan tipine \u00f6zel ek yap\u0131land\u0131rma ayarlar\u0131 yapabilirsiniz."
         },
@@ -205,12 +202,6 @@
         },
         "4b2bcb0478b24201a7d60fed561d1b42": {
             "text": "\u015eayfa verilerini tutan bireysel alanlar\u0131 d\u00fczenleyin"
-        },
-        "588f35f32f53430bfc4199ef15c424db": {
-            "text": "Alan listelemesinde filtreleme ayarlar\u0131n\u0131 g\u00f6ster?"
-        },
-        "887c58e4743e8c789e4ebea161c6fdfe": {
-            "text": "Bu alan listesinin \u00fcst\u00fcne iki se\u00e7enek kutusu ekler, bu size \u015fablona yada tipe g\u00f6re filtrelemede g\u00f6r\u00fcnt\u00fcleme se\u00e7ene\u011fi sunar."
         },
         "7cdb55d0d84a64ee84c14621892d8e10": {
             "text": "Alan\u0131 kay\u0131t ettikten sonra alan listesine d\u00f6n?"
@@ -562,6 +553,27 @@
         },
         "d94836b689b2cd95f920084c5f27e770": {
             "text": "Bu alan i\u00e7in data tablosunda hi\u00e7bir sayfa ile e\u015fle\u015fmeyen, yada bu alana sahip olmayan sayfalar ile e\u015fle\u015fen sat\u0131rlar bulduk."
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "\u00d6n-sayfa d\u00fczenleyici"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Y\u00fckle"
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "L\u00fctfen \u00f6n-sayfada alanlar\u0131 d\u00fczenlemek i\u00e7in \u00f6n-sayfa d\u00fczenleme edit\u00f6r\u00fc mod\u00fcl\u00fcn\u00fc y\u00fckleyin. Y\u00fckledikten sonra, daha fazla se\u00e7enek i\u00e7in yeniden y\u00fckleyin ve buraya don\u00fcn."
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "%s : ile birlikte kullan\u0131ld\u0131\u011f\u0131nda"
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "Alan ad alan\u0131 i\u00e7in ge\u00e7ersiz k\u0131lma ayarlar\u0131: %s"
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "Birinci girdi olarak ekle"
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "Sadece ASCII karakter [a-z], numara [0-9], yada tire, alttan tire (nokta ve bo\u015fluk yok)."
         }
     }
 }

@@ -395,9 +395,6 @@
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Bu \u015fablonu \u00e7o\u011falt\/kopyala?"
         },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "E\u011fer bu \u015fablonu \u00e7o\u011faltmak\/kopyalam istiyorsan\u0131z kutuyu i\u015faretleyin. Kaydetti\u011finizde kopya olu\u015fturulacak. E\u011fer \u015fablon klas\u00f6r\u00fcn\u00fcz yaz\u0131labilir ise ve \u015fablon bir dosyaya sahip ise ayn\u0131 zamanda dosyada kopyalanacak."
-        },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
             "text": "Alternatif \u015eablon Dosyas\u0131"
         },
@@ -472,9 +469,6 @@
         },
         "ce79a399cbe0a2128106c428d5f5227c": {
             "text": "Kay\u0131t edilen \u015fablon : %s"
-        },
-        "0ad1fc6237db839537da704c90b40c53": {
-            "text": "Kopyas\u0131 olu\u015fturulan \u015fablon (eski) \"%1$s\" (yeni) \"%2$s\". Geli\u015fmi\u015f tab\u0131na t\u0131klayarak yeniden adland\u0131rabilirsiniz, \"%2$s\""
         },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "\u015eablonun kopyas\u0131n\u0131 olu\u015ftururken hata olu\u015ftu"
@@ -926,11 +920,89 @@
         "3d7582ad0b178e43f075e25248efdc12": {
             "text": "Rol taraf\u0131ndan izinleri iptal et"
         },
-        "975bafff7904e0b6768fc9b2d0a11829": {
-            "text": "Devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in bo\u015f b\u0131rak\u0131n. Sayfa ba\u015fl\u0131\u011f\u0131ndan otomatik olarak almas\u0131 i\u00e7in \"ba\u015fl\u0131k\" (t\u0131rnaks\u0131z olarak) girin. Tarih formatlar\u0131 hakk\u0131nda [daha fazla](https:\/\/processwire.com\/api\/modules\/process-template\/) se\u00e7enek i\u00e7ermekte."
-        },
         "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
             "text": "="
+        },
+        "27dd547b53bb1b3c67c345f984747010": {
+            "text": "Devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in bo\u015f b\u0131rak\u0131n. Sayfa ba\u015fl\u0131\u011f\u0131ndan otomatik olarak almas\u0131 i\u00e7in \"ba\u015fl\u0131k\" (t\u0131rnaks\u0131z olarak) girin. Tarih bi\u00e7imleri de dahil olmak \u00fczere daha fazla se\u00e7enekler de mevcuttur. [Daha Fazla](http:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Derlenen Dosyay\u0131 Kullan?"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(sadece \u015fablon dosyas\u0131)"
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Varsat\u0131lan alan eylemi"
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "E\u011fer emin de\u011filseniz, \"Otomatik\" se\u00e7in."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(derleyici devre d\u0131\u015f\u0131)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Otomatik (dosyan\u0131n isim uzay\u0131 (namespace) olmad\u0131\u011f\u0131nda derle)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(\u015fablon dosyas\u0131 ve dosyalar\u0131 kendisinden dahil ediliyor (included) )"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Alg\u0131lanan \u015fablon dosyas\u0131 ad\u0131 (namespace) \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Derleme \u00f6nerilir."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Derleme gerekti\u011fi taktirde mod\u00fcller yada dahil edilen (includes) dosyalar i\u00e7in gerekli de\u011fildir."
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Yay\u0131nlanm\u0131\u015f bir sayfa kay\u0131t edildi\u011finde eksik zorunlu bir alan i\u00e7eriyorsa hangi eylem uygulanmal\u0131d\u0131r?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Hata oldu\u011funda kullan\u0131c\u0131y\u0131 uyar (varsay\u0131lan)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "\u00d6nceki de\u011feri kurtar (uygun oldu\u011funda)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Sayfay\u0131 yay\u0131ndan kald\u0131 (izin verildi\u011finde)"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "\u015eablon dosyalar\u0131n\u0131z\u0131n isim uzay\u0131 (namespace) ve herhangibir y\u00fckl\u00fc DosyaDerleyici (FileCompiler) mod\u00fclleri i\u00e7in ProcessWire taraf\u0131ndan g\u00fcncellenmesini aktif eder."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "ProcessWire isim uzay\u0131 (namespace) kullanmayan \u015fablon dosyalar\u0131 i\u00e7in \u00f6nerilir (PW 2.x men\u015feli olabilirler)"
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Bu \u015fablon i\u00e7in \u00e7oklu-dil deste\u011fini devre d\u0131\u015f\u0131 b\u0131rak?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "\u0130\u015faretlendi\u011finde, bu \u015fablonu kullanan sayfalar sadece varsay\u0131lan dili kullanacak."
+        },
+        "2ae2316266d64c1c1caa543c16fe62bc": {
+            "text": "API: $template->noLang = 1; \/\/ varsay\u0131lan 0."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Olu\u015fturmak istedi\u011finiz yeni \u015fablon dosyas\u0131 ad\u0131n\u0131 girin. Kay\u0131t etti\u011finizde klon olu\u015fturulacak. E\u011fer \u015fablon klas\u00f6r\u00fcn\u00fcz yaz\u0131labilir ise ve \u015fablon bir dosya i\u00e7eriyorsa, ayn\u0131 zamanda buda klonlanacak."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Klon i\u00e7in ge\u00e7ersiz \u015fablon ad\u0131 belirtildi"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "Klonlanam\u0131yor, \u00e7\u00fcnk\u00fc bu ada sahip ba\u015fka bir \u015fablon mevcut"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Olu\u015fturulan \u015fablon klonu \"%1$s\", \"%2$s\" olarak adland\u0131r\u0131ld\u0131."
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Kapat ve Ekle"
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "Kullan\u0131c\u0131lar\u0131n kendi profillerinde hangi alanlar\u0131 d\u00fczenleyebileceklerini yap\u0131land\u0131rmak i\u00e7in, [profil mod\u00fcl\u00fc ayarlar\u0131na](%s) bak\u0131n\u0131z."
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Fieldset\/Tab \"%s\" yerletirmede hata - l\u00fctfen d\u00fczeltin ve tekrar kaydedin"
         }
     }
 }

@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "\u00d6n-sayfa d\u00fczenleyiciyi kullanmadan \u00f6nce, l\u00fctfen [\u00f6n-sayfa d\u00fczenleme yard\u0131m\u0131n\u0131](%s) inceleyin."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Inline editor ayarlar\u0131"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Se\u00e7enek A: \u00f6n-d\u00fczenleme d\u00fczenlenebilir alanlar"
+        },
+        "97f5063cc7446aefa21ae4e7fb3cc146": {
+            "text": "Basit\u00e7e a\u015fa\u011f\u0131daki kutular\u0131 i\u015faretledi\u011finizde \u00f6n-sayfada direk sayfa i\u00e7inde bu yaz\u0131 tabanl\u0131 alanlar d\u00fczenlenebilir olacak."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(\u00f6nerilmez)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Se\u00e7enek A: editor kapsaml\u0131"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Kaydet\/iptal tu\u015flar\u0131"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Tu\u015flar\u0131n konumu"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Otomatik"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "\u00dcst sol"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "\u00dcst sa\u011f"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "A\u015fa\u011f\u0131 sol"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "A\u015fa\u011f\u0131 sa\u011f"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Tu\u015f tipleri"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Otomatik (simge ve yaz\u0131lar masa\u00fcst\u00fc i\u00e7in, simgeler dokunmatik cihazlar i\u00e7in)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Simgeler ve yaz\u0131"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Sadece yazu"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Sadece simge"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Daha"
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Bu alan i\u00e7in bu se\u00e7enek desteklenmiyor"
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Se\u00e7enek A: Otomatik d\u00fczenleme"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Yap\u0131land\u0131rma"
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**Bu se\u00e7enekler ile dikkatli olun:** E\u011fer sayfada alan de\u011ferini birden fazla yerde kullan\u0131yorsan\u0131z, bu se\u00e7enek yerine [Se\u00e7enek B, C or D](https:\/\/processwire.com\/api\/modules\/front-end-editing\/) kullanman\u0131z \u00f6nerilir."
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Yukar\u0131daki i\u015faretli alanlar \u00e7\u0131kt\u0131 olarak g\u00f6r\u00fcnt\u00fclendi\u011finde, nerede d\u00fczenlebilir olmal\u0131lar?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Alanlar sadece sayfa taraf\u0131ndan i\u015flenmi\u015f ise d\u00fczenlenebilir olsun (\u00f6nerilen)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Alanlar sayfaya bak\u0131lmaks\u0131n\u0131z d\u00fczenlenebilir"
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Gerekli izinler [page-edit](%s) ve [page-edit-front](%s)."
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Bu se\u00e7enek bu alan i\u00e7in zaten AKT\u0130F"
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Se\u00e7enek B: API metod \u00e7a\u011f\u0131rma"
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Se\u00e7enek C: D\u00fczenlenebilir b\u00f6lgeler olu\u015fturmak i\u00e7in HTML etiketi ekle"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Se\u00e7enek D: D\u00fczenlenebilir b\u00f6lge olu\u015fturmak i\u00e7in mevcut bi\u00e7imlendirmeye HTML d\u00fczenleme tan\u0131mlamas\u0131 ekle"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "\u00c7\u0131kt\u0131y\u0131 g\u00f6stermek istedi\u011finde $page->%s; yerine $page->edit(\"%s\"); kullan."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Takip eden herhangi bir yaz\u0131m se\u00e7enekleri desteklenir (birini se\u00e7in). \"1001\" herhangi bir sayfa ID yada yolu olabilir, ve \"...\" herhangi bir bi\u00e7imlendirme yada kod, tipik olarak alan de\u011ferini nerede g\u00f6stermek istiyorsan\u0131z."
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "A\u015fa\u011f\u0131da g\u00f6sterilen div etiketi d\u00fczenlenebilir b\u00f6lgeyi \u00e7evreleyen var olan herhangi bir HTML etiketi olabilir."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Not bu d\u00fczenleme tan\u0131mlamas\u0131n\u0131 kulland\u0131\u011f\u0131n\u0131zda, modal edit\u00f6r\u00fc herzaman kullan\u0131lacak. T\u00fcm di\u011fer se\u00e7enekler desteklendi\u011fi zaman inline edit\u00f6r kullanacak."
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Bu alan i\u00e7in \u00f6n-sayfa d\u00fczenlemeyi aktif etmeniz i\u00e7in birka\u00e7 farkl\u0131 y\u00f6ntem mevcut. Hangi se\u00e7ene\u011fi se\u00e7erseniz se\u00e7in, \u00f6n-sayfa d\u00fczenleme sayfa ve alan i\u00e7in kullan\u0131c\u0131n\u0131n uygun izinleri oldu\u011funda g\u00f6r\u00fcnt\u00fclenecek."
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Alan d\u00fczenlenebilir oldu\u011funda, \u00fczerine geldi\u011finizde d\u00fczenli fare i\u015faret\u00e7isi yerine yaz\u0131 fare i\u015faret\u00e7isi g\u00f6r\u00fcnt\u00fclenecek. \u00d6n-sayfada alan\u0131 d\u00fczenlemek i\u00e7in **\u00e7ift-t\u0131klaman\u0131z** gerekiyor."
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Bi\u00e7imlendirilmi\u015f alan de\u011feri sayfadan ($page) al\u0131nd\u0131\u011f\u0131nda, onun i\u00e7in herhangi bir bi\u00e7imlendirme\/kod yazmadan d\u00fczenlenebilir olacak. Burada kullan\u0131c\u0131n\u0131n d\u00fczenleme izni oldu\u011fu varsay\u0131lm\u0131\u015ft\u0131r."
+        }
+    }
+}
