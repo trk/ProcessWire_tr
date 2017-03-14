@@ -128,9 +128,6 @@
         "b6c2682ed322b5c3625338a5849b9794": {
             "text": "CKEditor yaz\u0131 alan\u0131 zengin metin edit\u00f6r\u00fc"
         },
-        "63ba0561c6027fed354e6c5af252a77b": {
-            "text": "L\u00fctfen nas\u0131l kullan\u0131laca\u011f\u0131 ile ilgili [talimatlar\u0131m\u0131z](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-js-styles-set) bak\u0131n\u0131z."
-        },
         "2c3077a1dd5833c9dc6f49fe48e3ab71": {
             "text": "E\u011fer kullan\u0131l\u0131yorsa, her sat\u0131r i\u00e7in **property: value**, yada JSON metni kullan\u0131n."
         },
@@ -145,9 +142,6 @@
         },
         "d662e23e83bdb75f4e25b3bb7afa2324": {
             "text": "E\u011fer tercih edilirse, bu ayarlar bu dosyalardan birine yerle\u015ftirilebilir:"
-        },
-        "9728a8f280cf7e8b0b89b52749f7e800": {
-            "text": "L\u00fctfen nas\u0131l kullan\u0131laca\u011f\u0131 ile ilgili [talimatlar\u0131m\u0131z](https:\/\/github.com\/ryancramerdesign\/ProcessWire\/blob\/dev\/wire\/modules\/Inputfield\/InputfieldCKEditor\/README.md#custom-editor-css-file) bak\u0131n\u0131z."
         },
         "c329380c093af757e030c47c58fc31ae": {
             "text": "\u00d6zel Edit\u00f6r CSS Dosyas\u0131 (d\u00fczenli mod i\u00e7in)"
@@ -217,6 +211,9 @@
         },
         "fb946d5480a9eb75edd868079b14cfac": {
             "text": "Saya\u00e7 d\u00fczenli CKEditor alanlar\u0131 taraf\u0131ndan destekleniyor, inline CKEditor alanlar\u0131 i\u00e7in desteklenmiyor."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "L\u00fctfen nas\u0131l kullan\u0131laca\u011f\u0131 ile ilgili [talimatlar\u0131m\u0131z](%s) bak\u0131n\u0131z."
         }
     }
 }

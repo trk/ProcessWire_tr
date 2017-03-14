@@ -11,18 +11,6 @@
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Alan Ekle"
         },
-        "028dbbda0ea85c6b4ff5f2c9b38495de": {
-            "text": "D\u00fczenlemeye A\u00e7\u0131k Yeni Yineleyici \u00d6\u011feleri"
-        },
-        "903d3f840b615b110dd712afd0132f5f": {
-            "text": "Yeni \u00f6\u011feleri olu\u015fturmak i\u00e7in sayfa ba\u015f\u0131na d\u00fczenlemeye a\u00e7\u0131k (yay\u0131nlanmam\u0131\u015f) \u00f6\u011fe say\u0131s\u0131"
-        },
-        "e7fa825f7b362804c946096d4856f5ab": {
-            "text": "0 se\u00e7ilirse, yeni \u00f6\u011feler gerekli oldu\u011funda olu\u015fturulacakt\u0131r. Bu en verimli ayard\u0131r."
-        },
-        "0130612d3e112f71601647fe1201aeda": {
-            "text": "1 ve \u00fczeri se\u00e7ilirse, bu kadar yeni \u00f6\u011fe \"\u00f6\u011fe ekle\"ye t\u0131klad\u0131ktan sonra d\u00fczenlemeye haz\u0131r olacakt\u0131r. Bu daha h\u0131zl\u0131 d\u00fczenlemeyi sa\u011flar."
-        },
         "06f7e37d7cc093483d98d11772f75837": {
             "text": "Maksimum Tekrarlay\u0131c\u0131 \u00d6\u011fe"
         },
@@ -104,9 +92,6 @@
         "9c539ab2317d7056d5d664b083557796": {
             "text": "**%d** eski kaydedilmeyen tekrarlay\u0131c\u0131 \u00f6\u011fe var, silmek i\u00e7in bu kutucu\u011fu i\u015faretleyin."
         },
-        "8c4f6c33cbae4831021c3dc17c991a23": {
-            "text": "Edit\u00f6rde \u00f6\u011fe eklemek i\u00e7in AJAX \u00f6zelli\u011fini devre d\u0131\u015f\u0131 b\u0131rak"
-        },
         "699a4d80b29a2b87e8bea7946afebe8e": {
             "text": "Birden fazla alan kullanmak yada kendi dizi format\u0131n\u0131z\u0131 belirlemek i\u00e7in alan isimlerini {s\u00fcsl\u00fc-parantez} ile \u00e7evreleyin."
         },
@@ -128,9 +113,6 @@
         "78385cca5a362b333c60753b2fcf6e40": {
             "text": "Sayfa edit\u00f6r\u00fcnde hangi \u00f6\u011feler dinamik olarak AJAX ile y\u00fcklenmelidir? E\u011fer tekrarlay\u0131c\u0131n\u0131z\u0131n kulland\u0131\u011f\u0131 bir alan\u0131n dinamik y\u00fcklemede \u00e7al\u0131\u015fmad\u0131\u011f\u0131n\u0131 g\u00f6rd\u00fcyseniz, bu \u00f6zelli\u011fi devre d\u0131\u015f\u0131 b\u0131rakman\u0131z gerekli olabilir."
         },
-        "78f74cbd5e74d0a401b6e91e2d11e812": {
-            "text": "Varsay\u0131lan olarak, daha sorunsuz bir deneyim sundu\u011fu i\u00e7in, \"Yeni Ekle\" ba\u011flant\u0131s\u0131 t\u0131kland\u0131\u011f\u0131nda yeni tekrarlay\u0131c\u0131 \u00f6\u011fesini AJAX yolu ile y\u00fckleyecek. Fakat baz\u0131 alanlar bu \u00f6zellik ile uyumlu olmayabilir. Bu kutucu\u011fu i\u015faretleyerek yeni \u00f6\u011fe eklemelerinde AJAX y\u00fcklemeyi devre d\u0131\u015f\u0131 b\u0131rak."
-        },
         "2db718f06a27de2a35a889b205ef0bb4": {
             "text": "Hangi tekrarlay\u0131c\u0131 \u00f6\u011felerinin a\u00e7\u0131k oldu\u011funu hat\u0131rla?"
         },
@@ -139,6 +121,39 @@
         },
         "2878ed508d1b136f7b170f593c0ff00f": {
             "text": "Bir tekrarlay\u0131c\u0131 en az 3 g\u00fcn i\u00e7inde ili\u015fkilendirilmediyse yada yay\u0131nlanmad\u0131ysa eski olarak say\u0131l\u0131r."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Akordeon modunu kullan?"
+        },
+        "d608f61f5c7a0e2b84a3ae252a596a48": {
+            "text": "\u0130\u015faretlendi\u011finde, ayn\u0131 zamanda sadece bir tekrarlay\u0131c\u0131 \u00f6\u011fe olacak."
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Maksimum \u00f6\u011fe say\u0131s\u0131"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "E\u011fer izin verilen \u00f6\u011fe say\u0131s\u0131n\u0131 limitlemek istiyorsan\u0131z, buraya bir limit girin (0=limit yok)"
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Minimum \u00f6\u011fe say\u0131s\u0131"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Bir\u00e7ok \u00f6\u011fe herzaman a\u00e7\u0131k olacak ve d\u00fczenlemeye-haz\u0131r (0=minimum yok)"
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Derinlik"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "\u00d6\u011felere derinlik deste\u011fi vermek i\u00e7in, maks. izin verilen derinli\u011fi girin, yada devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in bo\u015f b\u0131rak\u0131n."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Tekrarlay\u0131c\u0131y\u0131 d\u00fczenledi\u011finizde, \u00f6\u011fenin derinli\u011fini ta\u015f\u0131ma oklar\u0131na t\u0131klayarak de\u011fi\u015ftirebilirsiniz ve \u00f6\u011feyi sa\u011fa veya sola ta\u015f\u0131yabilirsiniz."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Derinlikler s\u0131f\u0131r-tabanl\u0131d\u0131r, anlam\u0131 3 izin verilen derinlik var 0, 1, 2 ve 3"
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Tekrarlay\u0131c\u0131 derinli\u011fine sayfada `$item->depth` ile eri\u015filebilir."
         }
     }
 }

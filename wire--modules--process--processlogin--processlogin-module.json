@@ -43,6 +43,18 @@
         },
         "00796cc045b871fe7b2867edef6aaaf7": {
             "text": "Bu uyar\u0131y\u0131 almak istemiyorsan\u0131z, \/site\/config.php dosyan\u0131zda $config->chmodWarn = false; olarak belirleyin."
+        },
+        "efdf35a179a19ed3b3de0d3e7785f17d": {
+            "text": "Uyar\u0131: Sunucu yereliniz tan\u0131mlanmam\u0131\u015f ve sorunlara neden olabilir."
+        },
+        "25722c10f4f7abdc7297094d5d8f97e6": {
+            "text": "L\u00fctfen her dil i\u00e7in \"C\" yerel ayar\u0131n\u0131 %s i\u00e7indeki uygun yerel ayara terc\u00fcme et"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "\u00d6rne\u011fin, ABD \u0130ngilizcesi i\u00e7in yerel ayar: %s olabilir"
+        },
+        "58b0cb95c27f394bd4c6970b563153dd": {
+            "text": "L\u00fctfen bunu \/site\/config.php dosyas\u0131na ekleyin (gereken ayar \u201c%s\u201d):"
         }
     }
 }

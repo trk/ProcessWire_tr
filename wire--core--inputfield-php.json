@@ -17,9 +17,6 @@
         "3b57940d51a0ed7f2d5c49363114bd0e": {
             "text": "Alan\u0131n hangi ko\u015fullar alt\u0131nda g\u00f6sterilece\u011fini girin."
         },
-        "a785c32894aad6d7c1dc826a4bc0a4a3": {
-            "text": "S\u00fctun Geni\u015fli\u011fi (%d%%)"
-        },
         "0eb0b305235144ffe99e247b24200b09": {
             "text": "Bu alan\u0131n gen\u015fli\u011fi (10% - 100%) aras\u0131ndad\u0131r. E\u011fer daralt\u0131l\u0131rsa di\u011fer alanlar bu alan\u0131n yan\u0131na gelecektir."
         },
@@ -76,6 +73,9 @@
         },
         "2d7ff3fa8a1a844b270d96878d358762": {
             "text": "Daha fazlas\u0131n\u0131 okumak i\u00e7in, [bunu nas\u0131l kullanabilirim](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
+        },
+        "b26d2db211d5748ab5ca3f2b5124e63a": {
+            "text": "S\u00fctun Geni\u015fli\u011fi (%d%%)"
         }
     }
 }

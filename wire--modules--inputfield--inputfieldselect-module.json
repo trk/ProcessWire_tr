@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
     "textdomain": "wire--modules--inputfield--inputfieldselect-module",
     "translations": {
-        "6b66a61fa66288a9a7ad6474d2e686ec": {
-            "text": "Varsay\u0131lan De\u011fer"
-        },
         "dae8ace18bdcbcc6ae5aece263e14fe8": {
             "text": "Se\u00e7enekler"
         },
@@ -17,12 +14,6 @@
         "eed6fbc4de3755e7189b1461a4844bea": {
             "text": "A\u00e7\u0131lan se\u00e7me men\u00fcs\u00fcnden bir de\u011fer se\u00e7menizi sa\u011flar"
         },
-        "c37baf4e64db68f6887058399a37ad60": {
-            "text": "\u00d6nceden se\u00e7ilmi\u015f varsay\u0131lan de\u011fer i\u00e7in a\u015fa\u011f\u0131ya se\u00e7enek de\u011ferlerini girin. Sayfa se\u00e7imi i\u00e7in, bu sayfa ID numas\u0131 olabilir."
-        },
-        "d48cd2cb0f5c1d209800b28e019eb574": {
-            "text": "Bu varsay\u0131lan de\u011fer se\u00e7ene\u011fi mevcut \u00e7\u00fcnk\u00fc yukar\u0131daki \"zorunlu\" se\u00e7ene\u011fini i\u015faretledin."
-        },
         "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
             "text": "\u00d6nce bo\u015f bir se\u00e7enek g\u00f6stermek istiyorsan\u0131z, ilk se\u00e7enek olarak sadece e\u015fittir i\u015fareti \"=\" kullan\u0131n."
         },
@@ -34,6 +25,21 @@
         },
         "663f303f44a9a25504e3c434fc37b34d": {
             "text": "optgroup (option group) olu\u015fturmak i\u00e7in se\u00e7eneklerin ba\u015f\u0131na \u00fc\u00e7 yanada daha fazla bo\u015fluk b\u0131rak\u0131n."
+        },
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "\u00d6nceden se\u00e7ilen varsay\u0131lan de\u011ferleri kullanmak i\u00e7in a\u015fa\u011f\u0131daki se\u00e7enek de\u011ferlerini (her sat\u0131ra bir tane) girin."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "\u00d6nceden se\u00e7ilmi\u015f bir varsay\u0131lan de\u011fere sahip olmak i\u00e7in, a\u015fa\u011f\u0131daki se\u00e7enek de\u011ferini girin."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Varsay\u0131lan de\u011fer"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Varsay\u0131lan sayfa se\u00e7imi i\u00e7in, de\u011fer sayfa kimlik numaras\u0131 olacakt\u0131r."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "\u00d6NEML\u0130: Alan gerekli oldu\u011fu s\u00fcrece varsay\u0131lan de\u011fer kullan\u0131lmaz (bu ekrandaki \"gerekli\" onay kutusuna bak\u0131n)."
         }
     }
 }

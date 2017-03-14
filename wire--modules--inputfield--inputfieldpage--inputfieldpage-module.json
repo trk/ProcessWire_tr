@@ -29,32 +29,11 @@
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "(varsay\u0131lan)"
         },
-        "962f1366aaa6f1c636d3214e12322362": {
-            "text": "Se\u00e7ilebilir Sayfalar"
-        },
-        "21348aafc8733099a5b3c20e4a90e7b4": {
-            "text": "Se\u00e7ilebilir sayfalar\u0131n ebeveyni"
-        },
         "5b0591013bf2cac5ee96f90e31a5b2e9": {
             "text": "Se\u00e7ilebilir olan sayfalar\u0131n ebeveynini se\u00e7in"
         },
-        "dceea0994df5640514b906a18a43810f": {
-            "text": "Se\u00e7ilebilir sayfalar\u0131n \u015fablonu"
-        },
-        "9f80067ff42d8e69d0c3a24b67ef4c85": {
-            "text": "Se\u00e7ilebilir sayfalar\u0131n \u015fablonunu se\u00e7in. Ebeveynin yerine yada ek olarak kullan\u0131labilr. NOT: SayfaListesiSe\u00e7ici (PageListSelect) alan tipleri ile uyumlu de\u011fildir."
-        },
-        "53158583a607fba6e71f0f18d73a910b": {
-            "text": "Se\u00e7ilebilir sayfalar\u0131 bulmak i\u00e7in \u00f6zel se\u00e7ici"
-        },
-        "6ad160329dd81f9ecede290bffe93928": {
-            "text": "ProcessWire se\u00e7icisi ile se\u00e7ilebilir sayfalar\u0131 bulmak istiyorsan\u0131z, bir ebeveyn sayfa yada \u015fablon se\u00e7erek (yukar\u0131dan) aranabilir sayfalar\u0131 bulabilmek i\u00e7in bir se\u00e7ici girin. Bu se\u00e7ici $pages->find('seciciniz'); ifadesini ile kullan\u0131l\u0131r. NOT: SayfaListelemeSe\u00e7icisi (PageListSelect) alan tipleri ile \u015fuan i\u00e7in uyumlu de\u011fildir."
-        },
         "1920ec4f46fd3f4962d351c84f69cf7e": {
             "text": "parent=\/urunler\/, template=urun, sort=name"
-        },
-        "d04c6c77608855a3ff0fb3ee32a2cd53": {
-            "text": "Se\u00e7ilebilir sayfalar\u0131 bulabilmek i\u00e7in \u00f6zel PHP kodu"
         },
         "b329c0bc717cd35d04a9362fc0d778c2": {
             "text": "\u00d6rnek : return $page->parent->parent->children(\"name=locations\")->first()->children();"
@@ -65,38 +44,20 @@
         "881b1a7b97bc4d70099cc59a53e8a8e5": {
             "text": "Girdi alan tipi"
         },
-        "bcf331523fb730639bde7c2e8fc4f811": {
-            "text": "Alan tipi sayfa se\u00e7iminde kullan\u0131lacak. Tek bir sayfa ile tutarl\u0131 bir tane se\u00e7in, vs. \u00e7oklu-sayfa bu alan\u0131n detaylar sayfas\u0131ndan se\u00e7ilmelidir."
-        },
-        "195a66e99428447940ac989366724b42": {
-            "text": "Y\u0131ld\u0131z ile belirtilen tipler birden \u00e7ok \u015fayfa se\u00e7imi i\u00e7in belirtilir."
-        },
-        "54b79da80ed98094797b9e3ee68488a6": {
-            "text": "Art\u0131 ile belirtilen \"ebeveyn\" a\u011fac\u0131n k\u00f6k dizinidir, ebeveyn yerine ge\u00e7er."
-        },
         "8332fcbd80839cdcc617bee49529ad1e": {
             "text": "Yeni sayfalar\u0131n alandan olu\u015fturulmas\u0131na izin ver?"
         },
         "20463a1675fc256b438538124524746a": {
             "text": "E\u011fer i\u015faretlenirse, yeni sayfalar i\u00e7in bir se\u00e7enek eklenecek, belirtilen \u015fartlar\u0131 yerine getirdi\u011fi taktirde kullan\u0131labilir olacak."
         },
-        "7673446b991c59998763308c9f7f5d53": {
-            "text": "1. Yukar\u0131nda bir ebeveyn ve \u015fablon se\u00e7ilmelidir."
-        },
         "65a208c6491dac4a6fb17f7a62f76658": {
             "text": "2. D\u00fczenleyen kullan\u0131c\u0131n\u0131n olu\u015fturma\/d\u00fczenleme yetkilerine sahip olmas\u0131 gerekir."
-        },
-        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
-            "text": "3. Etiket-alan\u0131n\u0131n \"title (varsay\u0131lan\u0131)\" olarak ayarlanmas\u0131 gerekir."
         },
         "d9a5927aa49f1a766a15e692b69c1c91": {
             "text": "Inoutfield mod\u00fclleri sayfa se\u00e7imleri i\u00e7in mevcuttur"
         },
         "d5a1e1e864827e2bbb99d144e30359de": {
             "text": "Sayfa se\u00e7iminde kullanmak i\u00e7in GirdiAlan\u0131 (Inputfield) mod\u00fcllerini se\u00e7in. Genellikle GirdiAlanlar\u0131 (Inputfields) size bir yada daha fazla se\u00e7enek se\u00e7menizi sa\u011flar."
-        },
-        "3d9e8a4318894ce247ba920c7961d5da": {
-            "text": "Yukar\u0131daki ebeveyn ve \u015fablon se\u00e7imleri ge\u00e7ersiz k\u0131lar iken, bu se\u00e7imler hala se\u00e7imler i\u00e7in kullan\u0131l\u0131yor (bu davran\u0131\u015flar\u0131 istemiyorsan\u0131z se\u00e7imleri kald\u0131r\u0131n)."
         },
         "d0188d35124b9f7887cc0d158da64328": {
             "text": "E\u011fer yukar\u0131dan bir ebeveyn sayfas\u0131 veya \u015fablon se\u00e7mektense se\u00e7ilebilir sayfalar\u0131 PHP kodu ile bulmak istiyorsan\u0131z, se\u00e7ilebilir sayfalar\u0131 bulmak i\u00e7in kodu giriniz. Bu ifadenin $page ve $pages API de\u011fi\u015fkenlerine eri\u015fimi var, $page d\u00fczenlenmekte olan sayfa anla\u0131na gelir."
@@ -125,11 +86,110 @@
         "190dcbcb68a0545eb0e38c4eca2961e0": {
             "text": "\u00d6rnek : {parent.title} - {title}, {date}"
         },
-        "ebd9ef41cdc1369f55f58b151390de31": {
-            "text": "Baz\u0131 girdi tipleri ek yap\u0131land\u0131rma se\u00e7enekleri sunabilir. Bir girdi alan\u0131 se\u00e7tikten sonra, ve de\u011fi\u015fikliklerinizi kaydettikten sonra ek yap\u0131land\u0131rma se\u00e7enekleri bu b\u00f6l\u00fcm alt\u0131nda g\u00f6r\u00fcnebilir."
-        },
         "db62b7d9ccb858fb53481683f5d1d813": {
             "text": "Bu alan\u0131n kullan\u0131lmadan \u00f6nce yap\u0131land\u0131r\u0131lmas\u0131 gerekiyor."
+        },
+        "5e1daea70649e788db6ead8cd50f791d": {
+            "text": "\"%2$s\" alan\u0131nda yay\u0131nda olmayan %1$s sayfaya izin verilmiyor"
+        },
+        "1cc510dea04a978b3bb88514582eea6c": {
+            "text": "Yay\u0131nda olmayan sayfalara izin vermek i\u00e7in, \"%s\" alan\u0131n\u0131 d\u00fczenleyin ve \"Geli\u015fmi\u015f\" tab\u0131ndaki ayara bak\u0131n\u0131z."
+        },
+        "309980b76124ca15c19a948edcd2b820": {
+            "text": "Se\u00e7ilebilir sayfalar"
+        },
+        "e50655dbc7c36d40e2cf238aae3bf9c8": {
+            "text": "Bu alanla hangi sayfalar\u0131n se\u00e7ilebilece\u011fini belirlemek i\u00e7in a\u015fa\u011f\u0131daki se\u00e7eneklerden en az birini kullan\u0131n."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Ebeveyn"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "\u015eablon"
+        },
+        "e633bd1a014a2d5f6beee84c20440cb4": {
+            "text": "Se\u00e7ilebilir sayfalar\u0131n \u015fablonunu se\u00e7in. Yukar\u0131daki ebeveynin yerine veya ek olarak kullan\u0131labilir."
+        },
+        "38c3a6e66709a7bfc48e7450e726a9b5": {
+            "text": "Ek \u015fablonlar"
+        },
+        "24ae2cf02f858ca0ae6dd168fe28add8": {
+            "text": "Se\u00e7ilebilir sayfalar i\u00e7in ek \u015fablonlara ihtiyac\u0131n\u0131z varsa, bunlar\u0131 buradan se\u00e7in."
+        },
+        "1bffba8c823b325ac5713f424da43182": {
+            "text": "Bu, t\u00fcm girdi t\u00fcrleri taraf\u0131ndan desteklenmeyebilir."
+        },
+        "533e8044020cfac547586cacca582fca": {
+            "text": "\u00d6zel bul"
+        },
+        "709109a0ca7566a6bfae0f6145c8c613": {
+            "text": "Sorgu alan\u0131n\u0131 ekle"
+        },
+        "5742607846ab8e8f502a078e624a2f24": {
+            "text": "Se\u00e7ici dizisi"
+        },
+        "89ba456c93408d4bc5888a8e960dbb79": {
+            "text": "\u00d6zel PHP kodu"
+        },
+        "1df666749c8b91ac260ac68b3a1dfeb3": {
+            "text": "\u00c7oklu sayfa se\u00e7me"
+        },
+        "c051cff56b1d25c941ba4268f2c9c8b1": {
+            "text": "Tek sayfa se\u00e7me"
+        },
+        "8f23ded99b5882bf55f3aa4154cf10df": {
+            "text": "\"Sayfa Listesi\" giri\u015f t\u00fcrlerine ili\u015fkin"
+        },
+        "bbc8c6c107d8cf7e49310723820e8052": {
+            "text": "Belirli gereksinimleri olan bir girdi t\u00fcr\u00fc se\u00e7tiniz."
+        },
+        "d45d37464c307f05fe480979c03fd99b": {
+            "text": "\"Se\u00e7ilebilir sayfalar\" \u0131 yap\u0131land\u0131r\u0131rken sadece a\u015fa\u011f\u0131da \"Ebeveyn\" se\u00e7ene\u011fi belirtin."
+        },
+        "a8e65bab8badd05312e21a13bc8aacf1": {
+            "text": "Belirtti\u011finiz ebeveynin, se\u00e7ilebilir sayfalar\u0131n k\u00f6k\u00fcn\u00fc ima etti\u011fini unutmay\u0131n."
+        },
+        "d89af7d091962a34d3d666a54148e1f9": {
+            "text": "Her \u015feyi se\u00e7ilebilir yapmak istiyorsan\u0131z, hi\u00e7bir \u015fey belirtmeyin."
+        },
+        "6bd4cf6cf4401b1a39b1fcdd57bd4c68": {
+            "text": "1. Yukar\u0131daki \"Se\u00e7ilebilir sayfalar\" b\u00f6l\u00fcm\u00fcnde hem ebeveyn hem de \u015fablon belirtilmelidir."
+        },
+        "8379c940f14c74babf288df5cec8a408": {
+            "text": "3. \"Etiket alan\u0131\" \"ba\u015fl\u0131k (varsay\u0131lan)\" olarak ayarlanmal\u0131d\u0131r."
+        },
+        "89f32c3a56b097c4da3f220687f2cad5": {
+            "text": "\u201c%s\u201d \u00f6zg\u00fc ayarlar"
+        },
+        "c53eb6ef357cebe320e9c359e7adfaeb": {
+            "text": "A\u015fa\u011f\u0131daki kancay\u0131 bir %s dosyas\u0131na ekleyin ve ihtiya\u00e7lar\u0131n\u0131za g\u00f6re de\u011fi\u015ftirin. Kanca, se\u00e7ilebilir sayfalar\u0131 bir PageArray i\u00e7inde bulmal\u0131 ve d\u00f6nd\u00fcrmelidir."
+        },
+        "06d1dad5791272bfde6c76b87289a62b": {
+            "text": "D\u00fczenlenen sayfay\u0131 bilmeniz gerekiyorsa, %s adresinden eri\u015filebilir."
+        },
+        "9eeb68b4b7e0c3608f3014ad177b15fb": {
+            "text": "Bu alan i\u00e7in sayfa (lar) se\u00e7mek i\u00e7in kullan\u0131lacak giri\u015f alan\u0131 t\u00fcr\u00fc (Giri\u015f alan\u0131 mod\u00fcl\u00fc)."
+        },
+        "215c501706b9ef0657264f0cb931dbd3": {
+            "text": "Tek veya \u00e7ok sayfal\u0131 se\u00e7im i\u00e7in \"Ayr\u0131nt\u0131lar\" sekmesindeki \"De\u011fer t\u00fcr\u00fc\" se\u00e7iminizle tutarl\u0131 bir se\u00e7im yap\u0131n."
+        },
+        "081b70a0b1eb9e48918ebc5d3c8afc6b": {
+            "text": "Bir girdi alan\u0131 t\u00fcr\u00fc se\u00e7ip de\u011fi\u015fiklikleri kaydettikten sonra, se\u00e7iminize \u00f6zg\u00fc ek yap\u0131land\u0131rma se\u00e7eneklerinin do\u011frudan bunun alt\u0131nda g\u00f6r\u00fcnebilece\u011fini l\u00fctfen unutmay\u0131n."
+        },
+        "cdce55320d6f3ed4e6ac6f952d43903d": {
+            "text": "Bu, yukar\u0131daki \u00fcst \u00f6\u011fe ve \u015fablon se\u00e7imlerini ge\u00e7ersiz k\u0131lsa da, bu se\u00e7imler (varsa) yine de do\u011frulama i\u00e7in kullan\u0131l\u0131r."
+        },
+        "83309c97a345b4921da94ff53e86da68": {
+            "text": "Se\u00e7ilebilir yapmak istedi\u011finiz sayfalar\u0131 bulan bir sorgu olu\u015fturmak i\u00e7in a\u015fa\u011f\u0131da bir veya daha fazla alan ekleyin."
+        },
+        "46ccc95f9f53fc892accee255689f495": {
+            "text": "Bu, \u00e7al\u0131\u015fma zaman\u0131nda sayfalar\u0131 bulan bir se\u00e7ici olu\u015fturur. Bunu el ile girmeyi tercih ederseniz bunun yerine a\u015fa\u011f\u0131daki \"Se\u00e7ici dizesi\" se\u00e7ene\u011fini kullan\u0131n."
+        },
+        "14d274b0d81592a035d1fb04ee031fb6": {
+            "text": "Se\u00e7ilebilir sayfalar\u0131 bir ProcessWire se\u00e7ici kullanarak bulmak istiyorsan\u0131z, se\u00e7ilebilir sayfalar\u0131 bulmak i\u00e7in se\u00e7ici dizgiyi girin. Bu se\u00e7ici dizisi, `$pages->find(\"se\u00e7ici-dizisi\");` \u00e7a\u011fr\u0131s\u0131nda kullan\u0131lacakt\u0131r."
+        },
+        "23aec26e2b521c0e5f1061b3d04983a5": {
+            "text": "s\u0131n\u0131fland\u0131r\u0131labilir"
         }
     }
 }
