@@ -38,12 +38,6 @@
         "77e23d8e1ff8e93bfc6e188f62e409bd": {
             "text": "Ayr\u0131ld\u0131\u011f\u0131nda, ProcessWire, alan silindi\u011finde\/silinirse ana sayfa veya kal\u0131b\u0131 silmeyecektir."
         },
-        "1f8c0e21410e1c136bf780fc141b35ae": {
-            "text": "\"%1$s\" Alan\u0131 \"%2$s\" Tekrarlay\u0131c\u0131ya Eklendi"
-        },
-        "f54c2540ded6390c6328b2838850482d": {
-            "text": "\"%1$s\" Alan\u0131 \"%2$s\" Tekrarlay\u0131c\u0131dan \u00c7\u0131kar\u0131ld\u0131"
-        },
         "27dafd7f7794d09bc001fc0acac8e1ad": {
             "text": "Silinen %d eski\/kaydedilmeyen tekrarlay\u0131c\u0131 \u00f6\u011feler"
         },
@@ -154,6 +148,12 @@
         },
         "8b3964c39c4eb2db458965c40689f5a0": {
             "text": "Tekrarlay\u0131c\u0131 derinli\u011fine sayfada `$item->depth` ile eri\u015filebilir."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "\"%1$s\" alan\u0131 \"%2$s\" i\u00e7in eklendi"
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "\"%2$s\" i\u00e7in kald\u0131r\u0131lan alan \"%1$s\""
         }
     }
 }

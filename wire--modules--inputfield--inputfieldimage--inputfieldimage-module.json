@@ -5,9 +5,6 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Resim maksimun izin verilen boyutlarda yeniden boyutland\u0131r\u0131lacak"
         },
-        "7f0785e56befa113ce8fca2316a12a2e": {
-            "text": "Maksimum Resim Boyutlar\u0131"
-        },
         "ef375d406da59811c42dc0f5a245dca3": {
             "text": "\u0130ste\u011fe ba\u011fl\u0131 olarak y\u00fcklenecek resimler i\u00e7in maksimum geni\u015flik ve\/yada y\u00fckselik girin. E\u011fer belirtildiyse, resimler y\u00fcklenirken belirtmi\u015f oldu\u011funuz maksimum geni\u015flik yada y\u00fckseklik orant\u0131lar\u0131nda yeniden boyutland\u0131r\u0131lacak. Boyutland\u0131rma i\u015flemi y\u00fcklenirken yap\u0131lacak, bu sistemdeki resimlere etki etmeyecek, yada API ile y\u00fcklenen resimlere."
         },
@@ -32,9 +29,6 @@
         "1a2b9bdaad8fc3ebd6b83463a0def69e": {
             "text": "Pixel de\u011ferini numara olarak girin yada limit yok ise bo\u015f b\u0131rak\u0131n."
         },
-        "6760d392e57247a882e160cdb8b3680c": {
-            "text": "Min. Resim Boyutlar\u0131"
-        },
         "a195023920e6ece61b6211755c9af27f": {
             "text": "\u0130ste\u011fe ba\u011fl\u0131 olarak y\u00fcklenen resimler i\u00e7in minimun geni\u015flik ve\/yada y\u00fckseklik de\u011feri girin. E\u011fer belirtilmi\u015f ise, bu de\u011ferleri kar\u015f\u0131lamayan resimler reddedilecek."
         },
@@ -49,9 +43,6 @@
         },
         "dffe78c5f55b8a4187b91c40a03cf904": {
             "text": "Maksimum boyutlar\u0131 a\u015fan resimleri kabul etme?"
-        },
-        "e0af28e6bea01f8a983ebd94ec3b7468": {
-            "text": "E\u011fer i\u015faretliyse, maksimum geni\u015flik\/y\u00fckseklik de\u011ferlerini a\u015fan resimler yeniden boyutland\u0131rmak yerine kabul edilmeyecek."
         },
         "d388632d05e8826abe4b95de0b110529": {
             "text": "Kes"
@@ -76,9 +67,6 @@
         },
         "d6a369d29506d3151a76c33791fc80b6": {
             "text": "de\u011fi\u015ftirmek istedi\u011finiz yeni resmi b\u0131rak\u0131n"
-        },
-        "f0823f4faa69306cc75fd14c8e5e38e3": {
-            "text": "eski k\u00fc\u00e7\u00fck resimler kaydedildi\u011finde yeniden olu\u015fturulacak"
         },
         "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
             "text": "Yukar\u0131da eski\/d\u00fc\u015f\u00fck kalite \u00f6nizleme k\u00fc\u00e7\u00fck resimleri var - bu kutuyu i\u015faretleyerek tekrar olu\u015fturun."
@@ -115,6 +103,57 @@
         },
         "7f3d934927a1c106f5191c01b36c7766": {
             "text": "E\u011fer i\u015faretliyse, minimum geni\u015flik(width)\/y\u00fckseklik(height) ve maksimum geni\u015flik(width)\/y\u00fckseklik(height) \u00f6l\u00e7\u00fcleri farkl\u0131 en-boy oranlar\u0131na sahip portre resimleri i\u00e7in de\u011fi\u015ftirilecek."
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maksimum Resim Boyutlar\u0131"
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "JPG, PNG ve GIF resimlere uygulan\u0131r."
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Maksimum boyutlarda nas\u0131l boyutland\u0131r\u0131ls\u0131n"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Kullan\u0131c\u0131 taraf\u0131nda yeniden boyutland\u0131rma kullanmak, y\u00fcklemeden \u00f6nce dosya boyutunu ve boyutlar\u0131n\u0131 azaltman\u0131za olanak tan\u0131r."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "Kullan\u0131c\u0131 taraf\u0131 yeniden boyutland\u0131rmay\u0131 kullan\u0131rken, l\u00fctfen yukar\u0131daki alanlarda maks geni\u015flik *ve* maks y\u00fckseklik veya a\u015fa\u011f\u0131daki alanda maksimum megapiksel belirtin."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "M\u00fcmk\u00fcnse kullan\u0131c\u0131 tarafl\u0131 yeniden boyutland\u0131rma kullan"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Sadece sunucu tarafl\u0131 yeniden boyutland\u0131rmay\u0131 kullan"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Y\u00fcklenecek resimler i\u00e7in maks megapiksel"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Bu, maksimum geni\u015flik\/y\u00fcksekli\u011fin alternatifi olarak kullan\u0131labilir. Bir kayan nokta de\u011feri belirtin."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Yaln\u0131zca kullan\u0131c\u0131 tarafl\u0131 yeniden boyutland\u0131rma uygulanabilir."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "\u0130nternet siteleri i\u00e7in 1.7 iyi bir de\u011ferdir, kabaca 1600x1000 piksel, 1600 ve 1000 geni\u015flik veya y\u00fckseklik olabilir."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Di\u011fer \u00f6rnekler:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "JPEG'ler i\u00e7in kullan\u0131c\u0131-taraf\u0131 yeniden boyutland\u0131rma kalitesi y\u00fczdesi"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "10 (d\u00fc\u015f\u00fck kalite\/k\u00fc\u00e7\u00fck dosya boyutu) ve 100 (y\u00fcksek kalite\/y\u00fcksek dosya boyutu) aras\u0131nda bir say\u0131 belirtin . Varsay\u0131lan 90 d\u0131r."
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "E\u011fer i\u015faretliyse, maksimum geni\u015flik\/y\u00fcksekli\u011fi (kullan\u0131c\u0131 taraf\u0131nda yeniden boyutland\u0131r\u0131lamaz) ge\u00e7en resimler yeniden boyutland\u0131r\u0131lmadan reddedilecektir."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Minimun resim boyutlar\u0131"
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Sadece sunucu taraf\u0131 yeniden boyutland\u0131rmalarda uygulan\u0131r."
         }
     }
 }

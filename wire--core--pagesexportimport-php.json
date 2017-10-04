@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/PagesExportImport.php",
+    "textdomain": "wire--core--pagesexportimport-php",
+    "translations": {
+        "624939f6a7a76d86e0b0e0938aacd940": {
+            "text": "Kald\u0131r\u0131lan eski klas\u00f6r"
+        },
+        "97da05bb97ff56336c27fa114d6b0207": {
+            "text": "Kald\u0131r\u0131lan eski dosya"
+        },
+        "9b1cc00dbcf068b1122b605e857eaa09": {
+            "text": "Eklenen %d dosya"
+        },
+        "083adbc0f513ffcbf1b3d027b729d86b": {
+            "text": "Eklenen %d dosyalar"
+        },
+        "bdecf31cb76eacb6caf0208cfbbb592b": {
+            "text": "%s, %d dosyas\u0131 i\u00e7in g\u00fcncellendi"
+        },
+        "da66c53d674b9fa0de56b687a0bfa5aa": {
+            "text": "%s, %d dosyalar\u0131 i\u00e7in g\u00fcncellendi"
+        },
+        "3a7a95fd4d51c39124770ea8b6118b15": {
+            "text": "Kald\u0131r\u0131lan %d dosya"
+        },
+        "d92a31c9965349af72b77222b20eff0d": {
+            "text": "Kald\u0131r\u0131lan %d dosyalar"
+        },
+        "f303c7e39b87bd05f15c54af9495df45": {
+            "text": "%s yolu ile eklenen %d dosya"
+        },
+        "619e03cdcca42ac2af53e413ad13c264": {
+            "text": "%s yolu ile eklenen %d dosyalar"
+        }
+    }
+}

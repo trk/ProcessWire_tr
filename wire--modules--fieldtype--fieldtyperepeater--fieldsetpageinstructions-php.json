@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Bu \u00f6rnek metindir"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Bu alan\u0131n kullan\u0131m\u0131 ile ilgili talimatlar"
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Bir de\u011fer elde etmek:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Bir de\u011fer \u00e7\u0131kt\u0131s\u0131:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Markup i\u00e7erisinde de\u011fer \u00e7\u0131kt\u0131s\u0131:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Bir de\u011fer ayarlama:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Bir de\u011fer ayarlama ve kaydetme:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "bu gerekti\u011finde, \u00e7\u0131kt\u0131 bi\u00e7imlendirmeyi kapat\u0131r"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Alan k\u00fcmesini ba\u015fka bir (daha k\u0131sa) de\u011fi\u015fkene atama ve bir de\u011fer \u00e7\u0131karma:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "\"example\" metnini i\u00e7eren \"%s\" alan\u0131na sahip alan k\u00fcmesine sahip sayfalar\u0131 bulma:"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Bu t\u00fcr alan k\u00fcmesi, yukar\u0131da se\u00e7ti\u011finiz alanlar\u0131n de\u011ferlerini saklamak i\u00e7in ayr\u0131 bir sayfa (sahnelerin arkas\u0131nda) kullan\u0131r."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Bir yarar\u0131, sayfan\u0131zda alan k\u00fcmesi d\u0131\u015f\u0131nda mevcut olabilecek alanlar\u0131 tekrar kullanabilmenizdir."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "\u00d6rne\u011fin, sayfan\u0131zda ve alan k\u00fcmenizde bir tane \"ba\u015fl\u0131k\" alan\u0131na sahip olabilirsiniz. Ayn\u0131 \u015fekilde ba\u015fka alanlar i\u00e7in de."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "Bunun nedeni, alan k\u00fcmesindeki alanlar kendi ana sayfalar\u0131ndan ayr\u0131 olan ba\u015fka-bir-sayfadaki-kendi-alanlar\u0131nda bulunmalar\u0131d\u0131r."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "A\u015fa\u011f\u0131da, bu alan\u0131 \u015fablon dosyalar\u0131n\u0131zda ve API'den nas\u0131l kullanaca\u011f\u0131n\u0131z ile ilgili birka\u00e7 \u00f6rnek bulunmaktad\u0131r."
+        }
+    }
+}
