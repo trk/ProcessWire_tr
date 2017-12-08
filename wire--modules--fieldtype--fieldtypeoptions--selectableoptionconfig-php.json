@@ -46,6 +46,18 @@
         },
         "a088b8e4d1d572f82e2661ab0862f00b": {
             "text": "Hangi girdi tipini se\u00e7ti\u011finize ba\u011fl\u0131 olarak kullan\u0131c\u0131 bir yada birden fazla se\u00e7enek se\u00e7ebiliyor olacak. Baz\u0131 girdi tipleri (AsmSelect gibi) se\u00e7imlerde kullan\u0131c\u0131-s\u0131ralamas\u0131 destekliyor. Baz\u0131 girdi tipleri ayn\u0131 zamanda size girdi tab\u0131n da daha fazla se\u00e7enek sunuyor (kay\u0131t ettikten sonra g\u00f6r\u00fcnebilir)"
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "API kullan\u0131m \u00f6rne\u011fi"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Tekli se\u00e7im \u00e7\u0131kt\u0131s\u0131:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "\u00c7oklu se\u00e7im \u00e7\u0131kt\u0131s\u0131:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Ba\u015fl\u0131klardan ziyade \u00e7\u0131kt\u0131lar almak istiyorsan\u0131z, yukar\u0131daki \u00f6rneklerde \"title\" yerine \"value\" ifadesini kullan\u0131n."
         }
     }
 }

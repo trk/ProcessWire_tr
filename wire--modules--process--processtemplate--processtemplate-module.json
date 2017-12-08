@@ -413,9 +413,6 @@
         "b1a8a50c7276f36aeca631c5f4d18c9d": {
             "text": "Bu alanlardan bir yada birden fazla girebilirsiniz :"
         },
-        "8a08c3b7f2922be4ad8e59744781b796": {
-            "text": "Sayfa Ad\u0131 Format\u0131"
-        },
         "707380d7bcc2ece9eead5a5879fb1c22": {
             "text": "Bu \u015fablonu kullanarak d\u00fczenleme ve eri\u015fim yetkilerini y\u00f6netmek istiyormusunuz?"
         },
@@ -506,18 +503,6 @@
         "61b468c296e8ff1ed4c18bd86392e1cc": {
             "text": "Y\u00f6netim panelinde Sayfa Listesinden g\u00f6r\u00fcnt\u00fclemek i\u00e7in bir yada birden fazla alan ad\u0131 belirtin. E\u011fer bo\u015f b\u0131rak\u0131rsan\u0131z, ProcessPageList mod\u00fcl ayarlar\u0131 varsay\u0131lan olarak kullan\u0131lacak. Alan adlar\u0131 bo\u015fluk ve\/yada virg\u00fcl ile ayr\u0131lmal\u0131d\u0131r. Bo\u015f alanlar g\u00f6rmezden gelinecek."
         },
-        "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "\u0130ste\u011fe ba\u011fl\u0131 sayfa ad\u0131 format\u0131, yeni sayfa eklendi\u011finde kullan\u0131lacak. Bu se\u00e7enek yeni sayfa ekledi\u011finizde \"Sayfa Ekleme\" ad\u0131m\u0131 aylayacak. \u00c7al\u0131\u015f\u0131rken, bu \u015fablonu kullanan ebeveyn safalar\u0131n bu \u015fablona  (%s) tan\u0131ml\u0131 olmas\u0131 gerekiyor, bir alt sayfaya izin veriliyor (ebeveyn taraf\u0131ndan kullan\u0131lan \u015fablanu g\u00f6rmek i\u00e7in \"aile\" tab\u0131na bak\u0131n)."
-        },
-        "6058394e74833c97153b0edaec2fb369": {
-            "text": "\u0130stedi\u011finiz bir yaz\u0131y\u0131 buraya girebilirsiniz. Yeni sayfa olu\u015fturuldu\u011funda ve isim benzersiz de\u011fil ise, artan bir yaz\u0131 sayfa ad\u0131n\u0131n sonuna eklenecek."
-        },
-        "026e4114c3bd578141d593edfdcba4b6": {
-            "text": "E\u011fer sayfa adlar\u0131n\u0131 ba\u015fl\u0131k alan\u0131ndaki de\u011ferden almas\u0131n\u0131 istiyorsan\u0131z, \"ba\u015fl\u0131k\" girin (t\u0131rnak i\u015fareti i\u00e7ermeyen)"
-        },
-        "cde43753349041653da0d29cc52a15fa": {
-            "text": "E\u011fer sayfa adlar\u0131n\u0131n olu\u015fturulma tarihi\/zaman\u0131n olu\u015fmas\u0131n\u0131 istiyorsan\u0131z: [Tarih Format\u0131](http:\/\/www.php.net\/manual\/en\/function.date.php) girin. Tarih format\u0131n\u0131z\u0131n kabul edilebilmesi i\u00e7in en az bir alfa-say\u0131sal karekter i\u00e7ermelidir (buna benzer : taksim i\u015fareti \"\/\" yada iki nokta \u00fcst \u00fcste \":\"). \u00d6rnek : \"Ymd H:i:s\" sayfa adlar\u0131ndaki sonu\u00e7 : \"2014-10-30-12-39-01\". G\u00f6rd\u00fc\u011f\u00fcn\u00fcz gibi, alfa-say\u0131sal karakterler formatlanm\u0131\u015f tarih\/zamanda hala mevcut ve tire ile de\u011fi\u015ftirildiler."
-        },
         "dc8ce981931b1e9b1f784c57730a67c1": {
             "text": "L\u00fctfen not edin, T\u00fcm bu sistem ayarlar\u0131 ProcessWire sistem geli\u015ftirmeyi etkiler (site geli\u015ftirmesi de\u011fil). Kendi riskiniz dahilinde kullan\u0131n."
         },
@@ -563,26 +548,17 @@
         "518270f594c5488ff1f8de2ac0429f0e": {
             "text": "E\u011fer bu \u015fablonu kullanan sayfalar\u0131n ta\u015f\u0131nmas\u0131n\u0131 engellemek istiyorsan\u0131z (ebeveyn de\u011fi\u015ftirme), bu kutuyu t\u0131klay\u0131n."
         },
-        "7ee14ea7ba968378f99fb3efa7ac22da": {
-            "text": "API: $template->noMove = 1; \/\/ yada 0 devre d\u0131\u015f\u0131"
-        },
         "b919a5aafc6740109c0c58fe51916178": {
             "text": "Sayfalar\u0131n \u015fablonlar\u0131n\u0131 de\u011fi\u015ftirmesine izin verme?"
         },
         "6bb5af6d5240fb8b1d720a7e5bec4497": {
             "text": "\u0130\u015faretlendi\u011finde, Bu \u015fablonu kullanan sayfalar \u015fablonlar\u0131n\u0131 de\u011fi\u015ftiremeyecek."
         },
-        "5c9171f7b16eac3245d2e5f3e79aadbc": {
-            "text": "API: $template->noChangeTemplate = 1; \/\/ yada 0 devre d\u0131\u015f\u0131"
-        },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
             "text": "Yay\u0131nlanmam\u0131\u015f sayfalara izin verme"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
             "text": "\u0130\u015faretlendi\u011finde, bu \u015fablonu kullanan sayfalar sadece yay\u0131nlanm\u0131\u015f konumda olabilirler ve yay\u0131ndan kald\u0131r\u0131lamazlar."
-        },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ yada 0 devre d\u0131\u015f\u0131"
         },
         "19a460b1edf9cc0616cd0ce03e9a0ddf": {
             "text": "\u00c7\u00f6p Kutusu Se\u00e7ene\u011fi Devre D\u0131\u015f\u0131?"
@@ -607,9 +583,6 @@
         },
         "16a657e6bf4576ef101f1bcca129694c": {
             "text": "\u0130\u015faretlendi\u011finde, Bu \u015fablonu kullanan sayfalar \"olu\u015fturan kullan\u0131c\u0131\" (sadece superusers i\u00e7in ge\u00e7erli) se\u00e7ene\u011fine sahip olacak. Ayn\u0131 zamanda $page->createdUser yada $page->created_users_id fields alanlar\u0131 API arac\u0131l\u0131\u011f\u0131 ile kay\u0131t edilebilecek."
-        },
-        "1684cd1767cda6618ed92febec9e78c6": {
-            "text": "API: $template->allowChangeUser = 1; \/\/ yada 0 devre d\u0131\u015f\u0131. varsay\u0131lan 0."
         },
         "a8d7050d17168bae58f775f20d56eeba": {
             "text": "Bu \u015fablonu kullanan sayfalar\u0131n, alt sayfalar\u0131 varm\u0131?"
@@ -980,9 +953,6 @@
         "109da571222f1c753257a9ea7d9c0f23": {
             "text": "\u0130\u015faretlendi\u011finde, bu \u015fablonu kullanan sayfalar sadece varsay\u0131lan dili kullanacak."
         },
-        "2ae2316266d64c1c1caa543c16fe62bc": {
-            "text": "API: $template->noLang = 1; \/\/ varsay\u0131lan 0."
-        },
         "4b5a4101eef9107a93653ecef0418ed1": {
             "text": "Olu\u015fturmak istedi\u011finiz yeni \u015fablon dosyas\u0131 ad\u0131n\u0131 girin. Kay\u0131t etti\u011finizde klon olu\u015fturulacak. E\u011fer \u015fablon klas\u00f6r\u00fcn\u00fcz yaz\u0131labilir ise ve \u015fablon bir dosya i\u00e7eriyorsa, ayn\u0131 zamanda buda klonlanacak."
         },
@@ -998,11 +968,14 @@
         "044c72d21891e006e09a78d32a1e3226": {
             "text": "Kapat ve Ekle"
         },
-        "1ad747442af37649526e00927b7d0a1f": {
-            "text": "Kullan\u0131c\u0131lar\u0131n kendi profillerinde hangi alanlar\u0131 d\u00fczenleyebileceklerini yap\u0131land\u0131rmak i\u00e7in, [profil mod\u00fcl\u00fc ayarlar\u0131na](%s) bak\u0131n\u0131z."
-        },
         "363b220544077dba6890921e123486dc": {
             "text": "Fieldset\/Tab \"%s\" yerletirmede hata - l\u00fctfen d\u00fczeltin ve tekrar kaydedin"
+        },
+        "b3a57cf1770883844c8e986675546d20": {
+            "text": "E\u011fer yukar\u0131daki alanlar\u0131 hen\u00fcz eklediyseniz, ilk \u00f6nce kaydedin ve buraya onlar\u0131 se\u00e7mek i\u00e7in geri d\u00f6n\u00fcn."
+        },
+        "6be7133083e1d91f772589bf24aa5e48": {
+            "text": "devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in 0"
         }
     }
 }

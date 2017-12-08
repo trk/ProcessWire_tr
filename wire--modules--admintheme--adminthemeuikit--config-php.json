@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/config.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--config-php",
+    "translations": {
+        "ed9bcb3b4e6221f67a2543f66109248a": {
+            "text": "Bo\u015f oldu\u011funda, varsay\u0131lan dosya kullan\u0131l\u0131r."
+        },
+        "a825c84dec047bf77ef218348c6496ed": {
+            "text": "Ana sayfa URL'sine g\u00f6re yol girin."
+        },
+        "de71102a6c8bba23cf43b10e6dc86adc": {
+            "text": "(TAVS\u0130YE ED\u0130LEN)"
+        },
+        "ff498dcc16878847ee1d01c38a0138f3": {
+            "text": "(DENEYSEL)"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(varsay\u0131lan)"
+        },
+        "1a79a4d60de6718e8e5b326e338ae533": {
+            "text": "+"
+        },
+        "2d7e18586d2265fc63934ad26902effb": {
+            "text": "Masthead ve navigasyon"
+        },
+        "5580ceafc3f05d1b31e318f00e2d187c": {
+            "text": "Kullan\u0131c\u0131 avatar\u0131"
+        },
+        "f9a6b1bbc44e674712c33ec4363ca698": {
+            "text": "Gravatar (e-postadan avatar belirleyen harici servis)"
+        },
+        "33821a7c07464e5442de3b0aa1836854": {
+            "text": "Masthead'deki kullan\u0131c\u0131 avatar\u0131n\u0131 g\u00f6stermek i\u00e7in bir resim alan\u0131, Gravatar veya simge se\u00e7in."
+        },
+        "52d59ff487072b976a4e83f890f18c4e": {
+            "text": "Resim alan\u0131: %s"
+        },
+        "8b5c3dc5e49d1be8ee1648a5bc454559": {
+            "text": "\u015eimdiki \"kullan\u0131c\u0131\" \u015fablonunda mevcut resim alan\u0131 yok, bu nedenle yaln\u0131zca simgeler ve Gravatar g\u00f6steriliyor."
+        },
+        "2ff62c17135d9704b59a98881cffa793": {
+            "text": "Simge: %s"
+        },
+        "ebd9bec4d70abc789d439c1f136b0538": {
+            "text": "D\u00fczen"
+        },
+        "1688f46c79b3285c9de79d60d63d32d0": {
+            "text": "Aray\u00fcz t\u00fcr\u00fc"
+        },
+        "3c8286b98b6dfd2248df2a3d70cb8fc4": {
+            "text": "(sol)"
+        },
+        "45c75f330de92569cb24cebab40a20fc": {
+            "text": "(sa\u011f)"
+        },
+        "029ec5ac76207f4e7627a0e3ffbdb15b": {
+            "text": "Maksimum d\u00fczen geni\u015fli\u011fi"
+        },
+        "c20f63b379f6b02a18439890f5ce535b": {
+            "text": "Yaln\u0131zca geleneksel aray\u00fcz i\u00e7in ge\u00e7erlidir."
+        },
+        "37243206806c555c2dbce190b1f49f37": {
+            "text": "Bildirim sitili"
+        },
+        "dff1a43f94a6ab1d04bef81420510e6c": {
+            "text": "SystemNotifications mod\u00fcl\u00fc y\u00fckl\u00fc ise uygulama."
+        },
+        "afae44a9309db56726837157afdd1a2a": {
+            "text": "Geni\u015flet \/ daralt kontrol\u00fc  ile t\u00fcre g\u00f6re grupland\u0131r"
+        },
+        "9d2e228039bb6eef2e6cbaff5c904b56": {
+            "text": "Herzaman hepsini g\u00f6ster"
+        },
+        "81e3da80ad979591250cca7feb39720b": {
+            "text": "\u00d6zel dosyalar"
+        },
+        "6059a6e9b311f4cb4afd60c154f0bef5": {
+            "text": "Ana CSS dosyas\u0131"
+        },
+        "fd57cabd74aeddd5a95d662e680dd5ef": {
+            "text": "Bir y\u00f6netici tema geli\u015ftiricisi de\u011filseniz bunu de\u011fi\u015ftirmeyi \u00f6nermiyoruz."
+        },
+        "990a068cf660ce4eaf87777c43d07057": {
+            "text": "Logo resim dosyas\u0131"
+        },
+        "35c45261e46b5a1400aef3ecbf237879": {
+            "text": "Dosya en az \u00f6l\u00e7\u00fcleri 100px boyutunda, transparan arkaplan PNG, GIF, JPG yada SVG olmal\u0131d\u0131r."
+        },
+        "6c6a6ca96d96fc13c06abbf98f38668f": {
+            "text": "Form g\u00f6r\u00fcn\u00fcrl\u00fck ayarlar\u0131"
+        },
+        "21909eb7e7cbb04d9c804458848a7af3": {
+            "text": "Bu ayarlar, y\u00f6neticideki t\u00fcm form alanlar\u0131n\u0131 etkiler."
+        },
+        "f695996235a3c704a6780cf5515b6fdb": {
+            "text": "Bu ayarlardan herhangi biri (ve di\u011ferleri) belirli bir alan i\u00e7in ayr\u0131 ayr\u0131 belirtilebilir."
+        },
+        "0b28aca953c7100643fcacab33dbf502": {
+            "text": "Burada bir ayar belirlerseniz, alan ayarlar\u0131 tek tek ge\u00e7ersiz k\u0131l\u0131n\u0131r."
+        },
+        "15367a85a0239326ebf3b0294edd61ce": {
+            "text": "Bak\u0131n\u0131z: Kurlum > Alanlar > [herhangi bir alan] > Girdi (tab) > Y\u00f6netici Tema Ayarlar\u0131."
+        },
+        "6dcf297b0d223e7a27081a7c4bd6497f": {
+            "text": "S\u0131n\u0131r\u0131n olmamas\u0131 gereken girdi t\u00fcrleri"
+        },
+        "141c494a39b11098554fc3d327578895": {
+            "text": "Bu ayar %100 geni\u015flik kullanan se\u00e7ili t\u00fcm t\u00fcrler i\u00e7in ge\u00e7erlidir."
+        },
+        "99be59c66e12e86aefeced8b65c1effc": {
+            "text": "\"Kart\" stilini kullanacak girdi t\u00fcrleri"
+        },
+        "949bcbdc5822582126d426c6f82f4fa4": {
+            "text": "Bu alan, kart stiline bir \u00f6rnektir."
+        },
+        "391889c9ed085249fe76c0beb25ad304": {
+            "text": "\u0130lave bir \u00fcst \/ alt kenar bo\u015flu\u011fu ile dengelenmesi gereken giri\u015f tipleri."
+        },
+        "0d638e3ac46bc8f0cf58d60281ff4ebc": {
+            "text": "\u00d6rnek olarak, bu alan k\u00fcmesindeki alanlar bu se\u00e7ene\u011fi kullan\u0131yor."
+        },
+        "627a242af272f5913c8af08cff4cadf9": {
+            "text": "T\u00dcM girdi t\u00fcrlerini dikey olarak dengele?"
+        },
+        "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
+            "text": "\u0130\u015faretlendi\u011finde, her alana dikey bir kenar bo\u015flu\u011fu eklenir."
+        },
+        "1939d9deea3a9b379eca5948b1b3cfc6": {
+            "text": "Bu, baz\u0131 durumlarda ek a\u00e7\u0131kl\u0131k sa\u011flayabilir, ancak daha fazla dikey alan t\u00fcketir."
+        }
+    }
+}
