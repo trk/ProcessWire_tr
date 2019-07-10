@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
     "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
     "translations": {
-        "369edfa695c186fc693c7cdfea26b6d2": {
-            "text": "Superkullan\u0131c\u0131 notu: di\u011fer kullan\u0131c\u0131lar g\u00f6rebilir ve yer imlerine t\u0131klayabilir, fakat ekleyemez yada d\u00fczenleyemezler."
-        },
         "1dd63dcbc0f27a97c60433bff0936901": {
             "text": "Yer \u0130mini D\u00fczenle"
         },
@@ -17,17 +14,8 @@
         "644a574fca8608c6447c23ba5c9fb907": {
             "text": "Bu yeri imini hangi kullan\u0131c\u0131 rol\u00fc g\u00f6rebilir? E\u011fer kullan\u0131c\u0131 rol\u00fc se\u00e7ilmediyse, listeleyiciyi kullanan t\u00fcm roller bu yer imini g\u00f6r\u00fcnt\u00fcleyebilir."
         },
-        "b527a6bf9b3ed589e44e5a4dc8cc40d4": {
-            "text": "Yer imleri s\u0131ralama d\u00fczeni"
-        },
         "bfa974ff994bf6af816d695d88659fda": {
             "text": "Bu yer imini sil?"
-        },
-        "33d64e5e020fcfcd6bf5b5edc3634211": {
-            "text": "Silinen yer imi: %s"
-        },
-        "d04ee192f5a72f20e89abe7acb7225f3": {
-            "text": "Kaydedilen yer imi: %s"
         },
         "84233339a29fc410e77ac95e377b0318": {
             "text": "Yer imleri"
@@ -35,23 +23,11 @@
         "bdb19863504282bccbd04237092c8ecb": {
             "text": "Yer imi"
         },
-        "25f8473f61fb614f277d48e8bf5be8d2": {
-            "text": "Se\u00e7ici"
-        },
-        "cd765bc6c6872048db5bb4cb9181392f": {
-            "text": "S\u00fctunlar"
-        },
         "0a88328254c6d3104aaf5aa1416e5493": {
             "text": "Eri\u015fim"
         },
-        "16f46652aa3bae21e3e051daba507193": {
-            "text": "Hareket"
-        },
         "97d0cf512abc18c75dc4200fb4102696": {
             "text": "hepsi"
-        },
-        "fbfa318e948c32434209e9dec12f5342": {
-            "text": "D\u00fczenle"
         },
         "624cb003e73151369680ecae1fe53f47": {
             "text": "Yer imi ba\u015fl\u0131\u011f\u0131"
@@ -65,8 +41,68 @@
         "a68194569adc7b00a73840fceb912c24": {
             "text": "Eri\u015fim"
         },
-        "5979876e287f07dc59597ec2139675c2": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "\u0130ptal"
+        },
+        "611554e91bd3fc300cb89db36b831c82": {
+            "text": "A\u00e7\u0131klama"
+        },
+        "2ae0c04d53921492ca01d03f4913b75b": {
             "text": "Sil"
+        },
+        "997a44675b11fac14a95280eda5557f5": {
+            "text": "A\u00e7\u0131klama"
+        },
+        "7cdd12aae1c258859c039c4d544338ef": {
+            "text": "Yer imlerim"
+        },
+        "7f4b49b68a661359eaa86b12fd09cdce": {
+            "text": "Genel yer imleri"
+        },
+        "639bae9ac6b3e1a84cebb7b403297b79": {
+            "text": "sen"
+        },
+        "4195dd0db33f6f97904fd72fa4386de9": {
+            "text": "Bu yer imini silmek i\u00e7in l\u00fctfen kutuyu i\u015faretleyin"
+        },
+        "d448b4319171ecbd0c92be8ddbff245b": {
+            "text": "Yer imi tipi"
+        },
+        "60848c692f8ddb0363e500da44563bae": {
+            "text": "Sahibi"
+        },
+        "8970f06e05613caabbfe84ddd73db8d2": {
+            "text": "(sadece ben g\u00f6rebilirim)"
+        },
+        "3d067bedfe2f4677470dd6ccf64d05ed": {
+            "text": "Genel"
+        },
+        "c8a5544122c29a7c5ad0d117b19851d6": {
+            "text": "Di\u011fer kullan\u0131c\u0131lar\u0131n bu yer imi URL'sine eri\u015fmesine izin ver?"
+        },
+        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
+            "text": "Bu kutuyu i\u015faretledi\u011finizde, yer imi URL'sini daha \u00f6nce y\u00f6netim paneline giri\u015f yapm\u0131\u015f birine g\u00f6nderdi\u011finizde yer imi ba\u011flant\u0131s\u0131n\u0131 g\u00f6rebilecek."
+        },
+        "aea2613b569e126e1bf04794045d9214": {
+            "text": "Payla\u015f\u0131labilir yer imi URL'si: [G\u00f6r\u00fcnt\u00fcle](%s)"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "S\u0131rala"
+        },
+        "6756b991b141463aebfaa74809adb83c": {
+            "text": "Silinen yer imleri"
+        },
+        "4192fc415b996e703cd7368de70024b2": {
+            "text": "Yer imi silinebilir de\u011fil"
+        },
+        "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
+            "text": "Eylemler"
+        },
+        "3964c1856a3770efc8de99fb7d71854f": {
+            "text": "G\u00f6r\u00fcnt\u00fcle"
+        },
+        "2403884dadada347eaf8537a2dc0e572": {
+            "text": "D\u00fczenle"
         }
     }
 }

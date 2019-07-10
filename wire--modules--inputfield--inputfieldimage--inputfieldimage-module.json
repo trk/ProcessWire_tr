@@ -154,6 +154,90 @@
         },
         "98ebe60c452735dc2ef2249c835eddfe": {
             "text": "Sadece sunucu taraf\u0131 yeniden boyutland\u0131rmalarda uygulan\u0131r."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Devre d\u0131\u015f\u0131"
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Odak"
+        },
+        "819258e827e9ef9ba926940f30b2697e": {
+            "text": "daireyi odak merkezine s\u00fcr\u00fckleyin"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Eylemler"
+        },
+        "9356bea0f207cd50faacd40798850038": {
+            "text": "\u0130\u015flem kaydedilirken uyguland\u0131."
+        },
+        "9ffbd422925a6839ee820ddbc59278c5": {
+            "text": "\u00c7evir"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "D\u00f6nd\u00fcr"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "\u00c7o\u011falt"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Varyasyonlar\u0131 kald\u0131r"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "Varyasyonlar\u0131 yeniden olu\u015ftur"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Oda\u011f\u0131 kald\u0131r"
+        },
+        "c9b416167392c2b301810695b92efa12": {
+            "text": "dikey"
+        },
+        "2ef2dfb893d25c30e3e2bda1a10c8952": {
+            "text": "yatay"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "her ikisi de"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kopyala"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Yap\u0131\u015ft\u0131r"
+        },
+        "e4ddc7e3d69547eea44ee08c02eb350d": {
+            "text": "%50 Azalt"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "Siyah-Beyaz"
+        },
+        "b84a9a38377dc1ab6c6d5005cb461f0d": {
+            "text": "Sepya"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Odak noktas\u0131 se\u00e7imi"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Bir g\u00f6r\u00fcnt\u00fcn\u00fcn konusunu se\u00e7mek i\u00e7in s\u00fcr\u00fcklenebilir bir odak noktas\u0131 etkinle\u015ftirir. Bu orant\u0131l\u0131 olmayan mahsullerin \u00fcretilmesine yard\u0131mc\u0131 olur."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Netleme noktas\u0131n\u0131n bir \u00f6nizlemesi, g\u00f6r\u00fcnt\u00fcler \u201cKare \u0131zgara g\u00f6r\u00fcnt\u00fcleri\u201d modundayken de g\u00f6sterilir."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Odak noktas\u0131"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Odak noktas\u0131 ve yak\u0131nla\u015ft\u0131rma"
+        },
+        "0cb9400e4e73f627d6587cf549c60907": {
+            "text": "\u00c7o\u011falt\u0131lan dosya %1$s => %2$s"
+        },
+        "80a599081d30053c4cf6bc91230a9e6c": {
+            "text": "%2$s dosyas\u0131nda \u00e7al\u0131\u015ft\u0131r\u0131lan i\u015flem \u201c%1$s\u201d"
+        },
+        "a45c16f718396868c97a72efcc571842": {
+            "text": "%2$s dosyas\u0131nda ba\u015far\u0131s\u0131z eylem \u201c%1$s\u201d"
+        },
+        "ac8883f9998c8b328a96855575eebcc5": {
+            "text": "%2$s dosyas\u0131ndaki eylem i\u00e7in hi\u00e7bir i\u015fleyici bulunamad\u0131"
         }
     }
 }

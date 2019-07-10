@@ -70,6 +70,39 @@
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Yeni Ekle"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "S\u00fcper-kullan\u0131c\u0131 olmayan edit\u00f6rlerin \u00c7\u00f6p Kutusu kullanmas\u0131na izin verilsin mi?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "\u0130\u015faretlendi\u011finde, kullan\u0131c\u0131lar \u00e7\u00f6p kutusundaki sayfalar\u0131 g\u00f6rebilir (yaln\u0131zca eri\u015febildikleri sayfalar)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Bu, eri\u015fim kontrol\u00fcn\u00fcn izin verdi\u011fi \"\u00c7\u00f6p Kutusu\" ve \"Geri Y\u00fckleme\" i\u015flemlerini de etkinle\u015ftirir."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "\u00c7ocuk miktar tipi"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Sayfa listesinde, uygun oldu\u011funda her sayfan\u0131n yan\u0131nda bir miktar \u00e7ocuk g\u00f6sterilir. Ne t\u00fcr bir miktar g\u00f6stermelidir?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Torunlar\u0131 g\u00f6sterirken, miktar, kullan\u0131c\u0131ya verilebilecek olsun veya olmas\u0131n, t\u00fcm torunlar\u0131 i\u00e7erir."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Hemen \u00e7ocuklar (varsay\u0131lan)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Torunlar\u0131: \u00c7ocuklar, torunlar, b\u00fcy\u00fck torunlar ve\u2026"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Her ikisi de: \u00e7ocuklar \/ torunlar"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Her ikisi de: torunlar\u0131 \/ \u00e7ocuklar"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Bunun yerine sayfa ID'sini g\u00f6ster"
         }
     }
 }

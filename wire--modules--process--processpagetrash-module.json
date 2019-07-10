@@ -5,15 +5,6 @@
         "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
             "text": "\u00c7\u00f6p bo\u015f"
         },
-        "b93325ff37316801eaf36f95c25a75e3": {
-            "text": "Takip eden sayfalar \u00e7\u00f6pte"
-        },
-        "206c3d86254559ad3cd3b88e8e002113": {
-            "text": "\u00c7\u00f6p\u00fc bo\u015falt"
-        },
-        "80a9994143f3ef28a7ba4fd1dd67436a": {
-            "text": "L\u00fctfen \u00e7\u00f6p\u00fc bo\u015faltmak istedi\u011finizi onaylay\u0131n."
-        },
         "1012544490a2eae7e9782116062941b6": {
             "text": "E\u011fer \u00e7\u00f6pte \u00e7ok fazla \u00f6\u011fe var ise, birden fazla bo\u015faltma i\u015flemini yapabilirsiniz."
         },
@@ -23,17 +14,41 @@
         "920202a83e840023ebf5ac6e31ccfbf3": {
             "text": "Sayfalar\u0131n \u00e7\u00f6pten bo\u015falt\u0131lmas\u0131n\u0131 sa\u011flar"
         },
-        "671ad2168f66a9b66f8d97c8a4ad2794": {
-            "text": "\u00c7\u00f6p bo\u015falt\u0131ld\u0131"
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "\u0130ptal"
         },
-        "de1fd0d21eb1f64deec95ed694fffed0": {
-            "text": "T\u00fcm sayfalar silinebilir de\u011fil"
+        "d97ed15efb05fad91c607749ebcab79e": {
+            "text": "Onaylamak i\u00e7in kutular\u0131 i\u015faretlemeniz gerekiyor"
         },
-        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
-            "text": "(%d sayfa)"
+        "dc097f8cfcf3251cf70e684e28515eb5": {
+            "text": "(saniyede %d sayfa)"
         },
-        "9f8ce5c6cbebc34795f4241c8932573a": {
-            "text": "(%d sayfalar)"
+        "7f3d24328c95805774f2fd34fc2a79e2": {
+            "text": "T\u00fcm sayfalar silinemedi (kalan %d)"
+        },
+        "d7dd8da0daa978390eb2d2d08495b0f8": {
+            "text": "Zaman s\u0131n\u0131rlamas\u0131 a\u015f\u0131ld\u0131 (%d saniye)"
+        },
+        "a7ba99f8126601330132e87659987ca3": {
+            "text": "\u00c7\u00f6p\u00fc bo\u015falt (onayla)"
+        },
+        "449d5f439f475ea845545769d93ec42f": {
+            "text": "\u00c7\u00f6pteki sayfalar"
+        },
+        "b7750c7b7ef35775735ea2133810d06b": {
+            "text": "Zaman s\u0131n\u0131rlamas\u0131 (saniye olarak)"
+        },
+        "b246b52c4b32fcf1d8ef0c6144f3fb53": {
+            "text": "Silinen sayfa %d"
+        },
+        "adc38f6c0e8a0f6296294e08a2ca3c64": {
+            "text": "Silinen sayfalar %d"
+        },
+        "5f489bcc97cbc73f35cbd127c5c0053a": {
+            "text": "\u00c7\u00f6pteki %d sayfay\u0131 kal\u0131c\u0131 olarak sil?"
+        },
+        "7d45095d03e58ce1a62afd6e0d149bf0": {
+            "text": "\u00c7\u00f6pteki %d sayfalar\u0131 kal\u0131c\u0131 olarak sil?"
         }
     }
 }

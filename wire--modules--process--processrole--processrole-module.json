@@ -59,9 +59,6 @@
         "bdeb3e0cbe3d8f44757a86e8da219abc": {
             "text": "Bu izin yaln\u0131zca \u015fablon ile atanabilir."
         },
-        "00abcc0a482965cd87aa000c253bf713": {
-            "text": "(misafir rol\u00fcnden miras kalan)"
-        },
         "76ea2cfb7138b9f6db1ca5385ffd6bec": {
             "text": "Ekle: %s"
         },
@@ -85,6 +82,12 @@
         },
         "bd6e3218368542ea8b8ec79e212960c3": {
             "text": "Di\u011fer izinlerin \u00e7o\u011fundan farkl\u0131 olarak, bir \u015fablon i\u00e7in sayfa-d\u00fczenleme izni bu izin i\u00e7in \u00f6n ko\u015ful de\u011fildir."
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(konuk rol\u00fcnden devral\u0131nd\u0131\u011f\u0131 i\u00e7in gereklidir)"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "\u201c%2$s\u201d \u015fablonu i\u00e7in \u201c%1$s\u201d iznine izin verilmiyor (\u201c%3$s\u201d izni gerekiyor)"
         }
     }
 }

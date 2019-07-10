@@ -14,9 +14,6 @@
         "48649d8c2d04aa439d10bc45eaba8f75": {
             "text": "Giri\u015f Ba\u015far\u0131s\u0131z"
         },
-        "646d9e77201093e05380ead006df9975": {
-            "text": "G\u00fcvenlik Uyar\u0131s\u0131: %s zaten var ve en k\u0131sa s\u00fcrede silinmi\u015f olmal\u0131."
-        },
         "f6039d44b29456b20f8f373155ae4973": {
             "text": "Kullan\u0131c\u0131 Ad\u0131"
         },
@@ -35,26 +32,35 @@
         "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
             "text": "\u00c7\u0131k\u0131\u015f yapt\u0131n\u0131z"
         },
-        "4c429484c06b2d2901b3a582f300af56": {
-            "text": "Uyar\u0131, A\u00e7\u0131k\u00e7a belirtiyorki \/site\/config.php dosyan\u0131z\u0131n izinleri bir\u00e7ok ortam i\u00e7in \u00e7ok gev\u015fek:"
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "G\u00fcncellemeler uyguland\u0131\u011f\u0131ndan oturum a\u00e7ma sonras\u0131 sistem kontrollerini atlan\u0131yor (%s)"
         },
-        "748befe7a5d432caba8b6cadc4076e92": {
-            "text": "Daha fazla ayr\u0131nt\u0131 i\u00e7in \"Dosya izinlerini\" okuyun"
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Javascript kontrol\u00fc ba\u015far\u0131s\u0131z oldu: l\u00fctfen oturum a\u00e7mak i\u00e7in Javascript'i etkinle\u015ftirin."
         },
-        "00796cc045b871fe7b2867edef6aaaf7": {
-            "text": "Bu uyar\u0131y\u0131 almak istemiyorsan\u0131z, \/site\/config.php dosyan\u0131zda $config->chmodWarn = false; olarak belirleyin."
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "\u00c7erez kontrol\u00fc ba\u015far\u0131s\u0131z oldu: l\u00fctfen oturum a\u00e7mak i\u00e7in \u00e7erezleri etkinle\u015ftirin."
         },
-        "efdf35a179a19ed3b3de0d3e7785f17d": {
-            "text": "Uyar\u0131: Sunucu yereliniz tan\u0131mlanmam\u0131\u015f ve sorunlara neden olabilir."
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "Profili D\u00fczenle"
         },
-        "25722c10f4f7abdc7297094d5d8f97e6": {
-            "text": "L\u00fctfen her dil i\u00e7in \"C\" yerel ayar\u0131n\u0131 %s i\u00e7indeki uygun yerel ayara terc\u00fcme et"
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "\u0130ki-Fakt\u00f6rl\u00fc kimlik do\u011frulama"
         },
-        "d5877d284caca4c9b4d55adb8e6e758c": {
-            "text": "\u00d6rne\u011fin, ABD \u0130ngilizcesi i\u00e7in yerel ayar: %s olabilir"
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Bulunan iki-fakt\u00f6rl\u00fc kimlik do\u011frulama mod\u00fclleri:"
         },
-        "58b0cb95c27f394bd4c6970b563153dd": {
-            "text": "L\u00fctfen bunu \/site\/config.php dosyas\u0131na ekleyin (gereken ayar \u201c%s\u201d):"
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Belirtilen roller i\u00e7in iki fakt\u00f6rl\u00fc kimlik do\u011frulama \u00f6nemle tavsiye edilir"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Burada se\u00e7ti\u011finiz rollere ba\u011fl\u0131 kullan\u0131c\u0131lar\u0131n hesaplar\u0131 iki-fakt\u00f6rl\u00fc do\u011frulama i\u00e7in y\u00f6netim paneline girdiklerinde y\u00f6nlendirilecekler."
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "Bunu yap\u0131land\u0131rman\u0131z i\u00e7in \u00f6ncelikle bir yada daha fazla iki-fakt\u00f6rl\u00fc do\u011frulama mod\u00fcl\u00fc y\u00fcklemelisiniz, sonras\u0131nda bu k\u0131sma tekrar d\u00f6nebilirsiniz."
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "\u0130ki-fakt\u00f6rl\u00fc kimlik do\u011frulama mod\u00fclleri ProcessWire mod\u00fcl sayfas\u0131nda"
         }
     }
 }

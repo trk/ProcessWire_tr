@@ -1,5 +1,48 @@
 {
     "file": "wire\/core\/LanguageFunctions.php",
     "textdomain": "wire--core--languagefunctions-php",
-    "translations": []
+    "translations": {
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "metin"
+        },
+        "fb5bc6b1ef6713a60dc29d381c94f0c0": {
+            "text": "\u00c7evirisi yap\u0131labilir metin"
+        },
+        "34623a700a7ffe48fe94e6c5f29195a9": {
+            "text": "textdomain (metin-etki-alan\u0131) mevcut dosya ile \u00e7evrilebilir (iste\u011fe ba\u011fl\u0131)"
+        },
+        "27fcbef6dfbafc7467da8d1b29113ded": {
+            "text": "textdomain (metin-etki-alan\u0131) ba\u015fka bir dosya ile \u00e7evrilebilir"
+        },
+        "83378236d008605772b0b7ad762cfad4": {
+            "text": "Okudu\u011funuz sayfa %s"
+        },
+        "f49588184356b1846ce48469ae3843ac": {
+            "text": "Mevcut sayfa ID'si %d"
+        },
+        "e1fe2670bb21367812b567146e61221d": {
+            "text": "Bug\u00fcn %1$s ve zaman %2$s"
+        },
+        "355e4477dc80f629e33f018fac3d9836": {
+            "text": "Ho\u015f geldin arkada\u015f\u0131m!"
+        },
+        "eadea3a747e3696d7959fb28d1d18230": {
+            "text": "Ara"
+        },
+        "d1346524ac7f6fe232016c077a9fc6ec": {
+            "text": "Daha fazlas\u0131 i\u00e7in t\u0131kla"
+        },
+        "59e4da1ec2723e6d05ec5feeaf7f7924": {
+            "text": "Daha fazlas\u0131 i\u00e7in t\u0131kla"
+        },
+        "5fc84d0317482d09f3ddd893414e51dd": {
+            "text": "Bir \u00f6\u011fe bulundu"
+        },
+        "b676034ffa6131761ecc1b8e151c44ef": {
+            "text": "Birden fazla \u00f6\u011fe bulundu"
+        },
+        "a91d611a962e2baf78e47b720f43bfdd": {
+            "text": "%d \u00f6\u011fe bulundu"
+        }
+    }
 }

@@ -65,41 +65,17 @@
         "593e63d42f95f6ad96cf700f80c2fe2c": {
             "text": "T\u00fcm kelimeyi i\u00e7eriyor"
         },
-        "d60c090c3c99aaae5f57da3eb85fe008": {
-            "text": "Varsay\u0131lan arama alanlar\u0131"
-        },
-        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
-            "text": "Aramak istedi\u011finiz bir yada birden fazla yaz\u0131-tabanl\u0131 alan ad\u0131 girin, herbiri bo\u015fluk ile ayr\u0131lan."
-        },
-        "6278e5dbbd21048091f612f55185257e": {
-            "text": "(Ajax) modunda y\u00f6netici aramas\u0131 alanlar\u0131"
-        },
-        "cc10d38a176ad7cde1228d2e22f1122b": {
-            "text": "Bir yada iki alanla limitlemenizi tavsiye ediyoruz, \u00e7o\u011fu sonu\u00e7 otomatik tamamlamay\u0131 dolduruyor. Tipik olarak bir ba\u015fl\u0131k arayabilirsiniz."
-        },
         "2d29cf36f3ebbd5bab570d70070e5102": {
             "text": "Arama sonu\u00e7lar\u0131nda g\u00f6r\u00fcnt\u00fclenecek varsay\u0131lan alan adlar\u0131"
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
             "text": "E\u011fer birden fazla alan i\u00e7eriyorsa, herbirini bo\u015fluk ile ay\u0131r\u0131n."
         },
-        "51e1d489ac4198969f8daf52b7cdfaf6": {
-            "text": "Varsay\u0131lan arama operat\u00f6r\u00fc"
-        },
         "4ecb0055aa1e66535afeaf6093585618": {
             "text": "Ara"
         },
         "d27c07f4c0dd15e39cedd91c19cb279f": {
             "text": "Ara"
-        },
-        "c488b358fae501da3848f9faeb83dd35": {
-            "text": "Alanlar"
-        },
-        "736f3e2669c68c02be0fb19d1e70622f": {
-            "text": "\u015eablonlar"
-        },
-        "c26ba1dd54d52630a0aedf779e5926af": {
-            "text": "Mod\u00fcller"
         },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "Sayfalar"
@@ -112,6 +88,21 @@
         },
         "dc87414810d43e27f63b89feabadc943": {
             "text": "Bulunan %1$d sayfa, kullanan se\u00e7ici: %2$s"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Y\u00f6netici canl\u0131 arama"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Arama s\u0131ralamas\u0131"
+        },
+        "3aaf625865081e0b0f1f8d001a9a06be": {
+            "text": "(herhangi bir s\u0131ralama)"
+        },
+        "13a4a02c365a44407beebb73dddbc554": {
+            "text": "\u0130le ba\u015fl\u0131yor"
+        },
+        "6950a77d131f284826099392fd57701c": {
+            "text": "\u0130le bitiyor"
         }
     }
 }

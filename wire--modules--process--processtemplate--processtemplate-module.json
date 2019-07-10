@@ -17,9 +17,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtreler"
         },
-        "1ada25378d2f81d6394cb823cda822ad": {
-            "text": "Alana g\u00f6re Filtrele"
-        },
         "602717d1b0adbf6ff41366d6371e375d": {
             "text": "Bir alan se\u00e7in ve sadece \u015fablonlarda kullan\u0131lan alanlarda g\u00f6r\u00fcnt\u00fclensin."
         },
@@ -55,9 +52,6 @@
         },
         "0e2511c51c799246bc640afd3b4cc07b": {
             "text": "Bo\u015fluklar ile ay\u0131rarak birden fazla \u015fablon ad\u0131 girebilirsiniz."
-        },
-        "088244ca195e0e9e57bd38027406b66b": {
-            "text": "Dosya uzant\u0131s\u0131n\u0131 i\u00e7ermesin"
         },
         "24a144ffc0e6aae299d3a23c2152e7fa": {
             "text": "\u015eablonu D\u00fczenle : %s"
@@ -389,9 +383,6 @@
         "8d5a5a7af810d2ef80cf02082615c9dd": {
             "text": "\u015eablon dosyas\u0131 yaz\u0131lamaz, bunun i\u00e7in manuel olarak yeniden adland\u0131rman\u0131z gerekiyor (Kay\u0131t ettikten sonra talimatlar yerine getirilecektir)."
         },
-        "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "(a-z) karakterleri, (0-9) say\u0131lar\u0131, tire ve alt tire i\u00e7eren bir konbinasyon girin (bo\u015fluksuz). Dosya uzant\u0131s\u0131n\u0131 i\u00e7ermesin (.php)."
-        },
         "30281e3b2fa626d5f52c833c541c84ac": {
             "text": "Bu \u015fablonu \u00e7o\u011falt\/kopyala?"
         },
@@ -430,12 +421,6 @@
         },
         "1adb25e12d2b0d06683c3dc04e833631": {
             "text": "Giri\u015f sayfas\u0131n\u0131 g\u00f6ster : %s"
-        },
-        "225237dc381e612f4bbf08dd75efdb71": {
-            "text": "Ba\u015fka bir URL ye y\u00f6nlendir"
-        },
-        "b12715241d6f9d36629e189651930f08": {
-            "text": "E\u011fer bu alan\u0131 \"ba\u015fka bir URL'ye y\u00f6nlendirmeyi\" se\u00e7tiyseniz bu alana uygulanabilir."
         },
         "2f2055affca16d8404e278fc1d6c3a07": {
             "text": "\u0130ste\u011fe Ba\u011fl\u0131 : URL'de, '{id}' \u015feklinde etiketler i\u00e7erebilir (GET de\u011fi\u015fkenleri), ve e\u011fer isterseniz, sayfa ID si ile yer de\u011fi\u015ftirecektir."
@@ -707,9 +692,6 @@
         "323686db2bb70f95c6bedc86d5c3387d": {
             "text": "Dosyalar"
         },
-        "6703f01fb2662a497ae2d29163ed68c2": {
-            "text": "Belirtilen ad kullan\u0131mda"
-        },
         "f578ef5a7330291e151dc6052fe85bfe": {
             "text": "\u0130ste\u011fe ba\u011fl\u0131 olarak varsay\u0131lan olan \"\u0130\u00e7erik\" tab etiketini de\u011fi\u015ftir"
         },
@@ -839,9 +821,6 @@
         "bbd5238aeedba403b7977656d2f132fc": {
             "text": "URL sekmeleri sonlar\u0131 taksim i\u015faretiyle \"\/\" bitmeli mi?"
         },
-        "57f844c4a5ccb54207fa22705e7729a3": {
-            "text": "Kullan\u0131c\u0131 eri\u015fimi olmad\u0131\u011f\u0131nda y\u00f6nlendirilecek bir sayfa ID veya sayfa URL si girin"
-        },
         "13138fdee141d39a065f3fe82c0e0676": {
             "text": "Sayfa Ad\u0131 \u00f6zelli\u011fi i\u00e7in etiket"
         },
@@ -956,12 +935,6 @@
         "4b5a4101eef9107a93653ecef0418ed1": {
             "text": "Olu\u015fturmak istedi\u011finiz yeni \u015fablon dosyas\u0131 ad\u0131n\u0131 girin. Kay\u0131t etti\u011finizde klon olu\u015fturulacak. E\u011fer \u015fablon klas\u00f6r\u00fcn\u00fcz yaz\u0131labilir ise ve \u015fablon bir dosya i\u00e7eriyorsa, ayn\u0131 zamanda buda klonlanacak."
         },
-        "dd086c8dc23fef8fb9543424864aa9cb": {
-            "text": "Klon i\u00e7in ge\u00e7ersiz \u015fablon ad\u0131 belirtildi"
-        },
-        "ab64903a1bc47ab8cf1767e8d6581c2d": {
-            "text": "Klonlanam\u0131yor, \u00e7\u00fcnk\u00fc bu ada sahip ba\u015fka bir \u015fablon mevcut"
-        },
         "0ce8e11f27f5cff906b08ff533da5567": {
             "text": "Olu\u015fturulan \u015fablon klonu \"%1$s\", \"%2$s\" olarak adland\u0131r\u0131ld\u0131."
         },
@@ -976,6 +949,45 @@
         },
         "6be7133083e1d91f772589bf24aa5e48": {
             "text": "devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in 0"
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "\u015eablon adlar\u0131 harf (a-z A-Z), numara, b\u00fcy\u00fck k\u00fc\u00e7\u00fck harf ve alttan tireden olu\u015fmal\u0131d\u0131r."
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "K\u00fc\u00e7\u00fck harf iste\u011fe ba\u011fl\u0131d\u0131r ve \u00f6nerilir."
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "Dosya uzant\u0131s\u0131 i\u00e7ermemelidir."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "\u015eablon ad\u0131 istenilen bi\u00e7im ile e\u015fle\u015fmiyor."
+        },
+        "d52ab043aebc166d5bbf3b73e0bffb0f": {
+            "text": "Alana g\u00f6re filtrele"
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "Ba\u015fka bir URL'ye y\u00f6nlendir yada y\u00f6nlendirilecek ba\u011flant\u0131 i\u00e7in sayfa ID'si"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "Giri\u015f URL y\u00f6nlendirmesi yada olu\u015fturulacak ba\u011flant\u0131 i\u00e7in sayfa ID'si"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Y\u00f6nlendirmek istedi\u011finiz URL'yi girin YADA kullan\u0131c\u0131n\u0131n eri\u015fimi olmayan sayfaya girmek istedi\u011finde y\u00f6nlendirilecek ba\u011flant\u0131 i\u00e7in sayfa ID'si."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "E\u011fer bir sayfa ID'si belirtildi\u011finde, kullan\u0131c\u0131n\u0131n g\u00f6r\u00fcnt\u00fcleme yetkisi olsun yada olmas\u0131n bu sayfa kullan\u0131c\u0131 i\u00e7in g\u00f6r\u00fcnt\u00fclenebilir olacak."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "Bu, giri\u015f sayfan\u0131z\u0131n kendisinin eri\u015fim korumal\u0131 olabilece\u011fi durumlarda kullan\u0131\u015fl\u0131d\u0131r."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "Bu ayar yaln\u0131zca yukar\u0131daki alanda \u201cC\u201d se\u00e7ene\u011fini se\u00e7tiyseniz uygulanabilir."
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d alan"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d alanlar"
         }
     }
 }

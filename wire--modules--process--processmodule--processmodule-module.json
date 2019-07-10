@@ -35,9 +35,6 @@
         "0900a3f6adfa931e0130c02c436e7e7f": {
             "text": "Mod\u00fcl S\u0131n\u0131f Ad\u0131"
         },
-        "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "Mod\u00fcl klas\u00f6r\u00fcne bakabilirsiniz ve indirip y\u00fcklemek istedi\u011finiz mod\u00fclleri belirleyebilirisniz. Y\u00fcklemek istedi\u011finiz mod\u00fcl\u00fcn s\u0131n\u0131f ad\u0131n\u0131 yaz\u0131n veya yap\u0131\u015ft\u0131r\u0131n."
-        },
         "3b0798392299a74418470d3f13b5eec2": {
             "text": "Mod\u00fcl klas\u00f6r\u00fc burada '[modules.processwire.com](http:\/\/modules.processwire.com\/)' yer almaktad\u0131r"
         },
@@ -409,6 +406,21 @@
         },
         "f83f6b012ba134e5168ab27e4587b2d3": {
             "text": "Mod\u00fcl gereksinimleri kar\u015f\u0131lanmad\u0131\u011f\u0131ndan, y\u00fckleme sorunlara neden olabilir. Y\u00fcklemek istedi\u011finizden emin misiniz?"
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "Mod\u00fcl Bilgisini Getir"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "\u015eimdi \u0130ndir"
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Mod\u00fcl: %s"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "Mod\u00fcller dizinine g\u00f6z atabilir ve indirip kurmak istedi\u011finiz mod\u00fcl\u00fc bulabilirsiniz."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Kurmak istedi\u011finiz mod\u00fcl\u00fcn s\u0131n\u0131f ad\u0131n\u0131 yaz\u0131n veya yap\u0131\u015ft\u0131r\u0131n, sonra devam etmek i\u00e7in \u201c%s\u201d d\u00fc\u011fmesini t\u0131klay\u0131n."
         }
     }
 }

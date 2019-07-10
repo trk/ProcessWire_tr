@@ -217,6 +217,21 @@
         },
         "f05a8abeb447b6720621d879a9197d00": {
             "text": "Kullan\u0131labilir \u00e7ekirdek ara\u00e7 \u00e7ubu\u011fu \u00f6\u011feleri:"
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "S\u00fcr\u00fckle b\u0131rak veya kopyala yap\u0131\u015ft\u0131r y\u00f6ntemleriyle kullan\u0131lacak resim alanlar\u0131"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Hi\u00e7bir alan se\u00e7ilmezse, \u00e7al\u0131\u015fma zaman\u0131nda kullan\u0131labilir bir g\u00f6r\u00fcnt\u00fc alan\u0131 otomatik olarak se\u00e7ilir. \u201cNone\u201d etiketli se\u00e7enek se\u00e7ildi\u011finde, \u00f6zellik devre d\u0131\u015f\u0131 b\u0131rak\u0131l\u0131r."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "None (resim y\u00fcklemeleri i\u00e7in s\u00fcr\u00fckle-b\u0131rak\/kopyala-yap\u0131\u015ft\u0131r \u00f6zelli\u011fini devre d\u0131\u015f\u0131 b\u0131rak)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "resim\/varl\u0131k depolamak i\u00e7in kullan\u0131lacak sayfa"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Varsay\u0131lan olarak, y\u00fcklenen resimler d\u00fczenlenmekte olan sayfa ile birlikte saklan\u0131r. Bunun yerine bu varl\u0131klar i\u00e7in payla\u015f\u0131lan bir sayfa kullanmak istiyorsan\u0131z, buradan se\u00e7in."
         }
     }
 }

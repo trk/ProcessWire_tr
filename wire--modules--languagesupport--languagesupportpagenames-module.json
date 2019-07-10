@@ -25,6 +25,9 @@
         },
         "68d765216e3092d42524f9f6f14ce93c": {
             "text": "Bu dil i\u00e7in sayfalanm\u0131\u015f URL lere sayfa numaras\u0131 bu kelimenin sonuna eklenecek. Atlan\u0131rsa, \"% s\" kullan\u0131lacakt\u0131r."
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "%3$s dili i\u00e7in karde\u015f sayfas\u0131 (id=%1$d) zaten ayn\u0131 ismi \"%2$s\" kullan\u0131yor"
         }
     }
 }

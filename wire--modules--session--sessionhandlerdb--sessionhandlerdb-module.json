@@ -13,6 +13,18 @@
         },
         "703fdc8134134754f6630df73ee50572": {
             "text": "Kullan\u0131c\u0131 taray\u0131c\u0131s\u0131 tipik olarak kullan\u0131lan taray\u0131c\u0131 hakk\u0131nda bilgi i\u00e7erir."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Paralel oturumlara izin verilmesin mi?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Etkinle\u015ftirildi\u011finde, ba\u015far\u0131l\u0131 oturum a\u00e7ma s\u00f6z konusu kullan\u0131c\u0131 i\u00e7in di\u011fer t\u00fcm oturumlarda di\u011fer cihazlarda\/taray\u0131c\u0131larda sona erer."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Bu kutunun i\u015faretlenmesi, oturum a\u00e7m\u0131\u015f bir kullan\u0131c\u0131 i\u00e7in ayn\u0131 anda yaln\u0131zca bir oturuma izin verir."
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "\u201c%s\u201d i\u00e7in \u00f6nceki oturum a\u00e7ma oturumu kald\u0131r\u0131ld\u0131\/oturumu kapatt\u0131."
         }
     }
 }
