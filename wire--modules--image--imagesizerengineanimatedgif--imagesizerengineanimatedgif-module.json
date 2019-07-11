@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Image\/ImageSizerEngineAnimatedGif\/ImageSizerEngineAnimatedGif.module",
+    "textdomain": "wire--modules--image--imagesizerengineanimatedgif--imagesizerengineanimatedgif-module",
+    "translations": {
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "y\u00fcklenen '%s' dosyas\u0131 ge\u00e7erli resimler listesinde de\u011fil"
+        }
+    }
+}

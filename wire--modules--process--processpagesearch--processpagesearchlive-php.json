@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearchLive.php",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearchlive-php",
+    "translations": {
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Sayfalar"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "\u00c7\u00f6p Kutusu"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Mod\u00fcller"
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "Hepsini G\u00f6r\u00fcnt\u00fcle"
+        },
+        "32df01b9cf0491a879250b58ba2744ba": {
+            "text": "Arama Sonu\u00e7lar\u0131"
+        },
+        "945331eb8feee661c7a01a7da50e7e7e": {
+            "text": "veya herhangi bir alan ad\u0131"
+        },
+        "098f6bcd4621d373cade4e832627b4f6": {
+            "text": "="
+        }
+    }
+}

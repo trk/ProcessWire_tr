@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Kurmak i\u00e7in t\u0131kla:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Yeni diller ekle ve yap\u0131land\u0131r"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "\"Title(ba\u015fl\u0131k)\" alan\u0131n\u0131z\u0131n t\u00fcr\u00fcn\u00fc \"Page Title(sayfa ba\u015fl\u0131\u011f\u0131)\" 'den \"Page Title (Multi-language)(sayfa ba\u015fl\u0131\u011f\u0131 \u00e7oklu dil)\" olarak de\u011fi\u015ftirin"
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "\u0130stedi\u011finiz di\u011fer \"Text(metin)\" alanlar\u0131n\u0131n t\u00fcr\u00fcn\u00fc \"Text (Multi-language) - Metin (\u00c7oklu Dil)\" olarak de\u011fi\u015ftirin"
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "\u0130stedi\u011finiz di\u011fer \"Textarea (yaz\u0131)\" alanlar\u0131n\u0131n t\u00fcr\u00fcn\u00fc \"Textarea (Multi-language) yaz\u0131 alan\u0131 \u00e7oklu dil\" olarak de\u011fi\u015ftirin"
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Sonraki ad\u0131mlar"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "\u00c7ok dilli destek ayarlamaya devam etmek i\u00e7in a\u015fa\u011f\u0131daki ad\u0131mlar\u0131 izleyin."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "A\u015fa\u011f\u0131daki ba\u011flant\u0131lar yeni bir pencerede\/sekmede a\u00e7\u0131lacakt\u0131r. Buraya geri d\u00f6nmek i\u00e7in bitirdikten sonra her birini kapat\u0131n."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Metin alan\u0131 t\u00fcrlerini de\u011fi\u015ftirmeyi denemeden \u00f6nce LanguageSupportFields mod\u00fcl\u00fcn\u00fc y\u00fckleyin."
+        }
+    }
+}

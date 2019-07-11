@@ -286,6 +286,93 @@
         },
         "2623934b184a9c5b44a0c9992499b5f6": {
             "text": "Ebeveyn"
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Bu sayfada bir veya daha fazla eksik alan olabilir (daha fazla bilgi i\u00e7in kaydetme veya yay\u0131nlama giri\u015fiminde bulunun)"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Bu sayfaya hangi sayfalar ba\u011flan\u0131r?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Listelenebilir de\u011fil"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Sayfa alanlar\u0131nda veya href ba\u011flant\u0131lar\u0131nda buna ba\u011flanan %d ba\u015fka sayfa bulundu."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(sayfa alan\u0131nda)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(href ba\u011flant\u0131s\u0131nda)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d ek sayfa g\u00f6sterilmedi."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Sayfa alanlar\u0131nda veya href ba\u011flant\u0131lar\u0131nda buna i\u015faret eden ba\u015fka sayfa bulamad\u0131n\u0131z m\u0131?"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Hen\u00fcz de\u011fil"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "\u00d6nceki URL i\u00e7in y\u00f6nlendirme silindi: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Yeni y\u00f6nlendirme URL'leri ekle"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "\/senin\/%s\/url\/"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(%s i\u00e7in)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Y\u00f6nlendirme eklendi: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "%s y\u00f6nlendirmesi eklenemiyor \u00e7\u00fcnk\u00fc ba\u015fka bir yolla \u00e7ak\u0131\u015f\u0131yor gibi g\u00f6r\u00fcn\u00fcyor"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Benzersiz: Genel olarak benzersiz olmas\u0131 i\u00e7in \u201c%s\u201d sayfa ad\u0131 gerekli"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(sadece varsay\u0131lan dilde)"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Geri y\u00fckle"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "\u00c7\u00f6p kutusundan \u00e7\u0131kart ve orijinal konumuna geri y\u00fckle"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Bu sayfay\u0131 geri y\u00fcklemek istedi\u011finizi onaylamak i\u00e7in kutuyu i\u015faretleyin."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Hangi URL'ler bu sayfaya y\u00f6nlendiriliyor?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Bir sayfa ta\u015f\u0131nd\u0131\u011f\u0131nda veya ad de\u011fi\u015fti\u011finde, y\u00f6nlendirmeler i\u00e7in \u00f6nceki konumu hat\u0131rlar\u0131z."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Bu sayfaya y\u00f6nlendirilen (301 kal\u0131c\u0131 y\u00f6nlendirme kullan\u0131larak) URL'lerin (yollar) listesi a\u015fa\u011f\u0131da"
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Herhangi bir yolu\/URL'yi silebilir veya manuel olarak yenilerini ekleyebilirsiniz."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Y\u00f6nlendirme yolu yok"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Bu sayfaya y\u00f6nlendirilmesi gereken ek yollar\u0131\/URL'leri (her sat\u0131ra bir tane) girin."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Yaln\u0131zca URL yolunu girin (yani, \u201c\/merhaba\/dunya\/\u201d), \u015fema, etki alan\u0131, ba\u011flant\u0131 noktas\u0131, sorgu dizesi veya par\u00e7alar\u0131 \u0130\u00c7EREMEZ."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Yollar site k\u00f6k\u00fcne g\u00f6re oldu\u011fundan ba\u015flang\u0131\u00e7ta %s alt dizinini \u0130\u00c7EREMEZ."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Y\u00f6nlendirme i\u00e7in bir dil belirtmek i\u00e7in, dil ad\u0131 ile \u00f6nceden belirlenmi\u015f sat\u0131ra yol\/URL'yi girin:"
         }
     }
 }

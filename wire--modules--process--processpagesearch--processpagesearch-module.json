@@ -103,6 +103,57 @@
         },
         "6950a77d131f284826099392fd57701c": {
             "text": "\u0130le bitiyor"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Bunlar y\u00f6netici canl\u0131 aramas\u0131 s\u0131ras\u0131nda yap\u0131lacak arama t\u00fcrleridir."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Bunlar\u0131 arama sonu\u00e7lar\u0131n\u0131n listelenmesini istedi\u011finiz s\u0131raya s\u00fcr\u00fckleyin."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(hari\u00e7)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Arama t\u00fcrlerini hari\u00e7 tut"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Canl\u0131 arama d\u0131\u015f\u0131nda b\u0131rakmak istedi\u011finiz arama t\u00fcrlerini se\u00e7in. Bunlar, s\u0131k s\u0131k araman\u0131z gerekmeyen t\u00fcrler olabilir."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "D\u0131\u015flanan t\u00fcrler ne kadar fazla olursa, canl\u0131 arama o kadar h\u0131zl\u0131 ger\u00e7ekle\u015fir."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "\u00d6zellikle aramada istenirse se\u00e7ilen t\u00fcm t\u00fcrler aranabilir."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "\u00d6rne\u011fin, \u201ctrash (\u00e7\u00f6p kutusu)\u201d t\u00fcr\u00fcn\u00fc hari\u00e7 tuttuysan\u0131z, araman\u0131za \u201ctrash=\u201d eklerseniz, \u00f6rne\u011fin \u201ctrash:merhaba\u201d gibi aranabilir olur."
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Aranacak sayfa alanlar\u0131"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Bu, yaln\u0131zca \"pages(sayfalar)\" ve \"trash(\u00e7\u00f6p kutusu)\" daki arama sonu\u00e7lar\u0131 i\u00e7in ge\u00e7erlidir."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Canl\u0131 araman\u0131n h\u0131zl\u0131 olmas\u0131n\u0131 sa\u011flamak i\u00e7in bunu en fazla 1 veya 2 alanla s\u0131n\u0131rlaman\u0131z\u0131 \u00f6neririz. Genelde sadece \u201ctitle(ba\u015fl\u0131k)\u201d alan\u0131n\u0131 arars\u0131n\u0131z."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Kullan\u0131c\u0131 arama kutusuna \"enter\" tu\u015funa basarsa aranacak sayfa alanlar\u0131"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Tipik olarak bu yukar\u0131daki ile ayn\u0131 olacakt\u0131r, ancak ek alan(lar) da eklemek isteyebilirsiniz."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "\u00d6rne\u011fin, sadece \u201ctitle(ba\u015fl\u0131k)\u201d alan\u0131n\u0131 aramak yerine, \u201cbody(i\u00e7erik)\u201d alan\u0131n\u0131 da aramak isteyebilirsiniz."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Tek ve k\u0131smi kelime aramalar\u0131 i\u00e7in varsay\u0131lan arama operat\u00f6r\u00fc"
+        },
+        "5187ed7cdf401218d2ae7263781350b8": {
+            "text": "K\u0131smi kelime e\u015fle\u015fmelerinin deste\u011fini g\u00f6sterir"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "\u00c7ok kelimeli (phrase(\u00f6bek)) aramalar i\u00e7in varsay\u0131lan arama operat\u00f6r\u00fc"
         }
     }
 }
