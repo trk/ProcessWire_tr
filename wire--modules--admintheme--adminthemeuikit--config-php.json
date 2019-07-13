@@ -244,6 +244,54 @@
         },
         "cb4144ba5a55530ecbf14a45c4d0349d": {
             "text": "Varsay\u0131lan girdi boyutu"
+        },
+        "cdf0447c0bfca1430af1916d3695665e": {
+            "text": "Kenar \u00e7ubu\u011fu navigasyonu (solda) + sayfa a\u011fa\u00e7 navigasyonu (sa\u011fda)"
+        },
+        "cd49cb29b2424eb2cfa6526153e12f3f": {
+            "text": "*Kenar \u00e7ubu\u011fu d\u00fczenleri, SystemNotifications mod\u00fcl\u00fc ile uyumlu de\u011fildir ve di\u011fer mod\u00fcllerle ilgili sorunlar olabilir."
+        },
+        "ed81bfff2c494916fd8a4f7f0526e14c": {
+            "text": "Girdi alan\u0131 s\u00fctun geni\u015fli\u011fi"
+        },
+        "5d6497b7aaafbba82795cd9626c2f508": {
+            "text": "Girdi alan\u0131 s\u00fctun geni\u015flikleri ile ilgili sorun ya\u015f\u0131yorsan\u0131z B se\u00e7ene\u011fini se\u00e7in."
+        },
+        "775d588dfe892290c0bfa5e56590577f": {
+            "text": "Uiki uk-width s\u0131n\u0131flar\u0131 (6 s\u00fctuna kadar)"
+        },
+        "3ae2bf644696505c219965a72b7cbb70": {
+            "text": "Y\u00fczde tabanl\u0131 geni\u015flikler (ek esneklik)"
+        },
+        "c0a71759159badff6c9c45f730402dd6": {
+            "text": "D\u00fczen i\u00e7in maksimum geni\u015flik belirtin (pixel olarak) yada maksimum de\u011fer yok ise 0 girin."
+        },
+        "d4b002181224e7985e75a3913eb4ac2d": {
+            "text": "Sadece geleneksel d\u00fczen i\u00e7in ge\u00e7erlidir."
+        },
+        "190d86032ba8b2f2522f36d983700c72": {
+            "text": "Bu, bir\u00e7ok metin, textarea ve se\u00e7me alanlar\u0131n\u0131n g\u00f6r\u00fcn\u00fcm\u00fcn\u00fc etkiler."
+        },
+        "3be905d0e0e23fa3e645f3d70e7d28d3": {
+            "text": "T\u00fcm girdi alanlar\u0131 \"k\u00fc\u00e7\u00fck\" veya \"b\u00fcy\u00fck\" se\u00e7enekleri desteklemez."
+        },
+        "dcf96c65e2763ec9e77c895af9d25cbe": {
+            "text": "\u0130lave \u00fcst\/alt kenar bo\u015flu\u011fu ile dengelenmesi gereken giri\u015f tipleri."
+        },
+        "cf83a7d29c286d14e29a97334e9279a5": {
+            "text": "Kenarl\u0131\u011f\u0131 olmayan se\u00e7ilen tipler i\u00e7in ge\u00e7erli de\u011fildir."
+        },
+        "838ee308c6474d98feac3ebbff4c08a8": {
+            "text": "Bu ayarlar, Uikit admin temas\u0131yla kullan\u0131ld\u0131\u011f\u0131nda bu alan\u0131n nas\u0131l g\u00f6r\u00fcnd\u00fc\u011f\u00fcn\u00fc etkiler."
+        },
+        "2a94ec4e40704b025161d175bc18fe53": {
+            "text": "\u201cOtomatik\u201d se\u00e7ildi\u011finde, ayarlar \u00e7al\u0131\u015fma zaman\u0131nda belirlenir."
+        },
+        "54e4e4fb8f8494b61dc7407161cff620": {
+            "text": "\u201dKenar Bo\u015fluklar\u0131\u201d ayar\u0131 sadece %100 geni\u015fli\u011fe sahip alanlarda uygulan\u0131r."
+        },
+        "741b3715dff40fc66d023ffe7d2ec932": {
+            "text": "\u201cOtomatik\u201d se\u00e7ene\u011fi t\u00fcm ayarlar i\u00e7in \u00f6nerilen varsay\u0131land\u0131r."
         }
     }
 }

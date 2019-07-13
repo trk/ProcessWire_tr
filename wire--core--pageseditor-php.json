@@ -7,6 +7,21 @@
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
             "text": "\"%s\" Alan\u0131 kaydederken hata"
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "\u201c%s\u201d \u015fablonunu kullanan sayfalar ta\u015f\u0131namaz."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Se\u00e7ilen ebeveyn \u201c%1$s\u201d, alt sayfalara izin vermeyen \u201c%2$s\u201d \u015fablonunu kullan\u0131r."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "\u201c%1$s\u201d adl\u0131 sayfa taraf\u0131ndan kullan\u0131lan \u201c%2$s\u201d \u015fablonu \u201c%3$s\u201d \u015fablonunu kullanan alt sayfalara izin vermedi\u011finden \u201c%4$s\u201d ta\u015f\u0131nam\u0131yor."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "\u201c%1$s\u201d adl\u0131 yeni ebeveynin kulland\u0131\u011f\u0131 \u201c%2$s\u201d \u015fablonuna \u201c%4$s\u201d ta\u015f\u0131nan sayfa \u015fablonuna izin verilmedi\u011finden \u201c%3$s\u201d ta\u015f\u0131nam\u0131yor."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Se\u00e7ilen ebeveyn \u201c%1$s\u201d zaten \u201c%2$s\u201d adl\u0131 bir sayfaya sahip."
         }
     }
 }
