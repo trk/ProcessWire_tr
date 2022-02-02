@@ -11,9 +11,6 @@
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtreler"
         },
-        "89872ab3eb9af52f34b4dd82077758fc": {
-            "text": "\u015eablona G\u00f6re Filtrele"
-        },
         "410267bd4e3c99784bab90c5e64b5209": {
             "text": "Se\u00e7ildi\u011finde, sadece se\u00e7ili \u015fablona ait alanlar g\u00f6r\u00fcnt\u00fclenecek. \u015eablona dayal\u0131 filtrelemelerde ayn\u0131 zamanda ana (\u00e7ekirdek) alanlarda g\u00f6sterilecek. Y\u0131ld\u0131z (*) i\u015fareti sistem \u015fablonu oldu\u011funu belirtir."
         },
@@ -23,23 +20,14 @@
         "a81c2112e97c64099ff86d5b97cb13c6": {
             "text": "\u015eablona G\u00f6re Alanlar"
         },
-        "d9a45316e3230df36980cf6ab8983485": {
-            "text": "Alan Tipine G\u00f6re Filtrele"
-        },
         "db2b4f5915e2053955edfec38776a17f": {
             "text": "Belirtildi\u011finde, sadece se\u00e7ili olan alan tipleri g\u00f6r\u00fcnt\u00fclenecek. Alan tiplerine g\u00f6re filtrelemelerde ana (\u00e7ekirde) alanlar\u0131da g\u00f6sterilecek."
         },
         "cca90d2e0854b62dc0c77ad0e1679be4": {
             "text": "G\u00f6sterilen alan tipi: %s"
         },
-        "380f82872d1eb16c53b69ce4cfb45c9f": {
-            "text": "Ana (\u00e7ekirdek) alanlar\u0131 g\u00f6ster?"
-        },
         "2a7b956033d031e555889f8ddd52754f": {
             "text": "\u0130\u015faretlendi\u011finde, Ana (\u00e7ekirdek) alanlarda g\u00f6sterilecek. Sistem ve kal\u0131c\u0131 alanlar\u0131da i\u00e7erecek. Sistem alanlar\u0131 sistem taraf\u0131ndan zorunlu ve silinemek yada adlar\u0131 de\u011fi\u015ftirilemez. Kal\u0131c\u0131 alanlar \u015fablondan kald\u0131r\u0131lamaz. ProcessWire bu alanlar i\u00e7erde kullan\u0131yor."
-        },
-        "1535d0228ba3626bad19ec55142ffcc6": {
-            "text": "Kal\u0131c\u0131 ve sistem alanlar\u0131 dahil olmak \u00fczere t\u00fcm alanlar g\u00f6steriliyor."
         },
         "4cca2a863deef0fc4de9115b9164537b": {
             "text": "Etiketsiz"
@@ -49,9 +37,6 @@
         },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Alan\u0131 sil"
-        },
-        "bcb2ce4355834a060bef50afb9127603": {
-            "text": "Ana (\u00e7ekirdek)"
         },
         "d665a1b10e02b9de8f4115d5b7078976": {
             "text": "Yeni Alan Ekle"
@@ -89,23 +74,11 @@
         "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
             "text": "Yeni Alan Ekle"
         },
-        "cba80ebc9ff6059cddbf49c3f46172a6": {
-            "text": "Hi\u00e7biri (varsay\u0131lan)"
-        },
         "1f2b73286f18ea71c594652199e86dff": {
             "text": "\u0130ptal"
         },
-        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
-            "text": "Sil"
-        },
         "a90b5efafea041e94da7fffd2bd530a3": {
             "text": "Temeller"
-        },
-        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
-            "text": "Tip"
-        },
-        "7facb165145d489aeaa6743a6f9f1f55": {
-            "text": "Etiket"
         },
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "A\u00e7\u0131klama"
@@ -125,17 +98,11 @@
         "ab2e4f95a7971ee8077df62efa20d437": {
             "text": "Alan tipinizi se\u00e7tikten ve kay\u0131t ettikten sonra, se\u00e7mi\u015f oldu\u011funuz alan ile ilgili olarak alan tipine \u00f6zel ek yap\u0131land\u0131rma ayarlar\u0131 yapabilirsiniz."
         },
-        "219befd28b6f70d6d0a52f13c6b93772": {
-            "text": "Bu etiket alan girdisi \u00fczerinede g\u00f6r\u00fcnt\u00fclenecek, e\u011fer bo\u015f b\u0131rak\u0131rsan\u0131z bunun yerine alan ad\u0131 kullan\u0131lacak."
-        },
         "d421f74dd8c605a337e57a6224f23478": {
             "text": "Bu alana i\u00e7erik girmek i\u00e7in ek y\u00f6nerge bilgileri."
         },
         "983f66857047c1e6fc8878e54c5c9939": {
             "text": "Alan\u0131 \u00c7o\u011falt\/Klonla?"
-        },
-        "ee2d3754b6e7f57898d9d8670f78ae71": {
-            "text": "Geli\u015fmi\u015f Ayarlar"
         },
         "817434295a673aed431435658b65d9a7": {
             "text": "Simge"
@@ -145,12 +112,6 @@
         },
         "3df354a032179f36ea493c3df6643ce1": {
             "text": "E\u011fer g\u00f6rsel olarak bu alan\u0131 di\u011fer alanlar ile  grup yapmak istiyorsan\u0131z, bir-kelime etiket girin. Di\u011fer grup yapmak istedi\u011finiz alanlara da ayn\u0131 etiketi girin. Birden fazla etiket tam\u0131lamak i\u00e7in herbir etiketi bo\u015fluk ile ay\u0131r\u0131n. E\u011fer internet sitenizde \u00e7ok fazla alan var ise, etiketleri kullanmak zahmete de\u011fer olabilir."
-        },
-        "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Herbir etiket tek kelimeden olu\u015fmal\u0131 (tire ile ay\u0131rabilirisniz)"
-        },
-        "78bd709db99c927f3a59a1983f18c237": {
-            "text": "Alan listesinde kapal\u0131 bir etiket yapmak istiyorsan\u0131z, ba\u015f\u0131na tire i\u015fareti koyabilirsiniz. \u00f6rnek: -merhaba"
         },
         "89e1299f98120a24c999cdffa860d2cb": {
             "text": "Silinen akan"
@@ -281,26 +242,11 @@
         "a360c947f7ea8bd51220987c073edf15": {
             "text": "Ayar"
         },
-        "7f8ceb624f94b152f89f7bfd06a2dff2": {
-            "text": "Orjinal"
-        },
-        "f4aa6607ad257caa74e12b30eab4b8c6": {
-            "text": "H\u00fck\u00fcms\u00fcz k\u0131l"
-        },
-        "0255524701bd52455b1ae33bf39818ff": {
-            "text": "Ayar\u0131 kald\u0131r"
-        },
         "a6f1b7f6b210b19d1d4ff7722c8fd790": {
             "text": "Notlar"
         },
         "a698a809093ad1c25ea277ff03ae5fc7": {
             "text": "Hareketler"
-        },
-        "0e26a613a19dbe1752912c253f5b2e37": {
-            "text": "Ad"
-        },
-        "0e6b389782e160492d4fe3a397e392df": {
-            "text": "Etiket"
         },
         "995ed8becc596409849c6a652fbf5cd4": {
             "text": "Doldurulmu\u015f sayfalar"
@@ -343,15 +289,6 @@
         },
         "62d09c342e50351059153e99a2fdbb47": {
             "text": "Ge\u00e7ersiz k\u0131lma ayar\u0131n\u0131 d\u00fczenleme yada di\u011fer ayarlar\u0131 ge\u00e7ersiz k\u0131lmak i\u00e7in, herhangibir \u015fablonu d\u00fczenleyin ve alan listesinden bir alan\u0131 d\u00fczenleyin."
-        },
-        "2452cab12330c0a3ce62f7974eb82ba6": {
-            "text": "Ba\u011flam ge\u00e7ersiz k\u0131lamas\u0131n\u0131 kald\u0131r"
-        },
-        "7ce33a363647f83aa612fc538dcb8214": {
-            "text": "Takip eden ayarlar, alan \"%s\" \u015fablonunda kullan\u0131ld\u0131\u011f\u0131nda orjinal alan ayarlar\u0131n\u0131 ge\u00e7ersiz k\u0131l\u0131yor."
-        },
-        "b5781496c3e514537473d4edd038152a": {
-            "text": "Herhangi ge\u00e7ersiz k\u0131lma de\u011ferlerini kald\u0131rmak i\u00e7in (orjinal alan de\u011ferine geri d\u00f6nd\u00fcrmek i\u00e7in) herbirin kutucu\u011funu i\u015faretleyin. kald\u0131rmak\/geri d\u00f6nd\u00fcrmek istedi\u011finiz herbir ayar\u0131."
         },
         "158b56553ee2e91623b2568e46a4fb82": {
             "text": "Var olan alan\u0131 klonla"
@@ -571,6 +508,132 @@
         },
         "927e2bece8a3ee4ce5f53aca157c04ec": {
             "text": "Sadece ASCII karakter [a-z], numara [0-9], yada tire, alttan tire (nokta ve bo\u015fluk yok)."
+        },
+        "c101058e7ea21bbbf2a5ac893088e90b": {
+            "text": "Etiket"
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "Etiketleri Y\u00f6net"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "\u015eablona g\u00f6re filtrele"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "T\u00fcre g\u00f6re filtrele"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Sistem alanlar\u0131 g\u00f6sterilsin mi?"
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Yerle\u015fik sistem ve kal\u0131c\u0131 alanlar dahil t\u00fcm alanlar g\u00f6steriliyor."
+        },
+        "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
+            "text": "Etiket: %s"
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "Bu etikete sahip olmas\u0131 gereken t\u00fcm alanlar\u0131 se\u00e7in"
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Alanlar listesinde daralt\u0131lm\u0131\u015f olarak g\u00f6r\u00fcnt\u00fclensin mi?"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Bu etiketi silmek i\u00e7in i\u00e7indeki t\u00fcm alanlar\u0131 kald\u0131r\u0131n."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "\u201c%1$s\u201d etiketi \u015fu alana eklendi: %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "\u201c%1$s\u201d etiketi \u015fu alandan kald\u0131r\u0131ld\u0131: %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "Etiketler, listeleme veya arama i\u00e7in alan koleksiyonlar\u0131 olu\u015fturman\u0131za olanak tan\u0131r."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Uyar\u0131: \u201c%s\u201d etiketi, Alan ile ayn\u0131 ada sahiptir."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Yeni etiket ekle"
+        },
+        "133027c82744d7b44344c6d2fdd3cd2e": {
+            "text": "(kullan\u0131lmam\u0131\u015f)"
+        },
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "\u201c%2$s\u201d ba\u011flam\u0131nda \u201c%1$s\u201d \u015fablonuyla kullan\u0131ld\u0131\u011f\u0131nda"
+        },
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "Ge\u00e7ersiz k\u0131lmalar i\u00e7in hangi ayarlara izin verilece\u011fini ayarlamak i\u00e7in a\u015fa\u011f\u0131daki alana bak\u0131n."
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "\u015eu anda \u015fablon taraf\u0131ndan ge\u00e7ersiz k\u0131l\u0131nan ayar yok."
+        },
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "\u015eablona g\u00f6re ge\u00e7ersiz k\u0131l\u0131nmas\u0131na izin verilen ayarlar"
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "Bu alan\u0131 belirli bir \u015fablon ba\u011flam\u0131nda d\u00fczenlerken, i\u015faretli ayarlar yap\u0131land\u0131rma se\u00e7enekleri olarak g\u00f6r\u00fcnecektir."
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**UYARI:** Fieldtype\/Inputfield mod\u00fcl\u00fc taraf\u0131ndan belirtilenlerin d\u0131\u015f\u0131ndaki ayarlar\u0131 etkinle\u015ftirmek her zaman \u00e7al\u0131\u015fmayabilir veya sorunlara neden olabilir."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Sonu\u00e7 olarak, bu ayarlarda yap\u0131lan t\u00fcm de\u011fi\u015fiklikleri \u00f6ncelikle \u00fcretim d\u0131\u015f\u0131 (geli\u015ftirme) bir ortamda test etmenizi \u00f6neririz."
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "L\u00fctfen akl\u0131n\u0131zda bulundurun:"
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "**Kal\u0131n** yaz\u0131lm\u0131\u015f ayarlar, Fieldtype\/Inputfield mod\u00fcl\u00fcn\u00fcn her zaman ge\u00e7ersiz k\u0131lma i\u00e7in izin verilen \u015fekilde atad\u0131\u011f\u0131 ayarlard\u0131r."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Di\u011fer ayarlar, ba\u011flam ge\u00e7ersiz k\u0131lmalar\u0131 i\u00e7in \u00e7al\u0131\u015fabilir veya \u00e7al\u0131\u015fmayabilir."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "\u00c7al\u0131\u015fmad\u0131\u011f\u0131n\u0131 veya ba\u015fka bir \u015fekilde sorunlara neden oldu\u011funu d\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcn\u00fcz ayarlar\u0131n i\u015faretini kald\u0131rmal\u0131s\u0131n\u0131z."
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "Detaylar:"
+        },
+        "c4e024e71ba191d41926d9fcfa7cde3a": {
+            "text": "Alan:"
+        },
+        "28ac344e871bb5931c25502670d3e2fd": {
+            "text": "Alan giri\u015finin \u00fczerinde g\u00f6r\u00fcnen etiket."
+        },
+        "405231013da488699f3761636027e651": {
+            "text": "A\u00e7\u0131klama burada ve bunun gibi g\u00f6r\u00fcn\u00fcr."
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Her etiket bir kelime olmal\u0131d\u0131r (alt \u00e7izgiler uygundur)."
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "\u201c%s\u201d ayar\u0131nda hata"
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(\u201c%s\u201d olarak belirttiniz)"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Do\u011frulanam\u0131yor"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "De\u011ferlerin sayfa ID'si olmas\u0131 gerekti\u011finden bu \u00e7al\u0131\u015fmaz"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "Sistem"
+        },
+        "0151b4b3cfa88e85b9387dc9490961cf": {
+            "text": "benzersiz"
+        },
+        "ab17e61adc90fe446ec49fe7cd795864": {
+            "text": "ge\u00e7ersiz k\u0131lmalar\/ba\u011flamlar"
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "De\u011fi\u015fiklikler"
+        },
+        "2e97680673e9f48756601bd5672b0d45": {
+            "text": "%d \u015fablon"
+        },
+        "f78cb52b393842a378dcbee7bd241ffe": {
+            "text": "%d \u015fablon"
         }
     }
 }

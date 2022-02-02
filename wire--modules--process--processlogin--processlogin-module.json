@@ -8,14 +8,8 @@
         "a0bfb8e59e6c13fc8d990781f77694fe": {
             "text": "Devam Et"
         },
-        "847549ae30061a6767a4b17c6fb4f53c": {
-            "text": "Giri\u015f ba\u015far\u0131l\u0131"
-        },
         "48649d8c2d04aa439d10bc45eaba8f75": {
             "text": "Giri\u015f Ba\u015far\u0131s\u0131z"
-        },
-        "646d9e77201093e05380ead006df9975": {
-            "text": "G\u00fcvenlik Uyar\u0131s\u0131: %s zaten var ve en k\u0131sa s\u00fcrede silinmi\u015f olmal\u0131."
         },
         "f6039d44b29456b20f8f373155ae4973": {
             "text": "Kullan\u0131c\u0131 Ad\u0131"
@@ -26,35 +20,137 @@
         "99dea78007133396a7b8ed70578ac6ae": {
             "text": "Giri\u015f"
         },
-        "d837cc5a72556c5e2abf4b9fe10ddef8": {
-            "text": "Giri\u015f"
-        },
         "01a569ddc6cf67ddec2a683f0a5f5956": {
             "text": "Parolam\u0131 unuttum?"
         },
         "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
             "text": "\u00c7\u0131k\u0131\u015f yapt\u0131n\u0131z"
         },
-        "4c429484c06b2d2901b3a582f300af56": {
-            "text": "Uyar\u0131, A\u00e7\u0131k\u00e7a belirtiyorki \/site\/config.php dosyan\u0131z\u0131n izinleri bir\u00e7ok ortam i\u00e7in \u00e7ok gev\u015fek:"
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "Profili D\u00fczenle"
         },
-        "748befe7a5d432caba8b6cadc4076e92": {
-            "text": "Daha fazla ayr\u0131nt\u0131 i\u00e7in \"Dosya izinlerini\" okuyun"
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-posta"
         },
-        "00796cc045b871fe7b2867edef6aaaf7": {
-            "text": "Bu uyar\u0131y\u0131 almak istemiyorsan\u0131z, \/site\/config.php dosyan\u0131zda $config->chmodWarn = false; olarak belirleyin."
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "Bu e-posta adresi i\u00e7in oturum a\u00e7ma desteklenmiyor."
         },
-        "efdf35a179a19ed3b3de0d3e7785f17d": {
-            "text": "Uyar\u0131: Sunucu yereliniz tan\u0131mlanmam\u0131\u015f ve sorunlara neden olabilir."
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "\u00c7erez kontrol\u00fc ba\u015far\u0131s\u0131z oldu: l\u00fctfen giri\u015f yapmak i\u00e7in \u00e7erezleri etkinle\u015ftirin."
         },
-        "25722c10f4f7abdc7297094d5d8f97e6": {
-            "text": "L\u00fctfen her dil i\u00e7in \"C\" yerel ayar\u0131n\u0131 %s i\u00e7indeki uygun yerel ayara terc\u00fcme et"
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Javascript denetimi ba\u015far\u0131s\u0131z oldu: L\u00fctfen oturum a\u00e7mak i\u00e7in Javascript'i etkinle\u015ftirin."
         },
-        "d5877d284caca4c9b4d55adb8e6e758c": {
-            "text": "\u00d6rne\u011fin, ABD \u0130ngilizcesi i\u00e7in yerel ayar: %s olabilir"
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Ge\u00e7ersiz oturum a\u00e7ma ad\u0131"
         },
-        "58b0cb95c27f394bd4c6970b563153dd": {
-            "text": "L\u00fctfen bunu \/site\/config.php dosyas\u0131na ekleyin (gereken ayar \u201c%s\u201d):"
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "Kullan\u0131c\u0131 Ad\u0131 ya da E-posta"
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "G\u00fcncellemeler uyguland\u0131\u011f\u0131 i\u00e7in oturum a\u00e7ma sonras\u0131 sistem kontrolleri atlan\u0131yor (%s)"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Giri\u015f t\u00fcr\u00fc"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "Kullan\u0131c\u0131 ad\u0131"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "E-posta adresi"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "Herhangi biri"
+        },
+        "d619a734f94b65d5137233c7d9a8fe69": {
+            "text": "E-posta ile oturum a\u00e7may\u0131 kullanmak i\u00e7in, e-posta alan\u0131n\u0131z i\u00e7in [\u201cbenzersiz\u201d ayar\u0131 etkinle\u015ftirmeniz](%s) gerekir."
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "\u0130ki fakt\u00f6rl\u00fc kimlik do\u011frulama"
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "ProcessWire mod\u00fclleri dizinindeki TFA mod\u00fclleri"
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "Bunu yap\u0131land\u0131rmak i\u00e7in \u00f6nce bir veya daha fazla TFA mod\u00fcl\u00fc kurman\u0131z ve ard\u0131ndan buraya geri d\u00f6nmeniz gerekir."
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "A\u015fa\u011f\u0131daki TFA mod\u00fclleri bulundu:"
+        },
+        "ef8f23f26034e25bcf827a963aa8c8b7": {
+            "text": "(yap\u0131land\u0131rmak i\u00e7in t\u0131klay\u0131n)"
+        },
+        "cd718f93e76d48331ff1f6c8a86226a2": {
+            "text": "\u0130ki fakt\u00f6rl\u00fc kimlik do\u011frulamay\u0131 zorunlu yap"
+        },
+        "23baebcb2653b738b5e1eb8a93e3ee28": {
+            "text": "Burada bir TFA mod\u00fcl\u00fc se\u00e7ildi\u011finde, iki fakt\u00f6rl\u00fc kimlik do\u011frulama kullanmayan kullan\u0131c\u0131lar i\u00e7in (oturum a\u00e7ma s\u0131ras\u0131nda) otomatik olarak etkinle\u015ftirilecektir."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Devre d\u0131\u015f\u0131"
+        },
+        "2af7712565017bd05b828e1a625c7375": {
+            "text": "\u0130ki fakt\u00f6rl\u00fc kimlik do\u011frulamas\u0131n\u0131 zorlamak i\u00e7in rolleri kontrol edin veya T\u00dcM roller i\u00e7in zorlamak i\u00e7in hepsini i\u015faretlemeden b\u0131rak\u0131n (nerede\/ne zaman m\u00fcmk\u00fcnse)."
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Bu roller i\u00e7in kesinlikle iki fakt\u00f6rl\u00fc kimlik do\u011frulamas\u0131 \u00f6nerin"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Y\u00f6neticide oturum a\u00e7t\u0131ktan sonra ProcessWire, burada se\u00e7ti\u011finiz rollerdeki kullan\u0131c\u0131lardan hesaplar\u0131 i\u00e7in iki fakt\u00f6rl\u00fc kimlik do\u011frulamay\u0131 kullanmalar\u0131n\u0131 ister."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Kullan\u0131c\u0131lara, taray\u0131c\u0131lar\u0131\/konumlar\u0131 hat\u0131rland\u0131\u011f\u0131nda kod giri\u015fini atlama se\u00e7ene\u011fi verilsin mi?"
+        },
+        "d6340b7e300601dbe176deca28d5e216": {
+            "text": "Bu, kullan\u0131c\u0131lara \"Bu bilgisayar\u0131 hat\u0131rlad\u0131n m\u0131?\" giri\u015f s\u0131ras\u0131nda kod giri\u015f ekran\u0131nda se\u00e7ene\u011fi."
+        },
+        "275269a543b575d0897e5a56d291cbf1": {
+            "text": "Bir kullan\u0131c\u0131n\u0131n taray\u0131c\u0131s\u0131n\u0131n\/konumunun hat\u0131rlanabilece\u011fi g\u00fcn say\u0131s\u0131n\u0131 veya devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in 0 girin."
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "Kullan\u0131c\u0131 arac\u0131s\u0131 (taray\u0131c\u0131, platform ve her birinin s\u00fcr\u00fcmleri)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "S\u00fcr\u00fcm\u00fc olmayan kullan\u0131c\u0131 arac\u0131s\u0131 (taray\u0131c\u0131 ve platform, ancak s\u00fcr\u00fcm yok - s\u0131k s\u0131k de\u011fi\u015fme olas\u0131l\u0131\u011f\u0131 daha d\u00fc\u015f\u00fck)"
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "Ba\u015fl\u0131\u011f\u0131 kabul et (kullan\u0131c\u0131n\u0131n taray\u0131c\u0131s\u0131n\u0131n kabul etti\u011fi i\u00e7erik t\u00fcrleri)"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "HTTP veya HTTPS olsun mevcut istek \u015femas\u0131"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "Sunucu ana bilgisayar ad\u0131 ($config->httpHost de\u011feri)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "Kullan\u0131c\u0131n\u0131n IP adresi (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "Kullan\u0131c\u0131n\u0131n iletilen veya istemci IP adresi (HTTP_X_FORWARDED_FOR or HTTP_CLIENT_IP)"
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "Bu \u00f6zelliklerden herhangi biri de\u011fi\u015fti\u011finde kullan\u0131c\u0131n\u0131n kod giri\u015fini atlamas\u0131na izin verme"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "Kullan\u0131c\u0131n\u0131n taray\u0131c\u0131s\u0131nda parola, ad, e-posta veya rastgele bir tan\u0131mlama bilgisi de\u011fi\u015fiklikleri, oturum a\u00e7ma s\u0131ras\u0131nda her zaman kod giri\u015fi gerektirir."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "Ek olarak, a\u015fa\u011f\u0131da i\u015faretli \u00f6\u011felerde yap\u0131lan de\u011fi\u015fiklikler, oturum a\u00e7ma s\u0131ras\u0131nda kod giri\u015fini de gerektirecektir."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "Bu \u00f6zellikler, belirledi\u011fimiz rastgele \u00e7erezin \u00f6tesinde, kullan\u0131c\u0131n\u0131n taray\u0131c\u0131s\u0131n\u0131n bir parmak izini olu\u015fturur."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "Bu ayar yaln\u0131zca taray\u0131c\u0131y\u0131\/konumu hat\u0131rlama se\u00e7ene\u011fi etkinle\u015ftirildi\u011finde ge\u00e7erlidir."
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "Giri\u015f yap"
+        },
+        "2eeb1b1520e3542ede796b6245e1695a": {
+            "text": "T\u00fcr"
+        },
+        "eb85010d3dccc246aa17a0a4671be4a4": {
+            "text": "Roller"
         }
     }
 }

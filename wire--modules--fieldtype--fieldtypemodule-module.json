@@ -17,12 +17,6 @@
         "bbddef2b960b6e14a0c9510c2312192e": {
             "text": "Se\u00e7enekler Etiketi"
         },
-        "0900a3f6adfa931e0130c02c436e7e7f": {
-            "text": "Mod\u00fcl S\u0131n\u0131f (Class) Ad\u0131"
-        },
-        "335fdfd0673e7e457d51384f686b00dc": {
-            "text": "Mod\u00fcl Ba\u015fl\u0131\u011f\u0131"
-        },
         "a749642e2afeea63aac9d550e51abf64": {
             "text": "Girdi Tipi (Input Type)"
         },
@@ -31,6 +25,36 @@
         },
         "d5a4c326398e96cdf97b6d4a3cc300c1": {
             "text": "Radyolar (Radio)"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Hi\u00e7biri"
+        },
+        "17ef61026679e3483b3aebd3e9a2502c": {
+            "text": "Mod\u00fcl e\u015fle\u015ftirme t\u00fcr\u00fc"
+        },
+        "716de874a0d74f25c0aa8c444c3a7539": {
+            "text": "\u00d6nek"
+        },
+        "e40489cd1e7102e35469c937e05c8bba": {
+            "text": "Miras"
+        },
+        "9a90458e160aa0a5d2615a97caec6854": {
+            "text": "\u00d6nek se\u00e7ene\u011fi, istedi\u011finiz mod\u00fclle e\u015fle\u015fmedi\u011fi s\u00fcrece daha iyi performans i\u00e7in \u00f6nerilir."
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Ad"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Ba\u015fl\u0131k"
+        },
+        "3d0e52e8f34a293de17317f094e676b6": {
+            "text": "Ba\u015fl\u0131k ve \u00f6zet"
+        },
+        "daf361912b4d4260a6a0c3dc31a60312": {
+            "text": "\"Hi\u00e7biri\" se\u00e7ene\u011fi g\u00f6sterilsin mi?"
+        },
+        "1177fb816ddc2935c2a8bc55d22b93b1": {
+            "text": "Bo\u015f de\u011fer t\u00fcr\u00fc"
         }
     }
 }

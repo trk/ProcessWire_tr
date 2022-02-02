@@ -11,9 +11,6 @@
         "180efa8a9b1cfee25988715f7d673dbc": {
             "text": "Se\u00e7enek A: \u00f6n-d\u00fczenleme d\u00fczenlenebilir alanlar"
         },
-        "97f5063cc7446aefa21ae4e7fb3cc146": {
-            "text": "Basit\u00e7e a\u015fa\u011f\u0131daki kutular\u0131 i\u015faretledi\u011finizde \u00f6n-sayfada direk sayfa i\u00e7inde bu yaz\u0131 tabanl\u0131 alanlar d\u00fczenlenebilir olacak."
-        },
         "78badcbc932189f3c876e9f2f55350cd": {
             "text": "(\u00f6nerilmez)"
         },
@@ -115,6 +112,9 @@
         },
         "88dad1b60aca7105bd5e7e185fa221ec": {
             "text": "Bi\u00e7imlendirilmi\u015f alan de\u011feri sayfadan ($page) al\u0131nd\u0131\u011f\u0131nda, onun i\u00e7in herhangi bir bi\u00e7imlendirme\/kod yazmadan d\u00fczenlenebilir olacak. Burada kullan\u0131c\u0131n\u0131n d\u00fczenleme izni oldu\u011fu varsay\u0131lm\u0131\u015ft\u0131r."
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Bu metin tabanl\u0131 alanlar, yaln\u0131zca a\u015fa\u011f\u0131daki kutular\u0131 i\u015faretleyerek do\u011frudan sayfada, \u00f6n u\u00e7ta d\u00fczenlenebilir hale gelecektir."
         }
     }
 }

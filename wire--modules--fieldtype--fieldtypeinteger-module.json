@@ -23,11 +23,11 @@
         "47ae95efefc63fa28854884d8c871228": {
             "text": "Ba\u015fka bir \u00f6rnek, Evet se\u00e7ene\u011fi ile  **field<1** her iki \u015fekilde e\u015fle\u015fecek de\u011fer 0 ve de\u011fer yoksa, ve Hay\u0131r se\u00e7ene\u011fi sadece 0 se\u00e7ene\u011fi ile e\u015fle\u015fecek."
         },
-        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
-            "text": "Yeni olu\u015fturulan sayfalar i\u00e7in bu de\u011fer alan i\u00e7in varsay\u0131lan olarak ayarlanm\u0131\u015fsa varolan sayfalar i\u00e7in etki etmeyecek."
-        },
         "b4e4ee05aeb0d5812f77886c29c4bb53": {
             "text": "E\u011fer e\u015fde\u011fer de\u011filseler (Hay\u0131r se\u00e7ene\u011fi) field=0 aramas\u0131 sadece de\u011feri 0 olan alanlar\u0131 i\u00e7erecek, ve field=\"\" sadece bo\u015f de\u011fer i\u00e7eren alanlar ile e\u015fle\u015fecek."
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Bu de\u011fer, de\u011fer girilmemi\u015f sayfalarda bu alan i\u00e7in varsay\u0131lan olarak atan\u0131r."
         }
     }
 }

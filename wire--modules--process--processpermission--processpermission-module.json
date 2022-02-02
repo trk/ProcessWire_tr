@@ -22,6 +22,15 @@
         },
         "baa866af125aefed417409d878f6d013": {
             "text": "\u0130ste\u011fe ba\u011fl\u0131 eklenen izin : %s"
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "Kuruldu\u011funda, kullan\u0131c\u0131n\u0131n a\u00e7\u0131klanan g\u00f6revi tamamlamak i\u00e7in bu izne sahip olmas\u0131 gerekir."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "Kurulmad\u0131\u011f\u0131nda, kullan\u0131c\u0131n\u0131n a\u00e7\u0131klanan kayna\u011fa zaten d\u00fczenleme eri\u015fimi varsa izin varsay\u0131l\u0131r."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "Sonu\u00e7 olarak, kurulursa, bu izin rollere atanana kadar mevcut eri\u015fimi kald\u0131rabilir."
         }
     }
 }

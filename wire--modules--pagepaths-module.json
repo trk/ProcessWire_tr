@@ -8,8 +8,26 @@
         "b198072961bf47ed9c790c1006f98372": {
             "text": "Yollar %d G\u00fcncellendi"
         },
-        "0e620fb070fcc5279681b61f5720fb6e": {
-            "text": "L\u00fctfen \u00c7ekirdek > PagePaths mod\u00fcl\u00fcn\u00fc kald\u0131r\u0131n (LanguageSupportPageNames ile uyumlu de\u011fil)"
+        "c78ef210c4712423d0b4d857718f9bed": {
+            "text": "Yeniden olu\u015fturma %d saniyede tamamland\u0131"
+        },
+        "197b94887c65d8aa396bb5080f7d66ff": {
+            "text": "%d sayfa i\u00e7in sayfa yollar\u0131 dizinini yeniden olu\u015ftur"
+        },
+        "2eac6090faeb03e3bc9dab9323642864": {
+            "text": "\u015eimdi yeniden olu\u015ftur"
+        },
+        "db40fb4d30b0f723a429818f05983c74": {
+            "text": "Tahmini yeniden olu\u015fturma s\u00fcresi 1000 sayfa ba\u015f\u0131na 5 saniyeye kadard\u0131r."
+        },
+        "c46d2f416d22eb335a7f85725b516a6d": {
+            "text": "\u0130\u015flenecek %d sayfa var."
+        },
+        "059ede5738edbc41d9d2037e1785f3a9": {
+            "text": "\u015eu anda bu mod\u00fcl taraf\u0131ndan depolanan %d sat\u0131r var (yol yollar\u0131 ve yol yollar\u0131n\u0131n s\u00fcr\u00fcmleri)."
+        },
+        "fff87d4b1b8c614ab3389cb892a53361": {
+            "text": "Sayfa yollar\u0131 dizininizi olu\u015fturmak i\u00e7in l\u00fctfen \"\u015fimdi yeniden olu\u015ftur\" se\u00e7ene\u011fini se\u00e7in."
         }
     }
 }

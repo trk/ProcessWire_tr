@@ -92,9 +92,6 @@
         "5e1daea70649e788db6ead8cd50f791d": {
             "text": "\"%2$s\" alan\u0131nda yay\u0131nda olmayan %1$s sayfaya izin verilmiyor"
         },
-        "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "Yay\u0131nda olmayan sayfalara izin vermek i\u00e7in, \"%s\" alan\u0131n\u0131 d\u00fczenleyin ve \"Geli\u015fmi\u015f\" tab\u0131ndaki ayara bak\u0131n\u0131z."
-        },
         "309980b76124ca15c19a948edcd2b820": {
             "text": "Se\u00e7ilebilir sayfalar"
         },
@@ -190,6 +187,9 @@
         },
         "23aec26e2b521c0e5f1061b3d04983a5": {
             "text": "s\u0131n\u0131fland\u0131r\u0131labilir"
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Yay\u0131nlanmam\u0131\u015f sayfalara izin vermek i\u00e7in \u201c%s\u201d alan\u0131n\u0131 d\u00fczenleyin ve \u201cAyr\u0131nt\u0131lar\u201d sekmesindeki ayara bak\u0131n."
         }
     }
 }

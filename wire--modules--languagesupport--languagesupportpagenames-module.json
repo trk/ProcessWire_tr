@@ -25,6 +25,27 @@
         },
         "68d765216e3092d42524f9f6f14ce93c": {
             "text": "Bu dil i\u00e7in sayfalanm\u0131\u015f URL lere sayfa numaras\u0131 bu kelimenin sonuna eklenecek. Atlan\u0131rsa, \"% s\" kullan\u0131lacakt\u0131r."
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Bir karde\u015f sayfa (id=%1$d) zaten dil i\u00e7in \"%2$s\" ad\u0131n\u0131 kullan\u0131yor: %3$s"
+        },
+        "47a71e39bf348953dfdfb22317c3e29c": {
+            "text": "Sayfa istenen dilde mevcut olmad\u0131\u011f\u0131nda (ancak varsay\u0131lan dilde mevcut oldu\u011funda) davran\u0131\u015f"
+        },
+        "fdee766baf806159afbcd542efbe9b3d": {
+            "text": "Bu ayar, sayfa kullan\u0131c\u0131 taraf\u0131ndan d\u00fczenlenebilirse ge\u00e7erli de\u011fildir, \u00e7\u00fcnk\u00fc sayfa her zaman \u00f6nizleme amac\u0131yla kullan\u0131labilir olacakt\u0131r."
+        },
+        "34529e0f7f3dd583b0aed3b8a46bff6e": {
+            "text": "404 (sayfa bulunamad\u0131) hatas\u0131 - varsay\u0131lan davran\u0131\u015f"
+        },
+        "395c201c2729d5c7c5e9c1c6cbc2889b": {
+            "text": "Yine de dil i\u00e7in olu\u015fturulmas\u0131na izin verin (do\u011frudan URL ile eri\u015filiyorsa)"
+        },
+        "ac7c3f2fbc9e8f4fa1d719d6319ee58b": {
+            "text": "Sayfaya varsay\u0131lan dilde 301 (kal\u0131c\u0131) y\u00f6nlendirme ger\u00e7ekle\u015ftirin"
+        },
+        "483bb77bebead8ed45f75192b8ea3d78": {
+            "text": "Varsay\u0131lan dilde sayfaya 302 (ge\u00e7ici) y\u00f6nlendirme ger\u00e7ekle\u015ftirin"
         }
     }
 }

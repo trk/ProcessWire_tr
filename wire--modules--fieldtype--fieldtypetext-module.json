@@ -2,14 +2,35 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeText.module",
     "textdomain": "wire--modules--fieldtype--fieldtypetext-module",
     "translations": {
-        "82829c5912f395b029a87c565359835c": {
-            "text": "Metin Bi\u00e7imlendiriciler (Text Formatters)"
-        },
-        "965a2e6ce23bd9e9ca5122fb9862be60": {
-            "text": "E\u011fer alan \u00e7\u0131kt\u0131 i\u00e7in haz\u0131land\u0131\u011f\u0131nda alan i\u00e7in herbangi bir otomatik formatlama uygulamak istiyorsan\u0131z, yukar\u0131dan bir yada daha fazla metin bi\u00e7imlendirici se\u00e7in. E\u011fer birden fazla se\u00e7ecekseniz, uygulanma d\u00fczenine g\u00f6re ta\u015f\u0131y\u0131p s\u0131ralay\u0131n."
-        },
         "ed0f8be4615cf14dc76c1bb2629edf41": {
             "text": "D\u00fcz metin alanlar\u0131 i\u00e7in HTML yada bi\u00e7imlendirme i\u00e7ermiyorsa, yukar\u0131dan **HTML Entity Encoder** se\u00e7ene\u011fini se\u00e7menizi tavsiye ediyoruz."
+        },
+        "d8519baaabde7d5b04b001afff86b1c9": {
+            "text": "Metin ayarlar\u0131"
+        },
+        "41d534244071f567ec8887353f125f86": {
+            "text": "Metin bi\u00e7imlendiriciler"
+        },
+        "9bf6e7e02fcf9320c882455021560f5b": {
+            "text": "Alan \u00e7\u0131kt\u0131ya haz\u0131r oldu\u011funda herhangi bir otomatik bi\u00e7imlendirme uygulamak istiyorsan\u0131z, buradan bir veya daha fazla metin bi\u00e7imlendirici se\u00e7in."
+        },
+        "8b77c2ae8c7851a0bbc6c4a7914815c2": {
+            "text": "Birden fazla se\u00e7erseniz, uygulanmalar\u0131 gereken s\u0131raya s\u00fcr\u00fckleyin."
+        },
+        "7c09c7fa6cd2ade15be9247528c4d4e9": {
+            "text": "Daha fazlas\u0131n\u0131 [metin bi\u00e7imlendirici mod\u00fclleri dizininde](%s) bulun."
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Varsay\u0131lan"
+        },
+        "8642da31c9c6a7ef78514cac2276dac9": {
+            "text": "Girdi mod\u00fcl\u00fc"
+        },
+        "9f66b905cac6adfee97389b0d11b2db2": {
+            "text": "\u201cGirdi\u201d sekmesinde hangi ayarlar\u0131n mevcut oldu\u011funu etkileyebilece\u011finden, bunu de\u011fi\u015ftirdikten sonra kaydedin."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Metin"
         }
     }
 }

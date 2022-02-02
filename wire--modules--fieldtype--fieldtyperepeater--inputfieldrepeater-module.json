@@ -41,14 +41,56 @@
         "485c9b5a61ede20a8ccc332f120da1f9": {
             "text": "\u00d6\u011feleri kapamak\/a\u00e7mak i\u00e7in t\u0131klay\u0131n, yada t\u00fcm \u00f6\u011feleri kapay\u0131p\/a\u00e7mak i\u00e7in iki-kere-t\u0131klay\u0131n"
         },
-        "60f5703a75c6e7fa21be4247f0626dfb": {
-            "text": "Bu \u00f6\u011feyi klonla?"
-        },
         "b5fab487adaf66b676d31b8fd16af85b": {
             "text": "T\u00fcm \u00f6\u011feleri a\u00e7?"
         },
         "d7280b1cbbae6481f050a9184b8fa445": {
             "text": "T\u00fcm \u00f6\u011feleri kapat?"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Yap\u0131\u015ft\u0131r"
+        },
+        "be3fb8f18ddcd8f47b92e020f1474b1b": {
+            "text": "\u201c%s\u201d \u00f6\u011fesindeki hatalar %d"
+        },
+        "b08aa2661c47b855f0d19241bbcd533d": {
+            "text": "Klonla\/kopyala\/yap\u0131\u015ft\u0131r i\u015flemleri"
+        },
+        "2ca001ee3992ee08c53099d65cbde4eb": {
+            "text": "Ayarlar\u0131 g\u00f6ster?"
+        },
+        "28deaa9cdfe4f45e2a939dc59571818f": {
+            "text": "Yeni \u00f6\u011feyi bundan \u00f6nce ekle"
+        },
+        "393953d8fb0ef2812c824d0289a6374f": {
+            "text": "Bundan sonra yeni \u00f6\u011fe ekle"
+        },
+        "202f13dbe40c7bc01cc962912fdd9947": {
+            "text": "Buraya yeni \u00f6\u011fe ekle"
+        },
+        "2020359603b0f865a5403d499d17cd63": {
+            "text": "Bu \u00f6\u011fe i\u00e7in bir i\u015flem se\u00e7in"
+        },
+        "12f7a820373a9eaf83b664efcd81cf5b": {
+            "text": "Ba\u015fka bir yere yap\u0131\u015ft\u0131rmak i\u00e7in bu \u00f6\u011feyi belle\u011fe KOPYALA"
+        },
+        "f56fa1882f668e5cd2b2eedcc372a4cc": {
+            "text": "Kopyala\/yap\u0131\u015ft\u0131r belle\u011findeki \u00f6\u011fe"
+        },
+        "1be669e51975cbb293eb0f681a8231f2": {
+            "text": "Bu \u00f6\u011feyi KLONLA ve bunun \u00dcZER\u0130NE ekle"
+        },
+        "e99d82e0ea1ce2a652c0f37bd32535dc": {
+            "text": "Bu \u00f6\u011feyi KLONLA ve A\u015eA\u011eIYA ekle"
+        },
+        "644415464da017bcc4ee5387c90f98b6": {
+            "text": "Kopyalanan \u00f6\u011feyi bunun \u00dcZER\u0130NE YAPI\u015eTIR"
+        },
+        "36e5afb31c8d93603a1f4a38ae05c342": {
+            "text": "Kopyalanan \u00f6\u011feyi bunun ALTINA YAPI\u015eTIR"
+        },
+        "b374d8e1bbf5987f273d3e5c49b1086b": {
+            "text": "Kopyala\/yap\u0131\u015ft\u0131r belle\u011fi TEM\u0130ZLE"
         }
     }
 }

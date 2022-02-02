@@ -14,14 +14,8 @@
         "ff498dcc16878847ee1d01c38a0138f3": {
             "text": "(DENEYSEL)"
         },
-        "6f8d1b93e4aad53511c85e29ed36b3d0": {
-            "text": "(varsay\u0131lan)"
-        },
         "1a79a4d60de6718e8e5b326e338ae533": {
             "text": "+"
-        },
-        "2d7e18586d2265fc63934ad26902effb": {
-            "text": "Masthead ve navigasyon"
         },
         "5580ceafc3f05d1b31e318f00e2d187c": {
             "text": "Kullan\u0131c\u0131 avatar\u0131"
@@ -41,12 +35,6 @@
         "2ff62c17135d9704b59a98881cffa793": {
             "text": "Simge: %s"
         },
-        "ebd9bec4d70abc789d439c1f136b0538": {
-            "text": "D\u00fczen"
-        },
-        "1688f46c79b3285c9de79d60d63d32d0": {
-            "text": "Aray\u00fcz t\u00fcr\u00fc"
-        },
         "3c8286b98b6dfd2248df2a3d70cb8fc4": {
             "text": "(sol)"
         },
@@ -55,9 +43,6 @@
         },
         "029ec5ac76207f4e7627a0e3ffbdb15b": {
             "text": "Maksimum d\u00fczen geni\u015fli\u011fi"
-        },
-        "c20f63b379f6b02a18439890f5ce535b": {
-            "text": "Yaln\u0131zca geleneksel aray\u00fcz i\u00e7in ge\u00e7erlidir."
         },
         "37243206806c555c2dbce190b1f49f37": {
             "text": "Bildirim sitili"
@@ -71,9 +56,6 @@
         "9d2e228039bb6eef2e6cbaff5c904b56": {
             "text": "Herzaman hepsini g\u00f6ster"
         },
-        "81e3da80ad979591250cca7feb39720b": {
-            "text": "\u00d6zel dosyalar"
-        },
         "6059a6e9b311f4cb4afd60c154f0bef5": {
             "text": "Ana CSS dosyas\u0131"
         },
@@ -85,9 +67,6 @@
         },
         "35c45261e46b5a1400aef3ecbf237879": {
             "text": "Dosya en az \u00f6l\u00e7\u00fcleri 100px boyutunda, transparan arkaplan PNG, GIF, JPG yada SVG olmal\u0131d\u0131r."
-        },
-        "6c6a6ca96d96fc13c06abbf98f38668f": {
-            "text": "Form g\u00f6r\u00fcn\u00fcrl\u00fck ayarlar\u0131"
         },
         "21909eb7e7cbb04d9c804458848a7af3": {
             "text": "Bu ayarlar, y\u00f6neticideki t\u00fcm form alanlar\u0131n\u0131 etkiler."
@@ -112,9 +91,6 @@
         },
         "949bcbdc5822582126d426c6f82f4fa4": {
             "text": "Bu alan, kart stiline bir \u00f6rnektir."
-        },
-        "391889c9ed085249fe76c0beb25ad304": {
-            "text": "\u0130lave bir \u00fcst \/ alt kenar bo\u015flu\u011fu ile dengelenmesi gereken giri\u015f tipleri."
         },
         "0d638e3ac46bc8f0cf58d60281ff4ebc": {
             "text": "\u00d6rnek olarak, bu alan k\u00fcmesindeki alanlar bu se\u00e7ene\u011fi kullan\u0131yor."

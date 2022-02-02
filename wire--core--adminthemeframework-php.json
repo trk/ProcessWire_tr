@@ -25,6 +25,18 @@
         },
         "9d228734f81e102a94540a1508e69d1d": {
             "text": "="
+        },
+        "bb387a29dee8d495ac6a7870d5e10442": {
+            "text": "Rol: %s"
+        },
+        "5d245d16dae6579f37c78f49f078b36a": {
+            "text": "Kullan\u0131c\u0131lar\u0131 bu y\u00f6netici temas\u0131yla de\u011fi\u015ftirin"
+        },
+        "5b5cb08a3f289568f6d628e8f4858906": {
+            "text": "E\u015fle\u015fen kullan\u0131c\u0131lar\u0131 bu y\u00f6netici temas\u0131na g\u00fcncellemek i\u00e7in kullan\u0131c\u0131 rol\u00fcn\u00fc se\u00e7in."
+        },
+        "f590c9f5400a3be977d2027832a99e02": {
+            "text": "%d kullan\u0131c\u0131y\u0131 bu y\u00f6netici temas\u0131na sahip olacak \u015fekilde ayarla"
         }
     }
 }

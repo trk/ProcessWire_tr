@@ -14,9 +14,6 @@
         "7d5f7f76b51ac880e91da28dbc52df35": {
             "text": "Yay\u0131nda olmayan sayfalara izin ver?"
         },
-        "58b4f6dae2009a3d22a395a94de85360": {
-            "text": "\u0130\u015faretliyse, yay\u0131nda olmayan sayfalar\u0131n alan de\u011ferinde kullan\u0131lmalar\u0131na izin verilecek. D\u00fczenleme yetkisi olmayan kullan\u0131c\u0131lar d\u0131\u015f\u0131nda, yay\u0131nda olmayan sayfalar \u00f6n-sayfa da g\u00f6r\u00fcnt\u00fclenmeyecek."
-        },
         "2d6565614947b2a6daba1a06515124da": {
             "text": "Yetim kalm\u0131\u015f sayfa referanslar\u0131n\u0131 bul ve temizle"
         },
@@ -52,6 +49,12 @@
         },
         "0a7cd2620545065d49a8ca58f5fc0b28": {
             "text": "%s metod hakk\u0131nda daha fazlas\u0131."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "\u015eablon"
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "\u0130\u015faretlendi\u011finde, yay\u0131nlanmam\u0131\u015f sayfalar giri\u015f i\u00e7in se\u00e7ilebilir ve *bi\u00e7imlendirilmemi\u015f* alan de\u011ferinde izin verilir. Her iki \u015fekilde de *bi\u00e7imlendirilmi\u015f* alan de\u011ferinden hari\u00e7 tutulurlar."
         }
     }
 }

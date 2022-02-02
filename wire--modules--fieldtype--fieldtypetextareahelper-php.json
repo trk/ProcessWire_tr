@@ -89,12 +89,6 @@
         "d4705c271d7e1e75a05e9b6236ad836c": {
             "text": "(%s kayd\u0131na bak\u0131n)"
         },
-        "91032d1254768e880dbbeede54e35a79": {
-            "text": "%d lokal a[href] etiketleri', 'link-type"
-        },
-        "5fcef18456ba78863a5a57e162279d2d": {
-            "text": "%d local img[src] etiketleri', 'link-type"
-        },
         "d53200ec5949152baffbeed6c4d58966": {
             "text": "HTML se\u00e7enekleri i\u00e7in %1$d \/ %2$d sayfalar\u0131 g\u00fcncellendi."
         },
@@ -133,6 +127,12 @@
         },
         "84a543e559f6e8ae86ba9ca203f6c57f": {
             "text": "%d lokal a[href] non-page\/tan\u0131nmam\u0131\u015f etiketler"
+        },
+        "211db397a32350b16b977f65a9acada6": {
+            "text": "%d yerel a[href] etiketi"
+        },
+        "9a2c2c21237a6938a98824b3993a9623": {
+            "text": "%d yerel img[src] etiketi"
         }
     }
 }

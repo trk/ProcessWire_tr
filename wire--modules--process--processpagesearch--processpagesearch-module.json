@@ -38,68 +38,17 @@
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "d\u00fczenle"
         },
-        "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "E\u015fittir"
-        },
-        "3255c386f4276b5c66f12d216ec71906": {
-            "text": "E\u015fit de\u011fil"
-        },
-        "05824b7be006782aaefd1fdb97c71e06": {
-            "text": "B\u00fcy\u00fckt\u00fcr"
-        },
-        "798fe01fcb2754a295b6937ed885a69a": {
-            "text": "B\u00fcy\u00fck yada E\u015fittir"
-        },
-        "ad647e4ae904c7ed54ee93040d8298c7": {
-            "text": "K\u00fc\u00e7\u00fckt\u00fcr"
-        },
-        "28d1141142e2cbb29e657b69a044ddf4": {
-            "text": "K\u00fc\u00e7\u00fckt\u00fcr yada e\u015fittir"
-        },
-        "45fc43a01c15bc63159695441dfacd63": {
-            "text": "\u0130fade yada kelime i\u00e7eriyor"
-        },
-        "e44edbd140708c448e991cde9d8dc0b2": {
-            "text": "Benzer ifade\/kelime i\u00e7eriyor"
-        },
-        "593e63d42f95f6ad96cf700f80c2fe2c": {
-            "text": "T\u00fcm kelimeyi i\u00e7eriyor"
-        },
-        "d60c090c3c99aaae5f57da3eb85fe008": {
-            "text": "Varsay\u0131lan arama alanlar\u0131"
-        },
-        "bfe2201d3b973b0d8c3c5b0ea08e1736": {
-            "text": "Aramak istedi\u011finiz bir yada birden fazla yaz\u0131-tabanl\u0131 alan ad\u0131 girin, herbiri bo\u015fluk ile ayr\u0131lan."
-        },
-        "6278e5dbbd21048091f612f55185257e": {
-            "text": "(Ajax) modunda y\u00f6netici aramas\u0131 alanlar\u0131"
-        },
-        "cc10d38a176ad7cde1228d2e22f1122b": {
-            "text": "Bir yada iki alanla limitlemenizi tavsiye ediyoruz, \u00e7o\u011fu sonu\u00e7 otomatik tamamlamay\u0131 dolduruyor. Tipik olarak bir ba\u015fl\u0131k arayabilirsiniz."
-        },
         "2d29cf36f3ebbd5bab570d70070e5102": {
             "text": "Arama sonu\u00e7lar\u0131nda g\u00f6r\u00fcnt\u00fclenecek varsay\u0131lan alan adlar\u0131"
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
             "text": "E\u011fer birden fazla alan i\u00e7eriyorsa, herbirini bo\u015fluk ile ay\u0131r\u0131n."
         },
-        "51e1d489ac4198969f8daf52b7cdfaf6": {
-            "text": "Varsay\u0131lan arama operat\u00f6r\u00fc"
-        },
         "4ecb0055aa1e66535afeaf6093585618": {
             "text": "Ara"
         },
         "d27c07f4c0dd15e39cedd91c19cb279f": {
             "text": "Ara"
-        },
-        "c488b358fae501da3848f9faeb83dd35": {
-            "text": "Alanlar"
-        },
-        "736f3e2669c68c02be0fb19d1e70622f": {
-            "text": "\u015eablonlar"
-        },
-        "c26ba1dd54d52630a0aedf779e5926af": {
-            "text": "Mod\u00fcller"
         },
         "8aa55d906b86496efeb66b0eae7d75ce": {
             "text": "Sayfalar"
@@ -112,6 +61,63 @@
         },
         "dc87414810d43e27f63b89feabadc943": {
             "text": "Bulunan %1$d sayfa, kullanan se\u00e7ici: %2$s"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Y\u00f6netici canl\u0131 arama"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Arama s\u0131ras\u0131"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Bunlar, bir y\u00f6netici canl\u0131 aramas\u0131 s\u0131ras\u0131nda ger\u00e7ekle\u015ftirilecek arama t\u00fcrleridir."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Bunlar\u0131, arama sonu\u00e7lar\u0131n\u0131n listelenmesini istedi\u011finiz s\u0131raya s\u00fcr\u00fckleyin."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(hari\u00e7)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Arama t\u00fcrlerini hari\u00e7 tut"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Canl\u0131 aramadan hari\u00e7 tutmak istedi\u011finiz arama t\u00fcrlerini se\u00e7in. Bunlar, genellikle araman\u0131z gerekmeyen t\u00fcrler olabilir."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "Ne kadar \u00e7ok t\u00fcr hari\u00e7 tutulursa, canl\u0131 arama o kadar h\u0131zl\u0131 ger\u00e7ekle\u015fir."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Aramada \u00f6zellikle istenirse, se\u00e7ilen herhangi bir t\u00fcr yine de aranabilir."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "\u00d6rne\u011fin, \"\u00e7\u00f6p kutusu\" t\u00fcr\u00fcn\u00fc hari\u00e7 tuttuysan\u0131z, araman\u0131z\u0131n \u00f6n\u00fcne \"trash=merhaba\" gibi \"trash=\" eklediyseniz, yine de aranabilir."
+        },
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(sayfa t\u00fcr\u00fc ayarlar\u0131)"
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Aranacak sayfa alanlar\u0131"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Bu, yaln\u0131zca \"sayfalardan\" ve \"\u00e7\u00f6p kutusundan\" gelen arama sonu\u00e7lar\u0131 i\u00e7in ge\u00e7erlidir."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Canl\u0131 araman\u0131n h\u0131zl\u0131 olmas\u0131n\u0131 sa\u011flamak i\u00e7in bunu en fazla 1 veya 2 alanla s\u0131n\u0131rlaman\u0131z\u0131 \u00f6neririz. Genellikle sadece \"title\" alan\u0131n\u0131 arars\u0131n\u0131z."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Kullan\u0131c\u0131 arama kutusuna \"enter\" tu\u015funa basarsa aranacak sayfa alanlar\u0131"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Tipik olarak bu, yukar\u0131dakiyle ayn\u0131 olur, ancak ek alan(lar) eklemek de isteyebilirsiniz."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "\u00d6rne\u011fin, sadece \"title\" alan\u0131n\u0131 aramak yerine, \"body\" alan\u0131n\u0131 da aramak isteyebilirsiniz."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Tek ve k\u0131smi kelime aramalar\u0131 i\u00e7in varsay\u0131lan arama operat\u00f6r\u00fc"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "\u00c7ok kelimeli (t\u00fcmcecik) aramalar i\u00e7in varsay\u0131lan arama operat\u00f6r\u00fc"
         }
     }
 }

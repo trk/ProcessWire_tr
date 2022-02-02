@@ -19,6 +19,15 @@
         },
         "905d286d5f512b563448eedeb744206d": {
             "text": "\u0130\u015flem i\u00e7erik d\u00f6nd\u00fcrmedi."
+        },
+        "3d6623b8d5249788a0d797d4bbc5e5a1": {
+            "text": "Eylem gerekli"
+        },
+        "cfdf33cbd93768327b807066fb473750": {
+            "text": "\u0130ki fakt\u00f6rl\u00fc kimlik do\u011frulamay\u0131 etkinle\u015ftir"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "PHP'nin \u201cmax_input_vars\u201d ayar\u0131na %d ula\u015ft\u0131n \u2014 l\u00fctfen artt\u0131r\u0131n."
         }
     }
 }

@@ -2,12 +2,6 @@
     "file": "wire\/modules\/Inputfield\/InputfieldInteger.module",
     "textdomain": "wire--modules--inputfield--inputfieldinteger-module",
     "translations": {
-        "342fcaf76020389954d449ceec0a8a80": {
-            "text": "Min.: %d"
-        },
-        "96f5f93890f61d6ff4c07e2883833d72": {
-            "text": "Maks.: %d"
-        },
         "ddf1608e4f7def4fd584f806267255d4": {
             "text": "Numara Girdi Tipi (Input Type)"
         },

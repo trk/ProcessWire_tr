@@ -7,6 +7,12 @@
         },
         "7de752758d9c197324e94fd4a993f9d2": {
             "text": "Hassas noktal\u0131 say\u0131lar"
+        },
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "Yuvarlanacak ondal\u0131k basamak say\u0131s\u0131"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Veya yuvarlamay\u0131 devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in `-1` gibi negatif bir say\u0131 kullan\u0131n."
         }
     }
 }

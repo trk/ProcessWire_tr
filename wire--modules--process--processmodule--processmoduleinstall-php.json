@@ -41,9 +41,6 @@
         "e7df9a3e1460bdfcaabe5b2e451a6594": {
             "text": "Y\u00fckleme bulunamad\u0131"
         },
-        "c8e5b4f1bb72c62949a522f6925e80c8": {
-            "text": "\u0130ndirme tamamlanam\u0131yor"
-        },
         "a4e29333ef852fef776eecdb5b3ac6a1": {
             "text": "Bilinmeyen indirme URL si belirlendi"
         },
@@ -52,6 +49,36 @@
         },
         "04abd66e622f247f079329fcbc51b97c": {
             "text": "L\u00fctfen not %s sembolik bir ba\u011flant\u0131d\u0131r ve d\u00fczenli bir dizine d\u00f6n\u00fc\u015ft\u00fcr\u00fclm\u00fc\u015ft\u00fcr"
+        },
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Mod\u00fcl y\u00fckleme se\u00e7ene\u011fi \u201c%s\u201d"
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "\u00c7\u0131kar\u0131ld\u0131: %s"
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "her zaman etkinle\u015ftirmek i\u00e7in"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "ge\u00e7ici"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "yaln\u0131zca hata ay\u0131klama modunda etkinle\u015ftirmek i\u00e7in"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Etkinle\u015ftirmek i\u00e7in %1$s dosyas\u0131n\u0131 d\u00fczenleyin ve \u015funu belirtin: %2$s \u2026veya\u2026 %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Bu y\u00fckleme se\u00e7ene\u011fi yaln\u0131zca hata ay\u0131klama modunda kullan\u0131labilecek \u015fekilde yap\u0131land\u0131r\u0131lm\u0131\u015ft\u0131r."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Bu y\u00fckleme se\u00e7ene\u011fi \u015fu anda devre d\u0131\u015f\u0131."
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "%d dosya ay\u0131kland\u0131"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "%d dosya ay\u0131kland\u0131"
         }
     }
 }

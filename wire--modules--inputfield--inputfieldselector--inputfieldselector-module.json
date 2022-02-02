@@ -11,39 +11,6 @@
         "dab4b1ae6ff4f4a6b0ae4a2ce2601794": {
             "text": "dd-mm-YY"
         },
-        "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "E\u015fittir"
-        },
-        "fb83c9b66919b4a757a43a807b6af2cf": {
-            "text": "E\u015fit De\u011fil"
-        },
-        "7288454fa442d48bc741c5cbadc2621b": {
-            "text": "B\u00fcy\u00fckt\u00fcr"
-        },
-        "45ed1ce04bcf6003d4702422e1221c85": {
-            "text": "K\u00fc\u00e7\u00fckt\u00fcr"
-        },
-        "948f7ffb9d1e26622df83711e20e2fb2": {
-            "text": "B\u00fcy\u00fckt\u00fcr yada E\u015fittir"
-        },
-        "189ce8ec24447eef9869d18043c9e303": {
-            "text": "K\u00fc\u00e7\u00fckt\u00fcr yada E\u015fittir"
-        },
-        "7842f2dabc6c53dca4319818c88ebeb9": {
-            "text": "Yaz\u0131 \u0130\u00e7eriyor"
-        },
-        "8354008c16032b35e36589957a3bd65f": {
-            "text": "\u0130fade \u0130\u00e7eriyor"
-        },
-        "7df149c48f0508977c06be79341a40ed": {
-            "text": "\u0130fade \u0130\u00e7eriyor"
-        },
-        "062e49c0f9af31da4f7314124191d9ef": {
-            "text": "\u0130le Ba\u015fl\u0131yor"
-        },
-        "3ad33d3cec01f7125e3cd0575cada7ef": {
-            "text": "\u0130le Bitiyor"
-        },
         "1bb628612045d3d012de22cb249f83fc": {
             "text": "G\u00f6re Artan"
         },
@@ -227,23 +194,14 @@
         "eae4975b49e9af4e0b024b1c44c7fe4f": {
             "text": "Inputfield i\u015flevselli\u011fini her ihtimale kar\u015f\u0131 burada denemenizi sa\u011flar."
         },
-        "f9b4bd2025de32122aca0de287601aa0": {
-            "text": "Metin \u0130\u00e7ermiyor"
-        },
-        "c792d413c780e14f2ab0cd586af2940a": {
-            "text": "\u0130fade \u0130\u00e7ermiyor"
-        },
-        "f97418feca88d6e3a1747a59883b35fe": {
-            "text": "Kelime \u0130\u00e7ermiyor"
-        },
-        "256511287ee7ec2a36613f761a24370c": {
-            "text": "\u0130le Ba\u015flam\u0131yor"
-        },
-        "70e54ebce37af51191725a9b2451e1b0": {
-            "text": "\u0130le Bitmiyor"
-        },
         "2627637e263ef687fa978b576580b8b1": {
             "text": "\u0130\u015faretli"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "De\u011fer"
+        },
+        "f89b7999f24e670f71368f38ac517530": {
+            "text": "="
         }
     }
 }

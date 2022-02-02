@@ -14,9 +14,6 @@
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "Sayfa ba\u011flant\u0131lar\u0131 i\u00e7in URL Tipleri"
         },
-        "6b02648ef824ca0a58b9a40518ff1152": {
-            "text": "Mutlak (varsay\u0131lan)"
-        },
         "2c8a0fad581fd58be051633bfdaa53d0": {
             "text": "Sadece ayn\u0131 dallara ba\u011fl\u0131 URL ler"
         },
@@ -118,6 +115,12 @@
         },
         "eba991d56b1be0b940d722211bab87bc": {
             "text": "="
+        },
+        "63a11faa3a692d4e00fa8e03bbe8a0d6": {
+            "text": "Ba\u011flant\u0131 metni"
+        },
+        "9d622cf09c8c619959d7e4712908b73a": {
+            "text": "K\u00f6kten tam\/mutlak yol (varsay\u0131lan)"
         }
     }
 }

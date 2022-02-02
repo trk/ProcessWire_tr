@@ -7,6 +7,21 @@
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
             "text": "\"%s\" Alan\u0131 kaydederken hata"
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "\u201c%s\u201d \u015fablonunu kullanan sayfa ta\u015f\u0131nabilir de\u011fil."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "\u201c%2$s\u201d \u015fablonunu kullanan se\u00e7ilen ebeveyn \u201c%1$s\u201d alt sayfalara izin vermiyor."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Se\u00e7ilen ebeveyn \u201c%1$s\u201d zaten \u201c%2$s\u201d isminde bir sayfaya sahip"
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "\u201c%1$s\u201d ta\u015f\u0131nam\u0131yor \u00e7\u00fcnk\u00fc \u201c%3$s\u201d sayfas\u0131 taraf\u0131ndan kullan\u0131lan \u201c%2$s\u201d \u015fablonu, alt sayfalar\u0131n \u201c%4$s\u201d \u015fablonunu kullanmas\u0131na izin vermiyor."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "Yeni \u00fcst \u00f6\u011fe \u201c%3$s\u201d taraf\u0131ndan kullan\u0131lan \u201c%2$s\u201d \u015fablonuna \u201c%4$s\u201d ta\u015f\u0131nan sayfa \u015fablonu taraf\u0131ndan izin verilmedi\u011finden \u201c%1$s\u201d ta\u015f\u0131nam\u0131yor."
         }
     }
 }

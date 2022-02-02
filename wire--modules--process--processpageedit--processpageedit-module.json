@@ -131,9 +131,6 @@
         "ea1a60a080fc428d2c18d9e6d33ded08": {
             "text": "E\u011fer belirlenmi\u015f bir alan taraf\u0131ndan \u015fuanki ve gelecekteki alt sayfalar\u0131 s\u0131ralamak istiyorsan\u0131z, alan\u0131 se\u00e7in ve iste\u011fe ba\u011fl\u0131 olarak 'tersine' kutusunu i\u015faretleyerek s\u0131ralamay\u0131 azalt\u0131n. E\u011fer kendiniz ta\u015f\u0131-ve-b\u0131rak y\u00f6ntemiyle s\u0131ralamak istiyorsan\u0131z s\u0131ralama alan\u0131n\u0131 bo\u015f b\u0131rak\u0131n."
         },
-        "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "Bu sayfan\u0131n \u015fablonuna eri\u015fim engellendi: %s"
-        },
         "17f8097b4af11ef352554fc7dd416c34": {
             "text": "\u015eablona '%s' izin verilmiyor"
         },
@@ -250,6 +247,144 @@
         },
         "109f29a4bda4c9b4a00ffd5452fe9515": {
             "text": "Emin misiniz? Bir y\u00fckleme \u015fu anda i\u015fleniyor ve devam ederseniz kaybedilebilir bu y\u00fcklemeyi kaybedebilirsiniz."
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Bu sayfada bir veya daha fazla eksik alan olabilir (daha fazla bilgi i\u00e7in kaydetmeyi veya yay\u0131nlamay\u0131 deneyin)"
+        },
+        "16e420c38c1ef8f3708d849146207b74": {
+            "text": "Olu\u015fturan kullan\u0131c\u0131n\u0131n ID'sini girin"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Bu sayfaya hangi sayfalar ba\u011flant\u0131 veriyor?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Listelenebilir de\u011fil"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Sayfa alanlar\u0131nda veya href ba\u011flant\u0131lar\u0131nda bu sayfaya ba\u011flant\u0131 veren %d sayfa bulundu."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(sayfa alan\u0131nda)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(href ba\u011flant\u0131lar\u0131nda)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d ek sayfa g\u00f6sterilmiyor."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Sayfa alanlar\u0131nda veya href ba\u011flant\u0131lar\u0131nda buna i\u015faret eden ba\u015fka bir sayfa bulunamad\u0131."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Ba\u015fka hangi URL'ler bu sayfaya y\u00f6nlendiriyor?"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "\/sizin\/%s\/url\/"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(%s i\u00e7in)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Y\u00f6nlendirme eklendi: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Ba\u015fka bir yolla \u00e7ak\u0131\u015f\u0131yor gibi g\u00f6r\u00fcnd\u00fc\u011f\u00fc i\u00e7in %s y\u00f6nlendirmesi eklenemiyor"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Geri y\u00fckle"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "\u00c7\u00f6p kutusundan \u00e7\u0131kar\u0131n ve orijinal konumuna geri y\u00fckleyin"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Bu sayfay\u0131 geri y\u00fcklemek istedi\u011finizi onaylamak i\u00e7in kutuyu i\u015faretleyin."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "Sayfa geri y\u00fcklenecek: **%s**."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Orijinal ad, benzersiz olmas\u0131 i\u00e7in **%1$s**'den **%2$s**'ye ayarlanacak."
+        },
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "Eri\u015fim bu sayfan\u0131n \u015fablonuyla tan\u0131mlan\u0131r: %s"
+        },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Sayfan\u0131n bir \u015fablon dosyas\u0131 varsa (\u015fu anda yok) URL'sine g\u00f6re g\u00f6r\u00fcnt\u00fclenebilir."
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Kaydetme s\u0131ras\u0131nda herhangi bir hata bildirilmedi\u011fi i\u00e7in i\u015faretli durum kald\u0131r\u0131ld\u0131"
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "Hatalar varken sayfa geri y\u00fcklenemez"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Geri Y\u00fcklenen Sayfa: %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Sayfa geri y\u00fcklenirken hata olu\u015ftu"
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Eklendi durumu: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Kald\u0131r\u0131ld\u0131 durumu: %s"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(yaln\u0131zca varsay\u0131lan dilde)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Benzersiz: \"%s\" sayfa ad\u0131n\u0131n k\u00fcresel olarak benzersiz olmas\u0131n\u0131 gerektir"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "Sil"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "="
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Ne zaman"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Dil"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Ge\u00e7erli"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Ebeveyn"
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Herhangi bir yolu\/URL'yi silebilir veya manuel olarak yenilerini ekleyebilirsiniz."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Y\u00f6nlendirme yolu yok"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Hen\u00fcz de\u011fil"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "\u00d6nceki URL i\u00e7in silinen y\u00f6nlendirme: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Yeni y\u00f6nlendirme URL'leri ekle"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Bu sayfaya y\u00f6nlendirmesi gereken ek yollar\/URL'ler (her sat\u0131ra bir tane) girin."
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Bir sayfa ta\u015f\u0131nd\u0131\u011f\u0131nda veya ad\u0131 de\u011fi\u015fti\u011finde, y\u00f6nlendirmeler i\u00e7in \u00f6nceki konumu hat\u0131rlar\u0131z."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "A\u015fa\u011f\u0131da, bu sayfaya otomatik olarak y\u00f6nlendirilen (301 kal\u0131c\u0131 y\u00f6nlendirme kullanarak) URL'lerin (yollar\u0131n) bir listesi bulunmaktad\u0131r."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Yaln\u0131zca URL yolunu girin (\u00f6r. \"\/merhaba\/dunya\/\"), \u015fema, etki alan\u0131, ba\u011flant\u0131 noktas\u0131, sorgu dizesi veya par\u00e7alar\u0131 EKLEMEY\u0130N."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Yollar site k\u00f6k\u00fcne g\u00f6redir, bu nedenle ba\u015flang\u0131\u00e7ta %s alt dizinini EKLEMEY\u0130N."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Y\u00f6nlendirme i\u00e7in bir dil belirtmek \u00fczere, sat\u0131ra dil ad\u0131n\u0131n \u00f6n ekiyle birlikte yolu\/URL'yi girin:"
         }
     }
 }

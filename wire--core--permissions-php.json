@@ -34,6 +34,18 @@
         },
         "7a3c0039ad0f29f74babc54b9d96467d": {
             "text": "Kullan\u0131c\u0131lar kendi olu\u015fturduklar\u0131 sayfalar\u0131 \u00e7\u00f6pe atabilir (sayfa-silme (page-delete) izni olmadan)."
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "Kullan\u0131c\u0131, herhangi bir roldeki kullan\u0131c\u0131lar\u0131 g\u00f6rebilir (s\u00fcper kullan\u0131c\u0131 dahil)"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "Kullan\u0131c\u0131 kendisini g\u00f6rebilir (zaten ba\u015fka bir izinle olmad\u0131\u011f\u0131nda)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "\u015eu roldeki kullan\u0131c\u0131lar\u0131 g\u00f6r\u00fcnt\u00fcle: %s"
+        },
+        "021ae36974d48cf90a6b204c4abe221b": {
+            "text": "\u00c7oklu dil sayfas\u0131ndaki tek dil alanlar\u0131n\u0131 d\u00fczenleyin"
         }
     }
 }

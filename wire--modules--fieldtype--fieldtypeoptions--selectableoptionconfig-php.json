@@ -17,9 +17,6 @@
         "1465fa2b1c38fd4e8579e84e2b31a6d6": {
             "text": "Girdi i\u00e7in ne kullan\u0131lmal\u0131?"
         },
-        "a6a26b1340a7cbaf1b405484a8a74b98": {
-            "text": "Bir de\u011ferin zorunlu olmas\u0131 i\u00e7in bu \u00f6zelli\u011fin aktif olmas\u0131 gerekiyor."
-        },
         "c3524d56fb147114b84d6e9dd56110a9": {
             "text": "Se\u00e7ene\u011fi sil"
         },
@@ -41,9 +38,6 @@
         "ad560982b535502d63dbf2f46ea8b3a6": {
             "text": "Bu allan ayn\u0131 zamanda se\u00e7ti\u011finiz girdi tipinizin (%s) ve se\u00e7eneklerinizin \u00f6nizlemesidir."
         },
-        "810906cf431b89762465d39dd3402ba7": {
-            "text": "L\u00fctfen not: bu alan i\u00e7in bir de\u011fer her zaman zorunlu de\u011fil ise se\u00e7imleriniz aktif olmayacakt\u0131r. Girdi tab\u0131ndaki alan ayarlar\u0131n\u0131zda bulunan \"zorunlu\" se\u00e7ene\u011fine bak\u0131n."
-        },
         "a088b8e4d1d572f82e2661ab0862f00b": {
             "text": "Hangi girdi tipini se\u00e7ti\u011finize ba\u011fl\u0131 olarak kullan\u0131c\u0131 bir yada birden fazla se\u00e7enek se\u00e7ebiliyor olacak. Baz\u0131 girdi tipleri (AsmSelect gibi) se\u00e7imlerde kullan\u0131c\u0131-s\u0131ralamas\u0131 destekliyor. Baz\u0131 girdi tipleri ayn\u0131 zamanda size girdi tab\u0131n da daha fazla se\u00e7enek sunuyor (kay\u0131t ettikten sonra g\u00f6r\u00fcnebilir)"
         },
@@ -58,6 +52,15 @@
         },
         "d51f7ee41ebdd5252b9a4410e297b306": {
             "text": "Ba\u015fl\u0131klardan ziyade \u00e7\u0131kt\u0131lar almak istiyorsan\u0131z, yukar\u0131daki \u00f6rneklerde \"title\" yerine \"value\" ifadesini kullan\u0131n."
+        },
+        "d8773b3c985910685f4f4aca03604c14": {
+            "text": "Birden \u00e7ok s\u0131ralanabilir de\u011fer"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "L\u00fctfen dikkat: Bu alan zorunlu bir alan olmad\u0131\u011f\u0131 i\u00e7in \u00f6n se\u00e7iminiz aktif de\u011fildir. Alan\u0131n giri\u015f sekmesinde \u201cgerekli\u201d se\u00e7ene\u011fini etkinle\u015ftirin."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "Bu alan zorunlu bir alan oldu\u011fundan \u00f6n se\u00e7im aktiftir."
         }
     }
 }

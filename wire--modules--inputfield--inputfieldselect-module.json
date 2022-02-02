@@ -40,6 +40,30 @@
         },
         "5c6d4a4ac74797a290100dc74f6cd79d": {
             "text": "\u00d6NEML\u0130: Alan gerekli oldu\u011fu s\u00fcrece varsay\u0131lan de\u011fer kullan\u0131lmaz (bu ekrandaki \"gerekli\" onay kutusuna bak\u0131n)."
+        },
+        "be1ae5e510797cd29556ba58e16bb3cd": {
+            "text": "\u00c7oklu dil se\u00e7ene\u011fi etiketlerini kullanmak i\u00e7in l\u00fctfen bu alan\u0131n alt\u0131ndaki talimatlara bak\u0131n."
+        },
+        "e1d42070d11f4e125dd41933a7931336": {
+            "text": "Talimatlar:"
+        },
+        "c3a5b7cc9aad41a355971c9da775b523": {
+            "text": "Sat\u0131r ba\u015f\u0131na bir se\u00e7enek belirtin."
+        },
+        "318d7ecad4ade4ae80008273a964b97d": {
+            "text": "\u00c7ok dilli talimatlar:"
+        },
+        "f79f891c4cdcad35f5c97b6d5abf6338": {
+            "text": "`De\u011ferin` diller aras\u0131nda ayn\u0131 oldu\u011fu ve `etiketin` \u00e7evrildi\u011fi `value=label` kullan\u0131lmas\u0131n\u0131 \u00f6neririz."
+        },
+        "276062e72d8dad493a3c12ee48129c09": {
+            "text": "\u00d6nce varsay\u0131lan dil se\u00e7eneklerinizi tan\u0131mlay\u0131n, ard\u0131ndan di\u011fer dillere kopyalay\u0131p yap\u0131\u015ft\u0131r\u0131n ve etiketleri \u00e7evirin."
+        },
+        "1de150b2c32ea78f720ed5680ede3e36": {
+            "text": "Se\u00e7ilen se\u00e7enekler ve optgroups, varsay\u0131lan dilde tan\u0131mlan\u0131r; di\u011fer giri\u015fler yaln\u0131zca etiket \u00e7evirisi i\u00e7indir."
+        },
+        "6fad098a8ac595a164cf68a53d2669ec": {
+            "text": "\u00c7evrilmeyen etiketler, varsay\u0131lan dil etiketini devral\u0131r."
         }
     }
 }

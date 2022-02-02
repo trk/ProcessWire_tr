@@ -25,6 +25,12 @@
         },
         "3918809b01dd88b1c1c892aec102512b": {
             "text": "Do\u011fru bir formatta E-Posta Adresi"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "\u201c%s\u201d e-postas\u0131 zaten kullan\u0131l\u0131yor, l\u00fctfen farkl\u0131 bir tane kullan\u0131n"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "E-posta, izin verilen maksimum %d karakter uzunlu\u011funu a\u015ft\u0131"
         }
     }
 }

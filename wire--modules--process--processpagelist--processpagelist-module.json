@@ -70,6 +70,18 @@
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Yeni Ekle"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "S\u00fcper kullan\u0131c\u0131 olmayan edit\u00f6rlerin \u00c7\u00f6p Kutusu kullanmas\u0131na izin verilsin mi?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "\u0130\u015faretlendi\u011finde, kullan\u0131c\u0131lar \u00e7\u00f6p kutusundaki sayfalar\u0131 g\u00f6rebilecek (yaln\u0131zca eri\u015fimleri olan sayfalar)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Bu, eri\u015fim kontrol\u00fcn\u00fcn izin verdi\u011fi yerlerde \u201c\u00c7\u00f6p Kutusu\u201d ve \u201cGeri Y\u00fckle\u201d eylemlerini de etkinle\u015ftirecektir."
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Bunun yerine Sayfa ID'sini g\u00f6ster"
         }
     }
 }
