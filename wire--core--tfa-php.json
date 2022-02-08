@@ -1,0 +1,66 @@
+{
+    "file": "wire\/core\/Tfa.php",
+    "textdomain": "wire--core--tfa-php",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "\u0130ptal"
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "L\u00fctfen yap\u0131land\u0131r\u0131n"
+        },
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "ETK\u0130NLE\u015eT\u0130R\u0130LM\u0130\u015e"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "\u0130ki fakt\u00f6rl\u00fc kimlik do\u011frulama etkinle\u015ftirildi!"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Ayarlar\u0131 devre d\u0131\u015f\u0131 b\u0131rakmak veya de\u011fi\u015ftirmek i\u00e7in yukar\u0131daki \u201cYok\u201d se\u00e7ene\u011fini se\u00e7in ve kaydedin."
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "S\u00fcresi dolmu\u015f kod"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "2 fakt\u00f6rl\u00fc kimlik do\u011frulama t\u00fcr\u00fc"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Bir se\u00e7im yapt\u0131ktan veya de\u011fi\u015ftirdikten sonra formu g\u00f6nderin ve yap\u0131land\u0131rmak i\u00e7in buraya d\u00f6n\u00fcn."
+        },
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Kimlik Do\u011frulama Kodu"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "Ge\u00e7ersiz kod"
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "Maksimum denemeye ula\u015f\u0131ld\u0131"
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "Kimlik do\u011frulama kodunu girmeyi atlayan hat\u0131rlanan taray\u0131c\u0131lar\u0131 temizle"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Hat\u0131rlanan taray\u0131c\u0131lar temizlendi"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "Bu bilgisayar\u0131 hat\u0131rla?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Bu bilgisayar\/taray\u0131c\u0131 art\u0131k %d g\u00fcne kadar hat\u0131rlan\u0131yor."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "Taray\u0131c\u0131 ve\/veya konumdaki de\u011fi\u015fiklikler yeni bir kod gerektirebilir."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "Taray\u0131c\u0131 \u00f6nceki oturumdan tan\u0131nd\u0131\u011f\u0131 i\u00e7in kod gerekli de\u011fildi."
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "Kimlik do\u011frulama kodu olu\u015fturma veya g\u00f6nderme hatas\u0131"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "Zaman s\u0131n\u0131r\u0131na ula\u015f\u0131ld\u0131"
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "="
+        }
+    }
+}

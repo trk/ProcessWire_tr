@@ -1,0 +1,216 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--config-php",
+    "translations": {
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Dosyalar"
+        },
+        "130b3d918858ab70e130f882bed5edbe": {
+            "text": "\u0130zin verilen dosya uzant\u0131lar\u0131"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Bu y\u00fckleme alan\u0131 taraf\u0131ndan izin verilen t\u00fcm dosya uzant\u0131lar\u0131n\u0131 girin. Her uzant\u0131y\u0131 bir bo\u015flukla ay\u0131r\u0131n. Nokta veya virg\u00fcl yok. Bu alan b\u00fcy\u00fck\/k\u00fc\u00e7\u00fck harfe duyarl\u0131 de\u011fildir."
+        },
+        "ecc79534d4d067624a9ff21c9007cf0f": {
+            "text": "%s dosya uzant\u0131s\u0131 kald\u0131r\u0131lmal\u0131, beyaz listeye al\u0131nmal\u0131 veya bir [dosya do\u011frulay\u0131c\u0131](%s) mod\u00fcl\u00fc kurulu olmal\u0131d\u0131r."
+        },
+        "02c7048fd25999ef0196b9c702031e69": {
+            "text": "Do\u011frulama olmadan izin verilecek dosya uzant\u0131lar\u0131 (beyaz liste)"
+        },
+        "8d0d44f9431f8dbb6599425c0d0a38a2": {
+            "text": "Bu dosya uzant\u0131lar\u0131n\u0131n [dosya do\u011frulay\u0131c\u0131 mod\u00fcl\u00fc](%s) y\u00fckl\u00fc olmas\u0131 gerekir. G\u00fcvenlik nedeniyle denetlenmeyen uzant\u0131lar devre d\u0131\u015f\u0131 b\u0131rak\u0131ld\u0131."
+        },
+        "3cf5aa280976802bec73910581f4dbe5": {
+            "text": "Dosya do\u011frulama olmadan dosya uzant\u0131s\u0131n\u0131 yoksaymak ve izin vermek i\u00e7in yan\u0131ndaki kutuyu i\u015faretleyin (\u00f6nerilmez)."
+        },
+        "4c8ec65a891b88ab97e4c0ca89b1e161": {
+            "text": "Bir uzant\u0131ya ihtiyac\u0131n\u0131z yoksa, l\u00fctfen onu ge\u00e7erli dosya uzant\u0131lar\u0131 listenizden kald\u0131r\u0131n."
+        },
+        "34f7d8569876cb1a4b73390d2d3528cd": {
+            "text": "Maksimum dosya say\u0131s\u0131"
+        },
+        "de38bb7cf785c7c8bdfc0e1011d3056a": {
+            "text": "(0 de\u011feri limit yok anlam\u0131na gelir)"
+        },
+        "6dab09cc3298db0a1910fa57b90351a2": {
+            "text": "Her dosya, sayfa d\u00fczenleyicide girilen ve \u00f6n u\u00e7ta \u00e7\u0131kt\u0131s\u0131 al\u0131nabilen iste\u011fe ba\u011fl\u0131 a\u00e7\u0131klama metnine sahip olabilir."
+        },
+        "445c10f03463258c5646dfb9ddfc2622": {
+            "text": "\u00d6rne\u011fin, resim dosyalar\u0131 i\u00e7in `<img>` etiketlerini i\u015flerken \"alt\" niteli\u011fi olarak a\u00e7\u0131klama metninin kullan\u0131lmas\u0131 yayg\u0131nd\u0131r."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Metin bi\u00e7imlendiriciler (dosya a\u00e7\u0131klamalar\u0131 i\u00e7in)"
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "\u00c7\u0131kt\u0131 bi\u00e7imlendirmesi etkinken dosya a\u00e7\u0131klamas\u0131na uygulanacak bir veya daha fazla metin bi\u00e7imlendiriciyi (ve bunlar\u0131n s\u0131ras\u0131n\u0131) se\u00e7in. HTML Entity Encoder, minimum olarak \u00f6nerilir."
+        },
+        "32409f0b1cd120b66cea293a46c8032e": {
+            "text": "Dosya etiketleri"
+        },
+        "b55655b900ccd6c743eec6ca69d47a9a": {
+            "text": "Etiketler, her dosyaya e\u015flik edecek \u00f6nceden tan\u0131mlanm\u0131\u015f veya \u00f6zel 1 kelimelik etiketlere sahip olman\u0131z\u0131 sa\u011flar."
+        },
+        "6ab8e7e456ae5d6187a05f5c1a2c40ae": {
+            "text": "Kullan\u0131ld\u0131\u011f\u0131nda, dosyalar herhangi bir say\u0131da etikete sahip olabilir."
+        },
+        "46b47d6ebfaf955b2ea2c4deb8acb7fa": {
+            "text": "Etiketler, bir dosyay\u0131 kategorilere ay\u0131rmak i\u00e7in yararl\u0131 olabilir."
+        },
+        "7a1bc94ff553f83b21c9ad1248543c18": {
+            "text": "\u00d6rne\u011fin, bir `kenar-cubugu` etiketi, bir kenar \u00e7ubu\u011funda otomatik olarak g\u00f6r\u00fcnt\u00fclemek istedi\u011finiz bir resmi belirtebilir."
+        },
+        "4727ffde45e752b8d1c5ec4740b25444": {
+            "text": "Dosya etiketlerini kullan?"
+        },
+        "8d550b9f7f5bde97eac6e78eea9f4ed2": {
+            "text": "Etkinle\u015ftirildi\u011finde, alan ayr\u0131ca her dosya i\u00e7in kullan\u0131c\u0131 taraf\u0131ndan se\u00e7ilen (veya girilen) etiketler i\u00e7in bir se\u00e7enek i\u00e7erecektir."
+        },
+        "b32f1d32240c3f4298baf57f5f0d88b1": {
+            "text": "Kullan\u0131c\u0131 \u00f6nceden tan\u0131mlanm\u0131\u015f etiketler listesinden se\u00e7im yapar"
+        },
+        "18856ebc636a3ce5a3e083ddd831c949": {
+            "text": "Etiketler devre d\u0131\u015f\u0131"
+        },
+        "564d93d129c0a94937b12c4fafa4ad62": {
+            "text": "Kullan\u0131c\u0131 etiketleri metin giri\u015fi ile girer"
+        },
+        "83b7a060baaabcf327d37b63bf72bd63": {
+            "text": "kendi giri\u015flerini yapabilir"
+        },
+        "3dc8049d67dc4088f705f9d94bc48652": {
+            "text": "\u00d6nceden tan\u0131mlanm\u0131\u015f dosya etiketleri"
+        },
+        "43bce07bd160232ee31114541357640c": {
+            "text": "Bir bo\u015flukla ayr\u0131lm\u0131\u015f etiketleri girin. Etiketler harf, rakam, alt \u00e7izgi veya k\u0131sa \u00e7izgi i\u00e7erebilir."
+        },
+        "a0af6bad96d7e79b06174600be6b480b": {
+            "text": "Etiketleri kullanma \u00f6rnekleri"
+        },
+        "30b3b29a9b14045e591d7409bf9b8172": {
+            "text": "\"kenar-cubugu\" etiketli t\u00fcm dosyalar\u0131 g\u00f6ster"
+        },
+        "720288cbab99d3ca6e8994693a15df81": {
+            "text": "Ba\u015fka bir y\u00f6ntem kullanarak yukar\u0131dakiyle ayn\u0131"
+        },
+        "d7c60080cfa6bf0157407cf8e592e9ca": {
+            "text": "etiketi olan bir dosya al\u0131n"
+        },
+        "14d16d497322288077ddb51e1c9bad84": {
+            "text": "T\u00fcm dosyalar i\u00e7in etiketleri g\u00f6r\u00fcnt\u00fcle"
+        },
+        "8faa7616b66ec7990abd90e6eb970b03": {
+            "text": "Belgeler:"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Bi\u00e7imlendirilmi\u015f de\u011fer"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "Sitenizin \u00f6n ucundaki API'den eri\u015fildi\u011finde bu alan\u0131n sa\u011flamas\u0131n\u0131 istedi\u011finiz de\u011fer t\u00fcr\u00fcn\u00fc se\u00e7in."
+        },
+        "c0e161ac2ecec98d0c8bb5f163c4b279": {
+            "text": "\u00c7\u0131kt\u0131 bi\u00e7imlendirmesi kapal\u0131yken, de\u011fer her zaman bir %s dizisidir."
+        },
+        "086247a9b57fde6eefee2a0c4752242d": {
+            "text": "Otomatik"
+        },
+        "4baa1a5e2258639723ac2c8c258297a5": {
+            "text": "(en fazla dosya 1 olarak ayarland\u0131\u011f\u0131nda tek dosya veya bo\u015f, aksi takdirde \u00e7ok dosyal\u0131 \u00f6\u011fe dizisi)"
+        },
+        "a9c9e7818e56124f98fd90168c0bb08c": {
+            "text": "\u00c7ok dosyal\u0131 \u00f6\u011fe dizisi"
+        },
+        "d19baaf6e0b64fcdc34a386b7c2298a6": {
+            "text": "Dolduruldu\u011funda tek dosya, bo\u015f oldu\u011funda bo\u015f"
+        },
+        "c175f71a9a4f1e8a8c4aa7187be25d63": {
+            "text": "\u0130\u015flenmi\u015f i\u015faretleme\/metin dizisi"
+        },
+        "4a989703a6000c30a09f5857fb7f20f0": {
+            "text": "(yap\u0131land\u0131r\u0131labilir)"
+        },
+        "b74176f4828823f7800a9deafd8b0f4d": {
+            "text": "\u00c7oklu dosya kullan\u0131m \u00f6rne\u011fi"
+        },
+        "cc58528899ff92480114494c1a8cbc7e": {
+            "text": "Tek dosya kullan\u0131m \u00f6rne\u011fi"
+        },
+        "1bc580809c796e521316a1a495084d38": {
+            "text": "\u00f6rn."
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Bu alan\u0131n de\u011feri olarak \u00e7\u0131kt\u0131s\u0131n\u0131 almak istedi\u011finiz i\u015flenmi\u015f metin dizesini sa\u011flay\u0131n. Alan birden \u00e7ok \u00f6\u011fe i\u00e7eriyorsa, bu dize birden \u00e7ok kez i\u015flenecektir. Alan hi\u00e7bir \u00f6\u011fe i\u00e7ermiyorsa, bo\u015f bir dize kullan\u0131lacakt\u0131r."
+        },
+        "bc87ae1cea1ec39d98cb68f7198a23a4": {
+            "text": "A\u015fa\u011f\u0131daki yer tutucu etiketlerden herhangi birini kullanabilirsiniz:"
+        },
+        "7b9324fd1b6cc33da6065e0338fd1828": {
+            "text": "\u00d6zel Alanlar"
+        },
+        "464b7386b281c4351c2b22a2968be583": {
+            "text": "\u00d6zel alanlar, her dosyaya meta veri olarak e\u015flik edecek ek metin, say\u0131 ve se\u00e7im alanlar\u0131 tan\u0131mlaman\u0131za olanak tan\u0131r."
+        },
+        "bd02d4cb90800173cbefee03c4e39d1c": {
+            "text": "Dosya a\u00e7\u0131klamas\u0131 ve\/veya etiketlerden daha fazlas\u0131na ihtiyac\u0131n\u0131z oldu\u011funda bunu kullan\u0131n."
+        },
+        "e96b5e4a44489720ddfd5c8f0bc7c8d4": {
+            "text": "Daha fazla bilgi i\u00e7in bkz.: %s."
+        },
+        "674c8abf6416d34295dca28c074b951d": {
+            "text": "Dosyalar\/g\u00f6r\u00fcnt\u00fcler i\u00e7in \u00f6zel alanlar nas\u0131l \u00e7al\u0131\u015f\u0131r?"
+        },
+        "3301a70ba35b82ff2d2c48d2303befd4": {
+            "text": "Her dosya i\u00e7in \u00f6zel alanlar kullan\u0131ls\u0131n m\u0131?"
+        },
+        "edff576be0da9025ff8cdbc845f42557": {
+            "text": "\u00d6zel alanlar \u015fablonu olu\u015fturuldu: %s"
+        },
+        "eddbb22443a358c25b523a2b1ea13a27": {
+            "text": "\u00d6zel alanlar bir \u015fablondan etkinle\u015ftirilir ve y\u00f6netilir."
+        },
+        "ca2a3a8473fef6a68aa88445b8a3f862": {
+            "text": "Her dosya i\u00e7in korumak istedi\u011finiz alanlar\u0131 eklemek veya de\u011fi\u015ftirmek i\u00e7in a\u015fa\u011f\u0131daki \"\u00d6zel alanlar\u0131 d\u00fczenle\" d\u00fc\u011fmesini kullan\u0131n."
+        },
+        "9cd6a4fe3407c8aa92eb4ed3b4066c49": {
+            "text": "\u00c7o\u011fu metin, say\u0131 ve se\u00e7im alan\u0131 burada \u00e7al\u0131\u015f\u0131r, ancak baz\u0131 alan t\u00fcrleri \u00e7al\u0131\u015fmayabilir."
+        },
+        "8aa4af0a95c0601cf5b9ff0db1abdb16": {
+            "text": "\u00d6zel alanlar\u0131 d\u00fczenle"
+        },
+        "2f91f0d53d469e691f68554022e7426b": {
+            "text": "\u00d6zel alanlar \u015fablonu: %s"
+        },
+        "411de45d712bc52bf20397e686ced665": {
+            "text": "Bu alan i\u00e7in \u00f6zel alanlar\u0131 kal\u0131c\u0131 olarak devre d\u0131\u015f\u0131 b\u0131rakmak i\u00e7in %s \u015fablonunu silin."
+        },
+        "b232b3febcd514c94d3a01ec7c90b727": {
+            "text": "\u00d6zel alanlar\u0131 etkinle\u015ftirdi\u011finizde, kaydedin ve ard\u0131ndan bunlar\u0131 yap\u0131land\u0131rmak i\u00e7in buraya d\u00f6n\u00fcn."
+        },
+        "918339f9d2be43fb1343a0999d91f7e2": {
+            "text": "Bu alan i\u00e7in varsay\u0131lan\/yedek de\u011feri i\u00e7eren sayfa"
+        },
+        "f4adf511dd72b27244f802b5ca027eca": {
+            "text": "\u0130ste\u011fe ba\u011fl\u0131 olarak, ayn\u0131 alanda varsay\u0131lan\/yedek de\u011feri i\u00e7erecek bir sayfa se\u00e7in."
+        },
+        "39eb21d8ba89f126ca77c936092fe041": {
+            "text": "Bu ama\u00e7 i\u00e7in \u00f6zel olarak bir sayfa olu\u015fturmak isteyebilirsiniz."
+        },
+        "0debf9bf73234ccd8ef3a4f6f0afc5c8": {
+            "text": "Se\u00e7ilen sayfada bir veya daha fazla dosya ile doldurulmu\u015f bir `%s` alan\u0131 olmal\u0131d\u0131r."
+        },
+        "a0d1f6d231d53462451ca80f74dce859": {
+            "text": "Dosyalar alan\u0131 i\u00e7in giri\u015f alan\u0131 t\u00fcr\u00fc"
+        },
+        "d5d6f34e6e58f9351e36d93c982eff52": {
+            "text": "Bu dosyalar alan\u0131 i\u00e7in girdi toplamak i\u00e7in kullan\u0131lacak alan t\u00fcr\u00fc."
+        },
+        "9cdd19f51364783933fefd557c7cd644": {
+            "text": "Bunu yaln\u0131zca 3. taraf Inputfield mod\u00fcl\u00fc talimatlar\u0131nda talimat verildiyse de\u011fi\u015ftirin."
+        },
+        "d51491292f62e94821f0fb6802cc1849": {
+            "text": "\u00d6zel alanlar i\u00e7in izin verilen Fieldtype mod\u00fclleri"
+        },
+        "100061c6a3b1c84e1a3617988f77bd88": {
+            "text": "\u00dcst\u00fc \u00e7izili t\u00fcrlerin %100 uyumlu olmas\u0131 olas\u0131 de\u011fildir."
+        }
+    }
+}

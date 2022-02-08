@@ -3,10 +3,37 @@
     "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
     "translations": {
         "c425f296c6b905c91fb3f6da1a1702b6": {
-            "text": "\u0130\u015faretleme Kutular\u0131 (Checkboxes)"
+            "text": "Onay kutular\u0131 (Checkboxes)"
         },
         "632ae34b804c1914c3a51af327a3379d": {
-            "text": "\u00c7oklu i\u015faretleme kutular\u0131 (Checkboxes)"
+            "text": "\u00c7oklu onay kutusu ge\u00e7i\u015fleri (Checkboxes)"
+        },
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Se\u00e7enek s\u00fctun geni\u015fli\u011fi"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "G\u00f6r\u00fcn\u00fcm alan\u0131 geni\u015fli\u011fine g\u00f6re kayan veya daralt\u0131lan sabit geni\u015flikli s\u00fctunlarda se\u00e7eneklerin g\u00f6r\u00fcnt\u00fclenmesi i\u00e7in bu ayar\u0131 kullan\u0131n."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "\u00d6rne\u011fin, `100px` veya `10em` gibi bir CSS geni\u015flik numaras\u0131 ve birimi girin. Herhangi bir birim belirtilmezse, `px` (piksel) oldu\u011fu varsay\u0131l\u0131r."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "\u00c7al\u0131\u015fma zaman\u0131nda uygun bir geni\u015fli\u011fi otomatik olarak hesaplamak i\u00e7in `1` say\u0131s\u0131n\u0131 girin."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "En iyi g\u00f6r\u00fcn\u00fcm i\u00e7in, s\u00f6zc\u00fck kayd\u0131rma olmadan en uzun se\u00e7ene\u011fe s\u0131\u011fabilecek bir geni\u015flik girin veya otomatik geni\u015flik i\u00e7in `1` girin."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Se\u00e7enek s\u00fctun miktar\u0131"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Se\u00e7eneklerin s\u00fctunlarda g\u00f6r\u00fcnt\u00fclenmesini istiyorsan\u0131z, kullanmak istedi\u011finiz s\u00fctun say\u0131s\u0131n\u0131 (10'a kadar) girin."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "Se\u00e7enekleri sat\u0131r i\u00e7i olarak yan yana g\u00f6r\u00fcnt\u00fclemek i\u00e7in `1` say\u0131s\u0131n\u0131 girin."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Duyarl\u0131 davran\u0131\u015f i\u00e7in \"se\u00e7enek s\u00fctun geni\u015fli\u011fi\" ayar\u0131n\u0131n tercih edildi\u011fini unutmay\u0131n."
         }
     }
 }

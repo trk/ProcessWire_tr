@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Ge\u00e7ersiz etiket de\u011feri kald\u0131r\u0131ld\u0131: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Se\u00e7ilebilir se\u00e7enekler\/etiketler kayna\u011f\u0131"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Onlar\u0131 burada belirtin"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Belirtti\u011finiz URL'den y\u00fckleyin (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Ajax se\u00e7enekleri\/sayfalar\u0131 kullan\u0131ls\u0131n m\u0131?"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Maksimum etiket\/se\u00e7enek"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Limitsiz olarak 0 kullan\u0131n veya kullan\u0131c\u0131n\u0131n se\u00e7ebilece\u011fi veya girebilece\u011fi maksimum se\u00e7enek\/etiket say\u0131s\u0131n\u0131 girin."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "1 girmenin, giri\u015fin bir metin giri\u015finden \u00e7ok bir se\u00e7im gibi g\u00f6r\u00fcnmesini sa\u011flad\u0131\u011f\u0131n\u0131 unutmay\u0131n."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Yer tutucu metin"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Bo\u015f oldu\u011funda alanda g\u00f6r\u00fcnen iste\u011fe ba\u011fl\u0131 yer tutucu metin."
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Metin Etiketleri"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Kullan\u0131c\u0131 taraf\u0131ndan girilen etiketlerin giri\u015fini veya \u00f6nceden tan\u0131mlanm\u0131\u015f etiketlerin se\u00e7ilmesini sa\u011flar."
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Etkinle\u015ftirildi\u011finde, kullan\u0131c\u0131n\u0131n yazmaya ba\u015flad\u0131\u011f\u0131 ve e\u015fle\u015fen sayfalar i\u00e7in bir URL sorgulad\u0131\u011f\u0131 bir otomatik tamamlama gibi davran\u0131r."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Ayr\u0131ca sorguyu ger\u00e7ekle\u015ftirmek i\u00e7in bir \"Ajax URL'si\" (\"Evet\" se\u00e7ildi\u011finde a\u015fa\u011f\u0131da g\u00f6sterilmi\u015ftir) sa\u011flaman\u0131z gerekecektir. \u00c7al\u0131\u015fan \u00f6rnek kod dahildir."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Etkinle\u015ftirilmedi\u011finde, t\u00fcm se\u00e7ilebilir se\u00e7enekler \u00e7al\u0131\u015fma zaman\u0131nda doldurulacakt\u0131r."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Ajax se\u00e7eneklerinin\/sayfalar\u0131n\u0131n kullan\u0131lmas\u0131, se\u00e7ilebilir sayfalar\u0131n potansiyel miktar\u0131 b\u00fcy\u00fck oldu\u011funda yararl\u0131d\u0131r."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Se\u00e7ilebilecek birka\u00e7 y\u00fcz veya binlerce (veya daha fazla) sayfa oldu\u011funda d\u00fc\u015f\u00fcn\u00fcn."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "\u00d6nceden tan\u0131mlanm\u0131\u015f se\u00e7enekler\/etiketler listesi"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Her sat\u0131rda 1 olacak \u015fekilde \u00f6nceden tan\u0131mlanm\u0131\u015f etiketleri girin. Etiket i\u00e7in ayr\u0131 de\u011fer ve etiket tan\u0131mlamak i\u00e7in sat\u0131rda `value=label` belirtin."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "Etiketler a\u015fa\u011f\u0131da se\u00e7ilen s\u0131n\u0131rlay\u0131c\u0131y\u0131 i\u00e7ermeyebilir, ancak etiketler i\u00e7erebilir."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Her dil i\u00e7in ayr\u0131 etiketler tan\u0131mlamak i\u00e7in, her dil i\u00e7in her bir `value=label` etiketini yeniden girin; burada `value` her biri i\u00e7in ayn\u0131yken `label` farkl\u0131d\u0131r."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "%s URL'si i\u00e7in %s dosyas\u0131ndaki URL i\u015fleyici \u00f6rne\u011fi"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "A\u015fa\u011f\u0131daki \u00f6rne\u011fi kullanmak istiyorsan\u0131z bu URL'yi kopyalay\u0131p yukar\u0131daki alana yap\u0131\u015ft\u0131r\u0131n."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "="
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Bir URL girdi\u011finizde, otomatik tamamlama tarz\u0131nda kullan\u0131c\u0131 giri\u015fiyle e\u015fle\u015fen \u00f6\u011feler i\u00e7in sorgulanacakt\u0131r."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "Verilen URL, i\u00e7inde bir yerde kullan\u0131c\u0131n\u0131n yazd\u0131\u011f\u0131 metinle de\u011fi\u015ftirilecek olan `{q}` yer tutucusunu i\u00e7ermelidir."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Tam bir http\/https URL'si veya g\u00f6reli bir URL belirtebilirsiniz."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "G\u00f6reli bir URL belirtirseniz (\u015fema\/ana bilgisayar olmadan), mevcut \u015fema, ana bilgisayar ve k\u00f6k URL, \u00e7al\u0131\u015fma zaman\u0131nda buna eklenir."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Ayr\u0131ca a\u015fa\u011f\u0131da g\u00f6sterilen \u00f6rnekte oldu\u011fu gibi bir URL i\u015fleyicisi tan\u0131mlaman\u0131z gerekecektir."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "URL yolu `%s` sadece bir \u00f6rnektir, onu istedi\u011finiz \u015feyle de\u011fi\u015ftirmekten \u00e7ekinmeyin."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "Bu \u00f6rnek, etiket olarak kullan\u0131lacak sayfalar\u0131n ba\u015fl\u0131klar\u0131n\u0131 bulur, ancak istedi\u011finiz veri kayna\u011f\u0131n\u0131 kullanabilirsiniz."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "sayfa bulma se\u00e7iciniz burada"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "\"Se\u00e7ilebilir sayfalar\" veya \"Etiket alan\u0131\" ayarlar\u0131n\u0131z\u0131 de\u011fi\u015ftirirseniz, bunun i\u00e7in URL i\u015fleyici kodunuzu da g\u00fcncellemeniz gerekece\u011fini l\u00fctfen unutmay\u0131n."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Ajax URL'nizde bir yerde `{q}` yer tutucusu gereklidir."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Kullan\u0131c\u0131n\u0131n kendi etiketlerini girmesine izin verilsin mi?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Her se\u00e7im yap\u0131ld\u0131ktan sonra a\u00e7\u0131l\u0131r men\u00fc kapat\u0131ls\u0131n m\u0131?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(tek kelimelik etiketler i\u00e7in)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(\u00e7ok kelimeli etiketler i\u00e7in)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Etiket s\u0131n\u0131rlay\u0131c\u0131"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Bo\u015fluk"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "Virg\u00fcl"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "="
+        }
+    }
+}

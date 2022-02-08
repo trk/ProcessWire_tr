@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--config-php",
+    "translations": {
+        "fefc3e3c3400216f77f0b3c6b12adfb7": {
+            "text": "Giri\u015f \u00f6zellikleri"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Varsay\u0131lan g\u00f6r\u00fcnt\u00fc \u0131zgara modu"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "Y\u00f6neticide, resimlerin listesi varsay\u0131lan olarak bu modda g\u00f6r\u00fcnecektir. Kullan\u0131c\u0131, alan\u0131n sa\u011f \u00fcst k\u00f6\u015fesindeki simgelere t\u0131klayarak istedi\u011fi zaman de\u011fi\u015ftirebilir."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Bu g\u00f6rseller alan\u0131n\u0131 yak\u0131n zamanda kulland\u0131ysan\u0131z, bu ayarda herhangi bir de\u011fi\u015fiklik g\u00f6rmeden \u00f6nce \u00e7erezlerinizi temizlemeniz gerekecektir."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Kare \u0131zgara g\u00f6r\u00fcnt\u00fcler"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Orant\u0131l\u0131 \u0131zgara g\u00f6r\u00fcnt\u00fcler"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Dikey liste (ayr\u0131nt\u0131l\u0131)"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Odak noktas\u0131 se\u00e7imi"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Bir g\u00f6r\u00fcnt\u00fcn\u00fcn konusunu se\u00e7mek i\u00e7in s\u00fcr\u00fcklenebilir bir odak noktas\u0131 sa\u011flar. Bu, orant\u0131s\u0131z ekinlerin \u00fcretilmesine yard\u0131mc\u0131 olur."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "G\u00f6r\u00fcnt\u00fcler \"Kare \u0131zgara g\u00f6r\u00fcnt\u00fcleri\" modundayken odak noktas\u0131n\u0131n bir \u00f6nizlemesi de g\u00f6sterilir."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Odak noktas\u0131"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Odak noktas\u0131 ve yak\u0131nla\u015ft\u0131rma"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Devre d\u0131\u015f\u0131"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maksimum g\u00f6r\u00fcnt\u00fc boyutlar\u0131"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "\u0130ste\u011fe ba\u011fl\u0131 olarak, y\u00fcklenen resimlerin maksimum geni\u015fli\u011fini ve\/veya y\u00fcksekli\u011fini girin. Belirtilirse, resimler maksimum geni\u015flik veya y\u00fcksekli\u011fi a\u015ft\u0131\u011f\u0131nda y\u00fckleme s\u0131ras\u0131nda yeniden boyutland\u0131r\u0131lacakt\u0131r. Yeniden boyutland\u0131rma, y\u00fckleme s\u0131ras\u0131nda ger\u00e7ekle\u015ftirilir ve bu nedenle sistemdeki herhangi bir resmi veya API arac\u0131l\u0131\u011f\u0131yla eklenen resimleri etkilemez."
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "JPG, PNG ve GIF resimleri i\u00e7in ge\u00e7erlidir."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "De\u011feri piksel say\u0131s\u0131 olarak girin veya s\u0131n\u0131r olmamas\u0131 i\u00e7in bo\u015f b\u0131rak\u0131n."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Y\u00fcklenen resimler i\u00e7in maksimum geni\u015flik"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Y\u00fcklenen resimler i\u00e7in maksimum y\u00fckseklik"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Maksimum boyutlara nas\u0131l yeniden boyutland\u0131r\u0131l\u0131r"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "\u0130stemci taraf\u0131nda yeniden boyutland\u0131rmay\u0131 kullanmak, y\u00fcklemeden \u00f6nce dosya boyutunu ve boyutlar\u0131n\u0131 k\u00fc\u00e7\u00fcltmenize olanak tan\u0131r."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "\u0130stemci taraf\u0131 yeniden boyutland\u0131rmay\u0131 kullan\u0131rken, l\u00fctfen yukar\u0131daki alanlarda maksimum geni\u015flik * ve* maksimum y\u00fckseklik veya a\u015fa\u011f\u0131daki alanda maksimum megapiksel belirtin."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "M\u00fcmk\u00fcn oldu\u011funda istemci taraf\u0131nda yeniden boyutland\u0131rmay\u0131 kullan\u0131n"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Yaln\u0131zca sunucu taraf\u0131 yeniden boyutland\u0131rmay\u0131 kullan"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Y\u00fcklenen resimler i\u00e7in maksimum megapiksel"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Bu, maksimum geni\u015flik\/y\u00fcksekli\u011fe alternatif olarak kullan\u0131labilir. Bir kayan nokta de\u011feri belirtin."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Yaln\u0131zca istemci taraf\u0131nda yeniden boyutland\u0131rma i\u00e7in ge\u00e7erlidir."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Web siteleri i\u00e7in iyi bir de\u011fer, kabaca 1600x1000 piksel olan 1.7'dir; burada 1600 ve 1000, geni\u015flik veya y\u00fckseklik olabilir."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Di\u011fer \u00f6rnekler:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "JPEG'ler i\u00e7in istemci taraf\u0131 yeniden boyutland\u0131rma kalitesi y\u00fczdesi"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "10 (en d\u00fc\u015f\u00fck kalite\/en k\u00fc\u00e7\u00fck dosya boyutu) ile 100 (en y\u00fcksek kalite\/en b\u00fcy\u00fck dosya boyutu) aras\u0131nda bir say\u0131 belirtin. Varsay\u0131lan 90'd\u0131r."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Maksimum boyutlar\u0131 a\u015fan resimler reddedilsin mi?"
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "\u0130\u015faretlenirse, maksimum geni\u015fli\u011fi\/y\u00fcksekli\u011fi a\u015fan (istemci taraf\u0131nda yeniden boyutland\u0131r\u0131lamayan) resimler yeniden boyutland\u0131r\u0131lmak yerine reddedilir."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Minimum g\u00f6r\u00fcnt\u00fc boyutlar\u0131"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "\u0130ste\u011fe ba\u011fl\u0131 olarak, y\u00fcklenen resimlerin minimum geni\u015fli\u011fini ve\/veya y\u00fcksekli\u011fini girin. Belirtilirse, bu minimum de\u011ferleri kar\u015f\u0131lamayan resimler reddedilecektir."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Y\u00fcklenen resimler i\u00e7in minimum geni\u015flik"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Y\u00fcklenen resimler i\u00e7in minimum y\u00fckseklik"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Portre g\u00f6r\u00fcnt\u00fcleri i\u00e7in min\/maks boyutlar\u0131 de\u011fi\u015ftirilsin mi?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "\u0130\u015faretlenirse, minimum geni\u015flik\/y\u00fckseklik ve maksimum geni\u015flik\/y\u00fckseklik boyutlar\u0131, farkl\u0131 en boy oranlar\u0131na uyum sa\u011flamak i\u00e7in portre resimleriyle de\u011fi\u015ftirilir."
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Yaln\u0131zca sunucu taraf\u0131 yeniden boyutland\u0131rmalar\u0131 i\u00e7in ge\u00e7erlidir."
+        }
+    }
+}

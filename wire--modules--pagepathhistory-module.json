@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PagePathHistory.module",
+    "textdomain": "wire--modules--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Minimum ya\u015f (saniye)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Bir sayfan\u0131n ge\u00e7mi\u015fini, olu\u015fturulduktan bu kadar saniye sonra kaydetmeye ba\u015flay\u0131n. En az 2 veya daha fazla saniye \u00f6nerilir."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Varsay\u0131lan: %s"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "%d ge\u00e7mi\u015f sayfa yolu silindi"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "T\u00fcm sayfa yolu ge\u00e7mi\u015fi silinsin mi?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "\u015eu anda veritaban\u0131nda %d ge\u00e7mi\u015f sayfa yolu var."
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Emin misin?"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Bu bilgiler, otomatik y\u00f6nlendirmeler ve daha fazlas\u0131 i\u00e7in kullan\u0131l\u0131r. Silindikten sonra geri al\u0131namaz. Bunu ger\u00e7ekten yapmak istedi\u011finizi onaylamak i\u00e7in kutuyu i\u015faretleyin."
+        }
+    }
+}

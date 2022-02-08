@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Image\/ImageSizerEngineIMagick\/ImageSizerEngineIMagick.module",
+    "textdomain": "wire--modules--image--imagesizerengineimagick--imagesizerengineimagick-module",
+    "translations": {
+        "cb1c82cfcd691da9c744158115d1ed98": {
+            "text": "y\u00fcklenen dosya '%s' ge\u00e7erli bir resim de\u011fil"
+        },
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "y\u00fcklenen dosya '%s' ge\u00e7erli resimler listesinde de\u011fil"
+        }
+    }
+}

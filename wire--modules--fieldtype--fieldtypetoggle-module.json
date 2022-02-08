@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeToggle.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetoggle-module",
+    "translations": {
+        "261e3b04ea1f3b5603314ddcc479e0cc": {
+            "text": "Ge\u00e7i\u015f alan\u0131n\u0131z\u0131n bi\u00e7imlendirilmi\u015f de\u011ferinin ne olmas\u0131n\u0131 istiyorsunuz?"
+        },
+        "6309837e6ce0a3f0fa946345c7167eb3": {
+            "text": "%s taraf\u0131ndan d\u00f6nd\u00fcr\u00fclen bi\u00e7imlendirilmi\u015f de\u011feri se\u00e7in."
+        },
+        "be626e72635b0ea8fbdafa5d3028fcb4": {
+            "text": "L\u00fctfen di\u011fer t\u00fcm Ge\u00e7i\u015f alan\u0131 ayarlar\u0131 i\u00e7in \"Giri\u015f\" sekmesine bak\u0131n."
+        },
+        "f94e479441f41c15b899438240ca67d1": {
+            "text": "Yukar\u0131dakilerin t\u00fcm\u00fc i\u00e7in, se\u00e7im yap\u0131lmamas\u0131 her zaman bo\u015f bir dize ile temsil edilir."
+        },
+        "fa3b8249dcb2b9a523c69ba62614753f": {
+            "text": "3.\/di\u011fer se\u00e7enek etkinle\u015ftirilirse, 2 tamsay\u0131 ile temsil edilir."
+        },
+        "5e17d8d5bf6e642f015706c44be5b32c": {
+            "text": "Bir sayfan\u0131n \u00e7\u0131kt\u0131 bi\u00e7imlendirmesi kapal\u0131 oldu\u011funda, de\u011fer her zaman 0, 1, 2 (Hay\u0131r, Evet, Di\u011fer i\u00e7in) tamsay\u0131 veya se\u00e7im olmad\u0131\u011f\u0131nda bo\u015f bir dizedir."
+        },
+        "3826ef10fef22663ed856d6a34ae4991": {
+            "text": "Tamsay\u0131 (Integer): 0=hay\u0131r, 1=evet (bi\u00e7imlendirme yok ile ayn\u0131)."
+        },
+        "e4233a81c5260370b0c97ab1ee5364ba": {
+            "text": "Boolean: Evet\/hay\u0131r durumlar\u0131 i\u00e7in do\u011fru veya yanl\u0131\u015f."
+        },
+        "53559d654a38f34b067b188cde584853": {
+            "text": "Dize (String): \"Giri\u015f\" ayarlar\u0131yla yap\u0131land\u0131r\u0131lm\u0131\u015f metin etiketlerini kullan\u0131n."
+        },
+        "047f245cdf987a38461e1a12559ff71a": {
+            "text": "Varl\u0131klar (Entities): Yukar\u0131dakiyle ayn\u0131 (dize) ancak HTML \u00e7\u0131kt\u0131s\u0131 i\u00e7in kodlanm\u0131\u015f varl\u0131k."
+        },
+        "87947648d1451650784ef832cbdc0983": {
+            "text": "A\u00e7\/Kapat (Evet\/Hay\u0131r)"
+        },
+        "ed4f448d518712aadb3a62be1b48236e": {
+            "text": "Bir onay kutusuna alternatif olarak yap\u0131land\u0131r\u0131labilir evet\/hay\u0131r, a\u00e7ma\/kapama alternatifi ve iste\u011fe ba\u011fl\u0131 \u201cdi\u011fer\u201d se\u00e7ene\u011fi."
+        }
+    }
+}

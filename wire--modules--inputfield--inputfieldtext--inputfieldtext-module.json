@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldText\/InputfieldText.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtext--inputfieldtext-module",
+    "translations": {
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 kelime"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "%d kelime"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 karakter"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "%d karakter"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(en az %d gerekli)"
+        },
+        "cd4377f9e686f1024a3d4358bf96235e": {
+            "text": "(%d maks)"
+        },
+        "3c5d93eab9cf5f9c46905bcf44e863af": {
+            "text": "Gerekli desenle e\u015fle\u015fmiyor"
+        },
+        "587a544effd13d88cb89456df1222d73": {
+            "text": "Minimum %1$d karakter gereklidir (\u015fu anda %2$d karakter var)."
+        },
+        "773726357c07d9847f900eef6ed9b6af": {
+            "text": "De\u011fer, izin verilen maksimum %d karakter uzunlu\u011funu a\u015ft\u0131 ve k\u0131salt\u0131ld\u0131."
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Minimum uzunluk"
+        },
+        "9df187935ceb54067692c568b45e042b": {
+            "text": "Bu alan i\u00e7in gerekli olan minimum uzunluk (karakter cinsinden)."
+        },
+        "8eaf7dcee17c55fd550a28c803b47718": {
+            "text": "Alan \"zorunlu\" de\u011filse, minimum uzunluk yaln\u0131zca bir de\u011fer mevcut oldu\u011funda uygulan\u0131r."
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Maksimum uzunluk"
+        },
+        "a4965347ff8523a66897b92fec81e04e": {
+            "text": "Bu alan taraf\u0131ndan izin verilen maksimum uzunluk (karakter cinsinden)."
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "\u201c0\u201d de\u011feri maksimum olmad\u0131\u011f\u0131n\u0131 g\u00f6sterir."
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Saya\u00e7"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Saya\u00e7 yok"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Karakter say\u0131c\u0131"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Kelime say\u0131c\u0131"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "Yukar\u0131daki minimum\/maksimum uzunluk ayarlar\u0131n\u0131 kullan\u0131rken bir karakter sayac\u0131 g\u00f6stermeniz \u00f6nerilir."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Boyut"
+        },
+        "7fcc26bcb0e9d85b555592f97cde9539": {
+            "text": "Bu alan\u0131n g\u00f6r\u00fcnt\u00fclenen geni\u015fli\u011fi (karakter olarak). Tam geni\u015flik i\u00e7in 0'a ayarlay\u0131n."
+        },
+        "0c576bc57cb2f57f4a2632d59599c26e": {
+            "text": "\u015eerit Etiketleri"
+        },
+        "e79dbc99408f4949cb46ad5b73c7408a": {
+            "text": "\u0130\u015faretlendi\u011finde, form i\u015flendi\u011finde t\u00fcm HTML etiketleri giri\u015ften \u00e7\u0131kar\u0131l\u0131r."
+        },
+        "e69230ccdb60475aa38ea2c4cdc72ea0": {
+            "text": "Alan\u0131n HTML'yi desteklemesi gerekmiyorsa bu \u00f6nerilir."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Yer Tutucu Metni"
+        },
+        "dc08a8f73b667ceb56b5a22449e41d3e": {
+            "text": "Bo\u015f oldu\u011funda alanda g\u00f6r\u00fcnen iste\u011fe ba\u011fl\u0131 metin yer tutucu ifadesi."
+        },
+        "57391192dfa1f247ad015a0fe2eca48e": {
+            "text": "Desen"
+        },
+        "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
+            "text": "Giri\u015fte gerekli olacak iste\u011fe ba\u011fl\u0131 normal ifade deseni. Bu, do\u011frulama i\u00e7in hem istemci taraf\u0131nda (HTML5 kal\u0131p \u00f6zelli\u011fi) hem de sunucu taraf\u0131nda kullan\u0131l\u0131r. Alan a\u00e7\u0131klaman\u0131zda gerekli modelin bir \u00f6rne\u011fini sa\u011flad\u0131\u011f\u0131n\u0131zdan emin olun."
+        },
+        "27615527f65d7d865a330397568fe263": {
+            "text": "Kullanabilece\u011finiz ve olu\u015fturabilece\u011finiz kal\u0131p \u00f6rnekleri i\u00e7in [html5pattern.com](http:\/\/html5pattern.com) adresine bak\u0131n."
+        },
+        "68adfe27201a615848e5da595ae9f690": {
+            "text": "Ba\u015flang\u0131\u00e7 De\u011feri"
+        },
+        "c3924ea34ee91e9de3ff80493fce8527": {
+            "text": "Kullan\u0131c\u0131 i\u00e7in \u00f6nceden doldurulmu\u015f iste\u011fe ba\u011fl\u0131 ba\u015flang\u0131\u00e7\/varsay\u0131lan de\u011fer."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Metin"
+        },
+        "03272093fac940815539048b032444ea": {
+            "text": "Tek sat\u0131rl\u0131k metin"
+        }
+    }
+}

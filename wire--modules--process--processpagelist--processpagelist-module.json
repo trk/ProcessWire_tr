@@ -82,6 +82,27 @@
         },
         "69ff054adc667458622b780aabe13d60": {
             "text": "Bunun yerine Sayfa ID'sini g\u00f6ster"
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Alt sayfa miktar t\u00fcr\u00fc"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Sayfa listesinde, uygun oldu\u011funda her sayfan\u0131n yan\u0131nda bir miktar alt \u00f6\u011fe g\u00f6sterilir. Ne t\u00fcr bir miktar g\u00f6stermelidir?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Alt \u00f6\u011feler g\u00f6sterilirken, miktar, kullan\u0131c\u0131 taraf\u0131ndan listelenebilir olsun veya olmas\u0131n t\u00fcm alt \u00f6\u011feleri i\u00e7erir."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Acil alt sayfalar (varsay\u0131lan)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Alt \u00f6\u011feler: alt sayfalar, torunlar, torunlar\u0131n torunlar\u0131 ve\u2026"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Her ikisi de: alt sayfalar\/torunlar"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Her ikisi de: torunlar\/alt sayfalar"
         }
     }
 }

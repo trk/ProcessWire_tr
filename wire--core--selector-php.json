@@ -1,0 +1,162 @@
+{
+    "file": "wire\/core\/Selector.php",
+    "textdomain": "wire--core--selector-php",
+    "translations": {
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "E\u015fittir"
+        },
+        "fca4ff540452f89822f15c83de8bb8c4": {
+            "text": "Verilen de\u011fer ile kar\u015f\u0131la\u015ft\u0131r\u0131ld\u0131\u011f\u0131nda de\u011fer ayn\u0131d\u0131r."
+        },
+        "2fbafa06d82b006195754ddd3bf01edc": {
+            "text": "E\u015fit de\u011fil"
+        },
+        "1a865de2ca7e05f3fa1477b125a1eb3c": {
+            "text": "Verilen de\u011fer ile kar\u015f\u0131la\u015ft\u0131r\u0131ld\u0131\u011f\u0131nda de\u011fer ayn\u0131 de\u011fildir."
+        },
+        "05824b7be006782aaefd1fdb97c71e06": {
+            "text": "B\u00fcy\u00fckt\u00fcr"
+        },
+        "acc783a86f7a99b039300bdc0205245f": {
+            "text": "Kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011fer, verilen de\u011ferden b\u00fcy\u00fck."
+        },
+        "ad647e4ae904c7ed54ee93040d8298c7": {
+            "text": "K\u00fc\u00e7\u00fckt\u00fcr"
+        },
+        "2172d09507f89b8199b4b6cbd100b141": {
+            "text": "Kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011fer verilen de\u011ferden k\u00fc\u00e7\u00fck."
+        },
+        "338131a3a3f4a2649c1d1ed2d2107589": {
+            "text": "B\u00fcy\u00fck veya e\u015fit"
+        },
+        "2d7fc49398b2dadc319c632313444b1c": {
+            "text": "Kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011fer, verilen de\u011ferden b\u00fcy\u00fck veya ona e\u015fit."
+        },
+        "6d3fe9fca3f08ca0a55fd9c655f7b5cf": {
+            "text": "Az veya e\u015fit"
+        },
+        "2b1e18ec3e770ce9cf5c0e74f893b653": {
+            "text": "Kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011fer, verilen de\u011ferden k\u00fc\u00e7\u00fck veya ona e\u015fittir."
+        },
+        "ccb979faf1731ac84eacb61a8a30a309": {
+            "text": "\u0130fade i\u00e7erir"
+        },
+        "d6cafb5b9a6d5fb02a5bf5a2b039b436": {
+            "text": "Verilen metin ile kar\u015f\u0131la\u015ft\u0131r\u0131ld\u0131\u011f\u0131nda de\u011ferde g\u00f6r\u00fcn\u00fcr."
+        },
+        "694fa795bb560275200877a98153bf50": {
+            "text": "Verilen kelime \u00f6be\u011fi veya kelime ile kar\u015f\u0131la\u015ft\u0131r\u0131ld\u0131\u011f\u0131nda de\u011ferde g\u00f6r\u00fcn\u00fcr."
+        },
+        "5aa919e6d2b38f2462d83fd9b2513257": {
+            "text": "Verilen kelime veya deyim, kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011ferin ba\u015f\u0131nda g\u00f6r\u00fcn\u00fcr."
+        },
+        "8e272ff6747ebe4eb258cb9a94b56902": {
+            "text": "Verilen kelime veya kelime \u00f6be\u011fi, kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011ferin sonunda g\u00f6r\u00fcn\u00fcr."
+        },
+        "e0df0786238e11ca0d41f67eaf6d3701": {
+            "text": "Potansiyel olarak ilgili terimleri ve kelime varyasyonlar\u0131n\u0131 dahil etmek i\u00e7in geni\u015fletin."
+        },
+        "64c83a96645ef7012024814ec8667639": {
+            "text": "Verilen t\u00fcm kelimeler, herhangi bir s\u0131rayla, kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011ferde g\u00f6r\u00fcn\u00fcr."
+        },
+        "9e71a2e4d3bd54f1b6474e5f5d8cb130": {
+            "text": "Verilen herhangi bir kelime, herhangi bir s\u0131rayla, kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011ferde g\u00f6r\u00fcn\u00fcr."
+        },
+        "33a59aa39e09c5978b2b2d141957c557": {
+            "text": "Verilen herhangi bir kelime, kar\u015f\u0131la\u015ft\u0131r\u0131lan de\u011ferle e\u015fle\u015fir."
+        },
+        "40fb05e192ca57e10d5c3493ac87ce9a": {
+            "text": "Tam kelimelerle e\u015fle\u015fir."
+        },
+        "bbb78155a83a765a9db9a5a62b5aef13": {
+            "text": "Tam veya k\u0131smi s\u00f6zc\u00fcklerle e\u015fle\u015fir."
+        },
+        "e669879b2f0030034d4e297c9be34893": {
+            "text": "Kelimelerin herhangi bir yerinde k\u0131smi e\u015fle\u015fmeler."
+        },
+        "4d0a9e1a622db2b78f0c76fe3dc69e89": {
+            "text": "S\u00f6zc\u00fcklerin ba\u015flang\u0131c\u0131ndan itibaren k\u0131smi e\u015fle\u015fmeler."
+        },
+        "e9663b6a6cd4707c7c9878be874b384b": {
+            "text": "K\u0131smi, verilen de\u011ferdeki son kelimeyle e\u015fle\u015fir."
+        },
+        "8fe723f4bcc806144c8521349ae0d4c4": {
+            "text": "\u201c fulltext\u201d indeksini kullan\u0131r."
+        },
+        "b95c9268b2e2bd8bf23ac47accef8675": {
+            "text": "\"like\" kullanarak e\u015fle\u015fir."
+        },
+        "5e6b838ff481a8b752ac3b3884880c26": {
+            "text": "Kelime s\u0131n\u0131rlar\u0131na bak\u0131lmaks\u0131z\u0131n e\u015fle\u015fir (\u201clike\u201d kullanarak)."
+        },
+        "b7afa694212b1d893f5322e280dcb0ff": {
+            "text": "\u0130fade i\u00e7erir geni\u015flet"
+        },
+        "aa85104e4a4fe9ab184b7535d9b5267f": {
+            "text": "Gibi metin i\u00e7erir"
+        },
+        "d9e14c66bbffdeccdde58be4d05eb381": {
+            "text": "T\u00fcm kelimeleri i\u00e7erir"
+        },
+        "b6c1660ddf4644820efed7c7341462f2": {
+            "text": "T\u00fcm k\u0131smi kelimeleri i\u00e7erir"
+        },
+        "417f745a9fafc021d1ba351c61410a46": {
+            "text": "Gibi t\u00fcm kelimeleri i\u00e7erir"
+        },
+        "c7dd4f730f3141e14060ef64d9d620bf": {
+            "text": "Canl\u0131 t\u00fcm kelimeleri i\u00e7erir"
+        },
+        "53fe09cda48fac70e10b3770b0d03669": {
+            "text": "T\u00fcm kelimeleri i\u00e7erir"
+        },
+        "24f687d4a2739cb2fa454527c5bcaa94": {
+            "text": "Herhangi bir kelime i\u00e7erir"
+        },
+        "06a1edb024c5ba42ef55fc00a9a69172": {
+            "text": "Herhangi bir k\u0131smi kelime i\u00e7erir"
+        },
+        "d37f826e5014cdf5c92bb5e9d4a6e3fa": {
+            "text": "Gibi herhangi bir kelime i\u00e7erir"
+        },
+        "60349069f28257eaf778759dd771316e": {
+            "text": "Herhangi bir kelime i\u00e7erir"
+        },
+        "5bd610060ed9f4ff92d6dbabc797255a": {
+            "text": "E\u015fle\u015fme i\u00e7erir"
+        },
+        "470da3795c671e23b14b97ec714912bb": {
+            "text": "E\u015fle\u015fmeyi i\u00e7erir geni\u015fletme"
+        },
+        "86a004f4206d0f2133e3aa81d0247c3c": {
+            "text": "Geli\u015fmi\u015f metin arama"
+        },
+        "be60d8e8a8aafeefb880343bcaddb16e": {
+            "text": "De\u011ferleri komutlarla e\u015fle\u015ftirin: +Kelime G\u00d6R\u00dcNMEMEL\u0130D\u0130R, -Kelime G\u00d6R\u00dcNMEMEL\u0130D\u0130R ve \u00f6n eksiz Word g\u00f6r\u00fcnebilir."
+        },
+        "9004a4ff1e6a2ceda507ea1986986057": {
+            "text": "K\u0131smi e\u015fle\u015fme i\u00e7in y\u0131ld\u0131z i\u015fareti ekleyin: \u00c7ubuk veya + \u00c7ubuk, \u00e7ubuk, ah\u0131r, mavna ile e\u015fle\u015fir; while -Bar* onlar\u0131 e\u015fle\u015ftirmeyi engeller."
+        },
+        "1fb86755a88f3b2c83a11aaaaef0d6ad": {
+            "text": "\u0130fadeleri e\u015fle\u015ftirmek i\u00e7in t\u0131rnak i\u015faretleri kullan\u0131n: +(E\u015fle\u015fmeli), -(E\u015fle\u015fmemeli) veya (May Match)."
+        },
+        "13a4a02c365a44407beebb73dddbc554": {
+            "text": "\u0130le ba\u015flar"
+        },
+        "7048f4b88df4ffb23ad8175fc2237e22": {
+            "text": "Gibi ba\u015flar"
+        },
+        "6950a77d131f284826099392fd57701c": {
+            "text": "\u0130le biter"
+        },
+        "0fdd2feb1a1625a723ebb9d9ec57533e": {
+            "text": "Gibi biter"
+        },
+        "4ec9dc2c71f12f57dfccfc105045a3e0": {
+            "text": "Bit d\u00fczeyinde VE"
+        },
+        "ca03f0701dadffbc2a9b6b25da2792d3": {
+            "text": "Verilen tamsay\u0131 de\u011feri, kar\u015f\u0131la\u015ft\u0131r\u0131lan tamsay\u0131 de\u011feriyle bitsel AND ile e\u015fle\u015fir."
+        }
+    }
+}

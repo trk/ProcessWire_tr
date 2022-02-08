@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "G\u00fcncellenen alan \u201c%1$s\u201d \u015femas\u0131: %2$s => %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "\u00d6rne\u011fin:"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Desteklenen toplam rakam say\u0131s\u0131"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Ondal\u0131k noktadan \u00f6nce ve sonra rakamlar\u0131 i\u00e7erir."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999,99 toplam 5 basamakt\u0131r, bu nedenle 5 veya daha y\u00fcksek bir de\u011fer gerektirir."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Ondal\u0131k say\u0131dan sonra mevcut olan basamak say\u0131s\u0131"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Bu de\u011fer, toplam basamak say\u0131s\u0131ndan daha az (veya baz\u0131 durumlarda buna e\u015fit) olacakt\u0131r."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999,99 ve 100,00, ondal\u0131k say\u0131dan sonra 2 basamakl\u0131d\u0131r"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Ondal\u0131k"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Ondal\u0131k say\u0131y\u0131 saklayan alan"
+        }
+    }
+}

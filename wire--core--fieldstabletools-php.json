@@ -1,0 +1,30 @@
+{
+    "file": "wire\/core\/FieldsTableTools.php",
+    "textdomain": "wire--core--fieldstabletools-php",
+    "translations": {
+        "94777a4cdd469b1dc32114c7b148336e": {
+            "text": "%s alan\u0131 i\u00e7in %d bo\u015f sat\u0131r silindi"
+        },
+        "a4db6555067e463d9e1fb57bd771d115": {
+            "text": "Halihaz\u0131rda benzersiz olmayan sat\u0131r(lar) bulundu\u011fundan, benzersiz dizin hen\u00fcz eklenemiyor:"
+        },
+        "f4775f230d3ee4ca1c2dfd515cde799a": {
+            "text": "%d kez g\u00f6r\u00fcn\u00fcr"
+        },
+        "019b1bbcaa4011c7a88e681bc504656c": {
+            "text": "(sayfa ID'leri: %s)"
+        },
+        "a452be585de41c827d68057d84a60524": {
+            "text": "Benzersiz dizin eklendi"
+        },
+        "95295f6c09473739797030905b9e7239": {
+            "text": "Benzersiz dizin kald\u0131r\u0131ld\u0131"
+        },
+        "d019979a29c88c8d69bab3a63388da97": {
+            "text": "Benzersiz"
+        },
+        "2091d533e5569b95274f7f7c93cb5a73": {
+            "text": "\u0130\u015faretlendi\u011finde, verilen bir de\u011fer bu alanda birden fazla kullan\u0131lamaz ve bu nedenle birden fazla sayfada g\u00f6r\u00fcnt\u00fclenmeyebilir."
+        }
+    }
+}

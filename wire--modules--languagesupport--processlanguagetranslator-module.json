@@ -154,6 +154,15 @@
         },
         "77ee287e7787dda03867ac2f9b312990": {
             "text": "Sonraki d\u00fczenlenebilecek bir dosya yok."
+        },
+        "201cd1463929afbbd095c4803262ceae": {
+            "text": "Geri d\u00f6n\u00fc\u015f: \u00c7evrilmedi\u011finde, \u201c%2$s\u201d den \u00e7evrilen \u201c%1$s\u201d metni kullan\u0131l\u0131r."
+        },
+        "24e75fc33422e42d84ba0fc01cdc8579": {
+            "text": "Ayr\u0131ca, bu \u00e7evirileri i\u00e7eren bir CSV dosyas\u0131n\u0131 [indirebilir](%1$s) veya [g\u00f6r\u00fcnt\u00fcleyebilir](%2$s) yapabilir, d\u00fczenleyebilir ve ard\u0131ndan [buraya y\u00fckleyebilirsiniz](%3$s)."
+        },
+        "45f6644c6b04fc718813131f29eb414f": {
+            "text": "Bu dosyan\u0131n metin alan\u0131: %s"
         }
     }
 }

@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "\"%s\" alan\u0131 hen\u00fcz kullan\u0131ma haz\u0131r de\u011fil ve yap\u0131land\u0131r\u0131lmas\u0131 gerekiyor."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Ayarlar hen\u00fcz taahh\u00fct edilmedi."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "L\u00fctfen bu sayfadaki ayarlar\u0131 g\u00f6zden ge\u00e7irin ve kabul etti\u011finizi onaylamak i\u00e7in (hi\u00e7bir \u015feyi de\u011fi\u015ftirmeseniz bile) bir kez daha kaydedin."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "dosya ad\u0131"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Dosyalar"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Bir veya daha fazla dosyay\u0131 depolayan alan"
+        }
+    }
+}

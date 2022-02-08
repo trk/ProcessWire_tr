@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Ba\u015fka bir sayfa \"%s\" ad\u0131n\u0131 kullan\u0131yor ve genel olarak benzersiz olmas\u0131n\u0131 gerektiriyor"
+        },
+        "0bfad70a433eea8a1d6211bc771098b5": {
+            "text": "Ba\u015fka bir kullan\u0131c\u0131 zaten \u201c%s\u201d ad\u0131n\u0131 kullan\u0131yor"
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Ayn\u0131 ebeveyne sahip ba\u015fka bir sayfa zaten \u201c%s\u201d ad\u0131n\u0131 kullan\u0131yor"
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "\"%s\" ad\u0131 ba\u015fka sayfa(lar) taraf\u0131ndan zaten kullan\u0131ld\u0131\u011f\u0131ndan genel olarak benzersiz olarak kullan\u0131lamaz"
+        }
+    }
+}

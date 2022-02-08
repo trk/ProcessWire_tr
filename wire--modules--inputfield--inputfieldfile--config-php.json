@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--config-php",
+    "translations": {
+        "7ed67c541834e8611ff12de806594362": {
+            "text": "Y\u00fckleme i\u00e7in izin verilen dosya uzant\u0131lar\u0131"
+        },
+        "f95a2203d4668a44286d8955c270b809": {
+            "text": "Bir bo\u015flukla ayr\u0131lm\u0131\u015f bir veya daha fazla dosya uzant\u0131s\u0131."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "\u0130zin verilen maksimum dosya say\u0131s\u0131"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=S\u0131n\u0131rs\u0131z"
+        },
+        "831c1d34e1624ee969c96e66273a5b8a": {
+            "text": "Dosya y\u00fcklemeleri"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "ZIP Dosyalar\u0131 \u00c7\u0131kart?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "\u0130\u015faretlenirse, ZIP ar\u015fivleri a\u00e7\u0131l\u0131r ve t\u00fcm ge\u00e7erli dosyalar y\u00fckleme olarak eklenir (bar\u0131nd\u0131rma ortam\u0131 taraf\u0131ndan destekleniyorsa). ZIP y\u00fcklemelerinin i\u015flevsel olmas\u0131 i\u00e7in maksimum dosyalar\u0131n 0 (maks. yok) olarak ayarlanmas\u0131 gerekir."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Mevcut dosyalar\u0131n \u00fczerine yaz?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "\u0130\u015faretlenirse, mevcut bir dosyayla ayn\u0131 ada y\u00fcklenen bir dosya mevcut dosyan\u0131n yerini al\u0131r (a\u00e7\u0131klama ve etiketler kal\u0131r). \u0130\u015faretlenmezse, y\u00fcklenen dosya adlar\u0131 benzersiz olacak \u015fekilde yeniden adland\u0131r\u0131lacakt\u0131r."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "L\u00fctfen bu se\u00e7enek etkinle\u015ftirildi\u011finde, AJAX taraf\u0131ndan y\u00fcklenen dosyalar\u0131n \"kaydet\"i t\u0131klad\u0131\u011f\u0131n\u0131zda de\u011fil, y\u00fckleme s\u0131ras\u0131nda hemen sayfayla birlikte kaydedildi\u011fini unutmay\u0131n. Sonu\u00e7 olarak, \u00f6zel bir gereksiniminiz olmad\u0131k\u00e7a bu se\u00e7ene\u011fi i\u015faretlemeden b\u0131rakmak isteyebilirsiniz."
+        },
+        "43628388b79e6369717cab54df99fc62": {
+            "text": "Dosya a\u00e7\u0131klamalar\u0131"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "A\u00e7\u0131klama alan\u0131 i\u00e7in sat\u0131r say\u0131s\u0131?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Dosya a\u00e7\u0131klama alan\u0131 i\u00e7in mevcut sat\u0131r say\u0131s\u0131n\u0131 girin veya a\u00e7\u0131klama alan\u0131 olmamas\u0131 i\u00e7in 0 girin."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "\u00c7oklu dil a\u00e7\u0131klamalar\u0131 devre d\u0131\u015f\u0131 b\u0131rak\u0131ls\u0131n m\u0131?"
+        },
+        "d2bb3cb572d2e8478e3f5eed6cd914aa": {
+            "text": "Varsay\u0131lan olarak, Dil Deste\u011fi kurulu oldu\u011funda a\u00e7\u0131klamalar \u00e7ok dillidir."
+        },
+        "e1b05eaa8a39a1ff5b825c94b80e77db": {
+            "text": "Dosyalar i\u00e7in \u00e7ok dilli a\u00e7\u0131klamalara ihtiyac\u0131n\u0131z yoksa, bunlar\u0131 buradan devre d\u0131\u015f\u0131 b\u0131rakabilirsiniz."
+        }
+    }
+}
